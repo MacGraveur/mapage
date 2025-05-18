@@ -1,0 +1,41 @@
+---
+categories:
+- Archives
+- Numérique
+- Data
+- OpenData
+- Histoire
+- Colonisation
+- IA
+date : 01-01-2024
+title: Janvier 2024
+image: Nivose.jpg
+---
+Inauguration pour l'année 2024 d'une publication mensuelle de ce que j'ai pu croiser et qui a éveillé mon intérêt. Ceci à travers des livres, articles, podcasts, webinaires, expositions, conférences.
+
+## Lu
+
+* Les Archives municipales de Lyon continuent leur travail de partage et de transparence. Ils ont mis à jour [leurs listes de termes d'indexation](https://www.archives-lyon.fr/pages/indexation-de-la-base-de-donnees). De l'Open Data à bas bruit.
+
+* Découvert totalement par hasard, Aix-Marseille Université propose un [annuaire](https://repertoire-etudes-genre.univ-amu.fr/) d'expert·es des études de genre. Belle valorisation de la science et de sa dimension politique.
+
+* [Célébrations et commémorations nationales en France depuis 1970](https://www.patrimoine-et-numerique.fr/data-visualisations/87-celebrations-et-commemorations-nationales-depuis-1970) Maïwenn Bourdic ([@daieuxetdailleurs](https://framapiaf.org/@daieuxetdailleurs)) nous a préparé un nouveau jeu de données et l'a déposé sur [data.gouv](https://www.data.gouv.fr/fr/datasets/celebrations-et-commemorations-nationales-en-france-depuis-1970/). Une série de visualisations et des premières analyses donnent à voir l'intérêt de telles données pour comprendre la construction du roman national.
+
+
+* [Histoire des services éducatifs d’archives en France, jalons d’éducation artistique et culturelle](https://bbf.enssib.fr/matieres-a-penser/histoire-des-services-educatifs-d-archives-en-france-jalons-d-education-artistique-et-culturelle_71754) : très intéressant retour historique sur l'apparition des services éducatifs dans les services d'archives. Toujours intéressant d'avoir de la profondeur historique sur ces actions qui nous semblent là de tout temps, mais qui ont été lentement construites.
+
+
+## Vu
+ 
+* [Les bases de données à tricoter](https://www.youtube.com/watch?v=qYEtsNym3FM&list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5&index=12&ab_channel=pixeesScienceparticipative) via [@kfort@sciences.re](https://social.sciences.re/@kfort) : Une vidéo pédagogique pour expliquer le principe de bases de données et rappelera des souvenirs émus à ceux ayant connus les cartes perforées. 
+
+* [L’intelligence artificielle au service du travail, des travailleurs et de la société : une utopie concrète ?](https://www.imera.fr/agenda/atelier-lintelligence-artificielle-au-service-du-travail-des-travailleurs-et-de-la-societe-une-utopie-concrete/) Première fois que j'assiste à une intervention d'Antonio Casilli et je n'ai pas été déçu, cela m'apporté quelques nouvelles références à creuser sur la fabrication des IA.
+
+* [Table-ronde : "Colonisations, notre histoire : du global au local".](https://www.musee-histoire-marseille-voie-historique.fr/fr/content/table-ronde%C2%A0-colonisations-notre-histoire-du-global-au-local) Rencontre principalement autour de l'ouvrage "Colonisations, notre histoire" et du projet [MarsImperium](https://marsimperium.hypotheses.org/). Agréablement surpris de voir un amphi de 200 personnes pour assister à ces plus de deux heures de présentation et d'échanges.
+
+
+## Entendu
+
+* [Obéissance et confinement en 2020, avec Théo Boulakia et Nicolas Mariot](http://parolesdhistoire.fr/index.php/2023/12/23/319-obeissance-et-confinement-en-2020-avec-theo-boulakia-et-nicolas-mariot/) : Un podcast qui traite d'attitude des français envers les règles de confinement en 2020. Intéressant notamment du point de vue des méthodologies et corpus convoqués. Un échange qui donne envie de lire leur ouvrage.
+
+* [Une vie sans Internet](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-5-5175902): Un épisode assez étrange du podcast de X. de La Porte, qui interroge Jean-François, 80 ans, membre de sa famille et qui vit donc sans Internet. J'arrive pas à dire ce que j'en retire, des moments m'ont mis plus ou moins mal à l'aise sans que je puisse dire exactement pourquoi.

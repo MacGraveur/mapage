@@ -1,0 +1,47 @@
+---
+categories:
+- Wikipédia
+- Web
+- Maintenance
+- IA
+- Colonisation
+- Histoire
+- Indexation
+date : 03-01-2025
+title: Mars 2025
+image: ventose.jpg
+---
+
+Malgré [#AAFRennes2025](https://framapiaf.org/tags/aafrennes2025) qui m'a pas mal mobilisé, au moins mentalement, voici la veille de ce mois. Avec dans le "vu" deux compte-rendus de conférences. J'espère pouvoir réitérer ce format.
+
+### Lu
+
+* [Attaques contre Wikipédia : ce contributeur nous explique comment fonctionne l'encyclopédie libre et partagée](https://france3-regions.francetvinfo.fr/grand-est/champagne-ardenne/attaques-contre-wikipedia-ce-contributeur-nous-explique-comment-fonctionne-l-encyclopedie-libre-et-partagee-3113800.html) Superbe interview de [Lyokoï](https://piaille.fr/@lyokoi), en ce moment pour lire un long article complet et exact sur Wikipedia fait beaucoup de bien.
+
+* [Quand fragmentation d’Internet rime avec profits](https://aoc.media/analyse/2025/02/27/quand-fragmentation-dinternet-rime-avec-profits/). Intéressante réflexion sur la concentration du web par de très grandes entreprises, et le besoin d'en sortir.
+
+* Le soin des choses numériques, 1 : [Préservation du train d’octets et préservation sémantique](https://digipres.fr/archives/177) par [Bertrand Caron](https://digipres.club/@BertrandCaron@) une réflexion sur la pérennisation numérique à partir de l'ouvrage de Denis et Pontille en plusieurs volets, un second est déjà publié.
+
+### Vu
+
+* [Les sacrifiés de l'IA](https://www.france.tv/documentaires/documentaires-societe/6888928-les-sacrifies-de-l-ia.html). [Exploitation, destruction et techno-fascisme : la face cachée de l'IA](https://video.blast-info.fr/w/xtTpevG3JuJCFoU5uwPCQp) toujours par Antonio Casilli mais dans une version plus courte et peut-être plus pédagogique pour entrer dans le sujet.
+
+J'ai vu sur Mastodon cette intéressante infrographie de [Fanny Ducel](https://social.sciences.re/@FannyDcl) qui me semble en une image donner à voir le sujet.
+
+![faa7fb44131763be](https://hackmd.io/_uploads/H1PEF33ske.png)
+
+* Marseille criminels, conférence de Laurence Montel, le compte-rendu est à lire [ici](https://hackmd.io/@macgraveur80/marseille_crime)
+
+* Soirée de lancement de la plate-forme Mars-Imperium, le compte-rendu à lire [ici](https://hackmd.io/@macgraveur80/marsimperium).
+
+
+### Entendu
+
+* Chez Passion Modernistes : [Cécile et le Rhône](https://passionmedievistes.fr/modernistes-ep-44-cecile-rhone/).
+
+* Chez le cours de l'histoire : [Aimer l’histoire et en faire son métier](https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aimer-l-histoire-et-en-faire-son-metier-2560138). Une belle brochette d'intervenants qui montrent la pluralité des parcours possibles avec un diplome supérieur en histoire.
+
+* Chez [Deux connards dans un bibliobus](https://piaille.fr/@biblioconnards) : [322.420 : indexation, piège à con](https://pdca.st/0AJs) poadcast publié en décembre sur les enjeux de l'indexation pour les bibliothèque et archives, l'actualité aux États-Unis lui donnent un autre relief, même si le propos vaut aussi ici et maintenant. Et merci à eux pour ce magnifique mème.
+
+![1741625822922-redux](https://hackmd.io/_uploads/SkJjUrF21e.jpg)
+

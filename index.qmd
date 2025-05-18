@@ -1,0 +1,11 @@
+---
+title: "Accueil"
+---
+Sur ces page vous trouverez :
+
+* Ma veille mensuelle,
+* Des réalisations numériques,
+* Mes publications dans des revues,
+* Une courte biographie.
+
+Bonne lecture et découverte.

@@ -1,0 +1,47 @@
+---
+categories:
+- Archives
+- Numérique
+- Data
+- OpenData
+- Histoire
+- Colonisation
+- IA
+- OpenGLAM
+- OpenContent
+- Wikipédia
+- Esclavagisme
+- Marseille
+date : 02-01-2024
+title: Février 2024
+image: Pluviose.jpg
+---
+Deuxième volet de cette édition mensuelle. Bonne lecture.
+
+## Lu
+
+* [Lettre annuelle de l’open content 2024](https://www.wikimedia.fr/lettre-annuelle-de-lopen-content/) : Un bilan qui donne toujours envie, et qui d'année en année rend de moins en moins audible les politiques de redevances et de non partage par les institutions culturelles.
+
+* [Vers un service public culturel en biens communs](https://grouan.fr/2023/12/04/creative-commons-certification-projetfinal-vers-un-service-public-culturel-en-biens-communs/). Je n'avais pas lu depuis longtemps les très bons post de [Guillaume Rouan](https://mamot.fr/@grouan). Celui-ci donne des pistes de réflexion sur l'ouverture des données et contenus culturelles, avec quelques limites même dans une structure déjà très avancées et dans une collectivité favorable aux sujets de l'ouverture.
+
+* [Les sources locales du Parti communiste français (1921-2020)](https://francearchives.gouv.fr/fr/article/526498098) : Totalement le genre de projet collectif que nous devrions démultiplier, à notre que les données ont été mis à disposition en #OpenData dès la publication signe que les temps changent.
+
+* [Verdir l’IA : un cheval de Troie pour étendre son usage ?](https://aoc.media/analyse/2024/01/31/verdir-lia-un-cheval-de-troie-pour-etendre-son-usage/) chez AOC. Article sur la difficulté à évaluer l'impact des IA sur nos ressources, et qui lance quelques pistes pour établir des choix politiques éclairés.
+
+* [Les archivistes à l’épreuve du « logiciel métier »](https://journals.openedition.org/socio-anthropologie/13375): article très intéressant, issu du projet de recherche financé par le SIAF, sur l'impact des logiciels métiers pour les archivistes. Certains fils demandent a être tiré. Les écrits sur les archivistes sont rares et précieux, celui-ci me semble très pertinent et sur un angle mort de nos pratiques.
+
+## Vu
+
+* [Occupied, saison 3](https://www.arte.tv/fr/videos/RC-021466/occupied). Nouvelle saison de la série de Jo Nesbø sur Arte.tv, les Russes n'occupent plus la Norvège mais les tensions internes et le racisme anti-russe bouscule la démocratie. Cette saison fait la part belle à la manipulation de l'information via les RSN. Une série politique vraiment plaisante, qui sait se renouveler. Si les tensions géopolitiques vous angoissent passez votre chemin.
+
+* Journée d'archivistique d'Angers : ["données à voir" la visualisation des documents et des données, nouvelle frontière de l'archivistique ?](https://www.linkedin.com/in/journ%C3%A9e-d-archivistique-d-angers-b58b47223/) : J'ai eu la chance d'intervenir et donc de profiter de cette riche journée. J'espère que cela va donner envie à ses étudiants futurs archivistes de triturer leurs données pour les données à voir.
+
+## Entendu
+* Deux épisodes du podcast Quoi de neuf en Histoire :
+
+* [Episode 73, "Traites négrières en France méditerranéenne", Gilbert Buti]\(https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-73-traites-negrieres-en-france-mediterraneenne-gilbert-buti). Le plaisir de réentendre cette voix familière qui m'a accompagné dans mes études d'histoire. Histoire de la traite à Marseille, peu connue, peu traitée qui donne envie d'aller découvrir son dernier ouvrage.
+
+
+* [Episode 68, "Au bord de l'effacement", Anouche Kunt](https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-68-au-bord-de-l-effacement-anouche-kunt) j'ai noté ce passage : _"La responsable des archives [de l'OFPRA] prends l'initiative de me montrer des vieilles boites dans les sous-sols, qui contenaient des documents dont le contenu l'intéressait elle-même et l’interrogeait, parce qu'on voyait bien que c'était des documents administratifs mais personne ne les avaient encore constitués en archives. C'est-à-dire : classés, indexés, tout un processus pour faire d'un amas de papier une archive qui puisse être intelligible et l'objet d'un travail d'histoire"
+
+* [Gérer la dette technique lors de la reprise d’un projet informatique](https://peertube.designersethiques.org/w/93fce474-fd7a-454a-8416-d8120f7faad9) - Anaïs Altun & Sandrine Ricardo. A voir pour comprendre ce qu'est maintenir des projets informatiques. Citation : _"ça rend heureux de gérer la dette technique"_ A régarder en parallèle de l'article _Les archivistes à l’épreuve du « logiciel métier »_ pour faire lien entre le technique, le management et la sociologie des organisations. Notons que vu la faiblesse de la [page wikipédia](https://fr.wikipedia.org/wiki/Dette\_technique) sur ce sujet, il y a encore beaucoup à faire.

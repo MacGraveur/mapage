@@ -1,0 +1,46 @@
+---
+categories:
+- Postcolonial 
+- Markdown
+- Archivistique 
+- IIIF 
+- Bretagne 
+- Femmes 
+- Histoire 
+- Dématérialisation 
+- IA 
+- LGBTQIA+
+date : 05-01-2024
+title: Mai 2024
+image: Floreal.jpg
+---
+
+## Lu
+
+* [Lodel 2, Stylo 2 : le Markdown scientifique entre dans une nouvelle ère](https://www.arthurperret.fr/blog/2024-04-30-le-markdown-scientifique-entre-dans-une-nouvelle-ere.html) court premier retour sur les nouvelles versions de Lodel et Stylo par [A.Perret](https://social.sciences.re/@arthurperret). On notera son enthousiasme, et on rappelera surtout que tout à chacun peu se créer un compte pour utiliser [Stylo](https://stylo.huma-num.fr/) même s'il n'est pas chercheur.
+
+* [National Archives Bans Employee Use of ChatGPT](https://www.404media.co/national-archives-bans-employee-use-of-chatgpt/), les Archives nationales étasuniennes bloquent l'utilisation de ChatGPT pour protéger les données de l'État. Je n'ai que les premières lignes, on aimerait en lire plus.
+
+* [Retours et détours autour de la diffusion](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/33005/winand_annaelle_et_al_2024_retours_detours_autour_diffusion_actes_9e_symposium_gira.pdf). On retrouve les actes de nos collègues archivistes canadiens du GIRA. Pas eu le temps de tout lire évidemment mais à la vue du sommaire c'est alléchant. Ma première lecture a été l'article de Désirée Rochat "Bâtir des écosystèmes archivistiques (ou : ce que l’archivistique et le travail communautaire peuvent apprendre l’un de l’autre)".
+
+* [Projets de diffusion en collaboration avec la fondation Wikimédia](https://archivistesqc.wordpress.com/2024/04/29/wikimedia/). Toujours à Québec, un post de blog sur l'investissement par les archivistes dans les projets "Wiki". Avantage de cette lecture pour un français, on sort des exemples 100 fois mis en avant. Citation : "les contributions wikimédiennes en tant que moyen de promotion s’apparente moins à une approche commerciale de type marketing que la présence sur les réseaux sociaux, c’est-à-dire qu’une présence sur Wikipédia valorise beaucoup plus l’expertise de l’archiviste et la profondeur des fonds d’un centre ou d’un service d’archives que les publications accrocheuses, mais peu étoffées sur Facebook et Twitter"
+
+* [1767 : une belle grève de femmes à Poullaouen](https://www.revue-ballast.fr/1767-une-belle-greve-de-femmes-a-poullaouen/). Citation : "Ce mouvement, mené exclusivement par des femmes issues d’un milieu populaire au sein d’une entreprise qui est loin d’être économiquement insignifiante, n’est pas ordinaire. ". Cet article (hélas) ne le mentionne pas mais le fonds d'archives de la Compagnie est convervée aux Archives départementales du Finistère ([voir cet article](https://hal.science/hal-04282378/document))
+
+* Deux articles sur le numérique responsable. Numéra débunke le ["pipi sous la douche version numérique"](https://www.numerama.com/sciences/1744238-le-principal-geste-des-francais-pour-reduire-limpact-du-numerique-ne-sert-vraiment-a-rien.html), pendant que l'ABF nous propose de vraies belles pistes d'[amélioration de nos pratiques de numérisation patrimoniale](https://bib.vertes.abf.asso.fr/quelles-perspectives-pour-des-politiques-de-numerisation-patrimoniale-ecoresponsables/).
+
+
+## Vu
+
+* [Femmes, informatique et numérique](https://www.youtube.com/watch?v=LTha0QoUZbE&ab_channel=%C3%89colenationaledeschartes-PSL) Valérie Schafer (professeure à l’Université du Luxembourg) a donné en avril dernier une conférence à l'ENC. Retour historique sur la place des femmes dans l'informatique. J'ai noté particulièrement la problématique que peut poser la mise en avant de certaines figures (exceptionnelles) qui ne sont pas représentatives de la réalité globale.
+
+* [Le cyclisme : ses pratiques et ses coureurs](https://francearchives.gouv.fr/fr/article/886507178) FranceArchives propose une première exposition basée sur le protocole IIIF en utilisant les images des services partenaires. Bonne idée pour donner envie de développer les usages du IIIF.
+
+
+## Entendu
+
+* Chez Le MUCEM, Les Procès du siècle – Luttes en partage [« Postcolonial », « néocolonial », « décolonial » : théories, résiliences ou rengaines ?](https://www.mucem.org/programme/postcolonial-neocolonial-decolonial-theories-resiliences-ou-rengaines). Une formule bien dynamique de débat organisé par le MUCEM. On voit à travers cet enregistrement que les mouvements sont moins monolythiques que les détracteurs le font croire. 
+
+* Chez le Code à changer, [Quand l'État a voulu devenir une plateforme](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-9-3818194). Un épisode important, notamment pour un archiviste, afin de remettre du politique dans la réflexion sur la dématérialisation. Une introduction aux travaux de Marie Alauzen (A lire aussi absolument ! ou à [réécouter](https://hackmd.io/@macgraveur80/mars2024#Entendu)).
+
+* Chez LSD [Des mémoires révolutionnaires perdues](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/des-memoires-revolutionnaires-perdues-6619879) qui est le second volet de Pédés réinventer le monde. Un retour la constitution d'archives communautaire, le sens que les participants y donnent. Avec des extraits d'interview des archivistes de [mémoires des sexualités](https://www.memoire-sexualites.org/) à Marseille.

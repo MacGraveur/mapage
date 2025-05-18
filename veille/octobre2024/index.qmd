@@ -1,0 +1,44 @@
+---
+categories:
+- Archives 
+- IA
+- IIIF 
+- Histoire
+- Archivistique
+date : 10-01-2024
+title: Octobre 2024
+image: Vendemiaire.jpg
+---
+
+Un mois d'octobre assez dense, ce qui est très bien pour occuper vos soirées hivernales. 
+
+### Lu
+
+* [L’apprentissage automatique dans les archives](https://vsa-aas.ch/fr/acces-et-communication/lapprentissage-automatique-dans-les-archives/) un intéressant livre blanc des archivistes suisses sur un sujet plus si exploratoire. Le bilan n'est pas techno-béat comme il peut l'être parfois, mais apporte une vraie réflexion métier sur l'usage de nouveaux outils.
+
+* [Hackathon II - Annotation et la segmentation sémantique d'image](https://hnlab.huma-num.fr/blog/2024/10/03/hackathon2-hnlab/). Rex d'Huma-Num d'un hacktahon d'annotation d'image, avec supervision machine. 
+
+* Si vous l'avez râté un thread exceptionnel, sur la dématérialisation de la justice, de @Maitre_Eolas : "[Que je vous raconte la procédure numérique mise en place à Paris. Le PV est toujours rédigé sur un traitement de texte (OpenOff’). Déjà ça pue. Pourquoi un traitement de texte pour une procédure numérique ? Accrochez-vous](https://x.com/maitre_eolas/status/1843648831050920172?s=12&t=p1zvXxSqsyeLTFKpJ7EVOQ)".
+
+* [De l’import jusqu’à l’exposition IIIF](https://media.licdn.com/dms/document/media/D561FAQHmkTUUzcsH8w/feedshare-document-pdf-analyzed/0/1729689062688?e=1730937600&v=beta&t=122K-bN5_5prb8I0VRqCI1OG4xBRHIVgah3FkBwArEs) support de démonstration de traitement de données archivistiques pour aller vers une exploitation en IIIF. Ceci est une plaquette commerciale mais à l'intérêt de montrer que l'intégration de ce standard dans les outils en France continue à bonne cadence. 
+
+* Un bon marronnier : [Les « cahiers de doléances » ont-ils été confisqués ?](https://theconversation.com/les-cahiers-de-doleances-ont-ils-ete-confisques-241766) mais aussi [Michel Barnier veut s’inspirer des cahiers de doléances, cette association n’attend que ça](https://www.huffingtonpost.fr/politique/article/michel-barnier-veut-s-inspirer-des-cahiers-de-doleances-cette-association-n-attend-que-ca_241464.html) et encore [Gilets jaunes : en Île-de-France, des élus réclament « la libération » des cahiers de doléances](https://www.leparisien.fr/hauts-de-seine-92/gilets-jaunes-en-ile-de-france-des-elus-reclament-la-liberation-des-cahiers-de-doleances-22-10-2024-3E6NDQKKSBGZXKC5PV4QF7ZFZI.php) (Attention c'est pas fini - voir ci-dessous)
+
+
+### Vu
+
+*  [La clôture de Numérique en Commun[s] #NEC24](https://www.youtube.com/watch?v=232N7zhp2fQ&ab_channel=Num%C3%A9riqueenCommun%5Bs%5D) quand on a pas pu être à ces journées, on peut quand même profiter des replays (avec une archiviste sur scène) 
+
+* [Quartier Saint-Jean (Marseille)](https://amidesk.com/extra/?-Quartier-Saint-Jean-Marseille-) avant sa destruction. Intéressante production numérique.
+
+* [Réinventer les relations aux usagers des archives](https://francearchives.gouv.fr/fr/article/689545690). Vidéos de la journée du 16 mai 2024 disponible avec les supports. Une première restitution d'un programme de recherche mené pour le SIAF par le laboratoire TEMOS. Ceci en attendant la publication d'un rapport plus complet.
+
+### Entendu
+
+* [Les voix de la Saint-Barthélemy](https://museeprotestant.org/podcast-les-voix-de-la-saint-barthelemy/) podcast en cours à partir du livre _ceux qui tombent_ de J.Foa. J'ai beaucoup apprécié les épidoses "Coulisses" sur la construction de ce podcast.
+
+* Chez Paroles d'histoire [La fabrique des Annales (n°1) : cahiers de doléances contemporains](https://parolesdhistoire.fr/index.php/2024/10/16/352-la-fabrique-des-annales-n1-cahiers-de-doleances-contemporains/) Lancement d'un partenariat entre la célèbre revue et André Loez, on retrouve notamment un échange avec les auteurs d'une étude sur les cahiers de doléances dans la Somme.
+
+* Chez Next on lance un podcast sur les algorithme avec Mathilde Saliou aux manettes, [Algorithmique](https://podcastaddict.com/podcast/next-algorithmique/5372082) propose déjà 3 épisodes.
+
+* Un podcast sur l'archivistique ? On en rêvait Margot Georges est là pour nous et lance [archivistica](https://open.spotify.com/show/1zjmuKCdnJfCm4KOpMShLQ?si=b6df33654df646bd) merci à elle ! ça démarre très bien.

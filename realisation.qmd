@@ -1,0 +1,32 @@
+---
+title: Réalisations
+---
+
+## Frise des directeurices des Archives départementales des Bouches-du-Rhône
+
+```{=html}
+<iframe width="100%" height="500" src="https://tinyurl.com/yn73pten" title="Frise des directeurices des Archives départementales des Bouches-du-Rhône"></iframe>
+```
+[Voir en plein écran](https://tinyurl.com/yn73pten)
+
+## Carte mentale des outils pour l'archivage électronique
+
+```{=html}
+<iframe width="100%" height="500" src="https://framindmap.org/c/maps/1248044/public" title="Carte mentale des outils pour l'archivage électronique"></iframe>
+```
+
+[Voir en plein écran](https://framindmap.org/c/maps/1248044/public)
+
+## Cartes
+
+### Carte des photographies de kiosques alimentaires à Marseille    
+
+```{=html}
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/photographies-de-kiosques-alimentaires-a-marseille_1159709?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/photographies-de-kiosques-alimentaires-a-marseille_1159709?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Voir en plein écran</a></p>
+```
+
+### Cartes des fonds communaux des Archives départementales de la région PACA
+
+```{=html}
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/depots-communaux-en-archives-departementales-de-pa_1187663?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/depots-communaux-en-archives-departementales-de-pa_1187663?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Voir en plein écran</a></p>
+```

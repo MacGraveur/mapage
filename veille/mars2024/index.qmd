@@ -1,0 +1,45 @@
+---
+categories:
+- Dématérialisation
+- Archives
+- Cahiers citoyens 
+- Musique
+- Algérie
+- Numérisation 
+- Genre 
+- Urbex 
+- Islam
+- Histoire 
+- Esclavage
+date : 03-01-2024
+title: Mars 2024
+image: ventose.jpg
+---
+
+Une livraison de mars un peu plus épaisse et surtout avec un peu plus de commentaires de ma part. Cette publication va trouver son format au fil du temps.
+
+## Lu
+
+* [Les missions de la protection de l’enfance entravées par des logiciels défaillants](https://www.lemonde.fr/les-decodeurs/article/2024/02/28/les-missions-de-la-protection-de-l-enfance-entravees-par-des-logiciels-defaillants_6219030_4355770.html) : Sans remettre en cause la problématique des SI, le propos de cet article me semble un miroir du techno-solutionnisme "ça marche pas parce que le logiciel marche pas" donc si le logiciel était une merveille tout serait parfait ? Un axe est ouvert en fin d'article : quels sont les critères utilisés par les Conseils départementaux ? On pourrait rajouter : le nombre d'ETP dédié à ces missions, et le niveau de qualification / compétences, rémunérations, etc.
+
+* La [destruction](https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/gilets-jaunes-c-est-le-plus-gros-corpus-d-expression-citoyenne-qu-on-ait-analyse-en-france-et-peut-etre-dans-le-monde-que-sont-devenus-les-cahiers-de-doleances-2929221.html) (_spoiler non ils n'ont pas été détruits_) des cahiers citoyens un marronier qui agaçe les archivistes, un [fil](https://mastodon.zaclys.com/@Marie_Ranquet/112019267160958568) très clair de [Marie Ranquet](https://mastodon.zaclys.com/@Marie_Ranquet).
+
+
+* [Portraits d'archivistes : archiver la maladie et le soin](https://entre-temps.net/portraits-darchivistes-archiver-la-maladie-et-le-soin-entretien-avec-anne-pascale-saliou/), entretien avec Anne-Pascale Saliou. Le site Entre-Temps poursuit ses portraits d'archives. Ici, une archiviste en milieu hospitalier pyschiatrique. Du sensible, encore et toujours.
+
+* [Wikipédia, démocratie rhétorique](https://www.arthurperret.fr/blog/2024-03-08-wikipedia-democratie-rhetorique.html), [Arthur Perret](https://social.sciences.re/@arthurperret) nous livre une analyse très fine des mécanismes de Wikipédia, sujet au coeur de la polémique au sein de la Wikipédia française sur les morimons et qui a pas mal agité ma timeline sur Mastodon.
+
+## Vu
+
+* « [Sport féminin : réduire l’écart](https://www.journalventilo.fr/agenda/divers/124612/sport-feminin-reduire-l-ecart) ». Conférence animée par Valérie Dufayet qui invite Marion Philippe. Réflexion sur le rapport de genre dans le sport à travers quelques grandes figures.
+
+
+## Entendu
+
+* Chez LSD, [Le Raï, une histoire algérienne »](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/il-etait-une-fois-dans-l-ouest-9855874). Précieuse série pour apprendre un connaître un genre musical, autrement que par ce qu'il en a été en France.
+
+* Chez La cantine brestoise, [Numérisation de l’État et identification des usagers](https://www.lacantine-brest.net/53-numerisation-de-letat-et-identification-des-usagers-avec-marie-alauzen/), avec Marie Alauzen. Une réflexion complexe sur ce qu'est l'identité numérique, et le rôle des services publics.
+
+* Chez LSD, [Maison-Blanche, asile pour femmes abandonnées](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/maison-blanche-asile-pour-femmes-abandonne-8862387) “Il y avait des cartons tout moisis, tout pliés d'humidité et dans lesquels, il y avait des dossiers. Des dossiers de patientes et des dossiers médicaux, et puis des registres de rentrées, de sorties, tout un tas de documents. Il y avait bien sûr les lettres, les ordres de placement, les effets personnels, les avis de pompes funèbres. C'était assez impressionnant."
+
+* chez Paroles d'histoire, [Esclavages en terres d’Islam](http://parolesdhistoire.fr/index.php/2024/03/24/2580/), avec M’hamed Oualdi. L'historien y présente son ouvrage (_L’esclavage dans les mondes musulmans_, Paris, Amsterdam, 2024.). Un échange riche sur le fonds de ce thème mais aussi sur le travail historiographique et méthodologique, le rapport à l'usage publique de l'histoire.

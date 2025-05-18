@@ -1,0 +1,48 @@
+---
+categories:
+- Histoire 
+- Archives 
+- IA 
+- Football 
+- Colonisation
+- Libération 
+- Patrimoine 
+- Gaza 
+- OpenData 
+date : 09-01-2024
+title: Septembre 2024
+image: Fructidor.jpg
+---
+
+Un mois de septembre très marqué par les productions autour des commémorations du 80e anniversaire de la Libération. 
+
+### Lu
+
+* Dans le cadre des commémorations du 80e anniversaire de la Libération du territoire, les Archives départementales du Puy-de-Dôme proposent, en partenariat avec l’Agence des musiques des territoires d’Auvergne (AMTA), [une série de podcasts](https://www.archivesdepartementales.puy-de-dome.fr/n/podcasts/n:841).
+
+* [La destruction des monuments historiques de Gaza, une facette de l’anéantissement](https://www.mediapart.fr/journal/international/300824/la-destruction-des-monuments-historiques-de-gaza-une-facette-de-l-aneantissement) 
+    >"Viser des musées, c’est fondamentalement un ciblage de l’identité palestinienne et de leur propre mémoire et compréhension de leur terre"
+
+Comme un écho un [carnet hypothèses](https://gazahistoire.hypotheses.org/) s'ouvre pour établir un atlas de ces destructions.
+
+* [Rentrée scolaire : des données internes à l'Education nationale révèlent les inégalités d'enseignement entre public et privé](https://www.francetvinfo.fr/france/rentree/enquete-franceinfo-rentree-scolaire-des-donnees-internes-a-l-education-nationale-revelent-les-inegalites-d-enseignement-entre-public-et-prive_6698430.html). Le journaliste Brice Le Borgne malgré le refus du ministère s'est procuré des données sur la répartition des heures d'enseignement. Trois semaines après la publication de son enquête, miracle, l'Éducation nationale publie les jeux de données pour le [public](https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_public/table/?disjunctive.academie&disjunctive.code_departement&disjunctive.libelle_departement&disjunctive.niveau&sort=-num_ligne) et le [privé](https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_prive/table/?disjunctive.academie&disjunctive.code_departement&disjunctive.libelle_departement&disjunctive.niveau&sort=-num_ligne). Cela rappelle le travail d'Alexandre Lechenet sur l'IPS.
+
+* [GLiNER-base](https://huggingface.co/spaces/urchade/gliner_multiv2.1) du LLM couplé à du NER, premiers tests très concluants. ![image](https://hackmd.io/_uploads/Sy6SIjV2C.png)
+
+
+
+### Vu
+
+* [80 ans de la Libération de Chelles](https://patrimoine-archives.chelles.fr/actualites/80-ans-de-la-liberation-de-chelles-53/n:54) Un beau travail qui a dû demander pas mal de recherche. La narration cartographie est une jolie mise en valeur.
+
+* Deux projets du même type mais l'un abouti - [Rouge mémoire](https://rougememoire.com/) - et l'autre en cours -[Archives Reims Football](https://archivesreimsfootball.fr) - : Des statistiques historiques sur deux clubs de football alimentés à partir d'information participative. Bravo aux motivés !
+
+* [Comment produit-on des données ?](https://www.youtube.com/watch?v=Ggn_cSAOGnk&ab_channel=SocioloGeek) - Dans les coulisses de la recherche #4. Une vidéo pédagogique sur la fabrique de la donnée et son usage public, avec l'exemple des données liées au COVID. 
+
+### Entendu
+
+* Chez le Collimateur [Le Débarquement oublié [Le Fil de l'Epée #21]](https://shows.acast.com/collimateur/episodes/le-debarquement-oublie-le-fil-de-lepee-21) avec Claire Miot. Des échanges intéressants sur ce débarquement bien moins connu que celui de Normandie y compris localement. Petit regret que les sources soient exclusivement militaires, car on trouve des fonds dans les services territoriaux aussi bien écrits, photos, que témoignages oraux.
+
+* Chez Paroles d'histoire [Bureau colonial, voix algériennes](https://parolesdhistoire.fr/index.php/2024/09/23/349-bureau-colonial-voix-algeriennes-avec-emmanuel-blanchard/), avec Emmanuel Blanchard. J'ai beaucoup apprécié les propos sur les archivistes et notamment le fait que non ce n'est pas l'histoire qui "découvre" des archives mais bien les archivistes lors des collectes puis classement.
+
+* Chez Op Cit ! [L’Histoire coloniale allemande](https://ihmc.ens.psl.eu/episode-28-histoire-coloniale-allemande-froment-wagemann) avec Delphine Froment et Tobias Wagemann. Une émission qui nous permet d'apprendre les spécificités de l'empire coloniale allemand, notamment sa temporalité très courte comparé aux autres puissances européennes.

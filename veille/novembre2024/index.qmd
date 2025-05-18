@@ -1,0 +1,44 @@
+---
+categories:
+- Histoire 
+- Archives 
+- Cloud 
+- Handicap 
+- Sport 
+- Immigration 
+- Décentralisation
+- Industrie 
+- IA 
+date : 11-01-2024
+title: Novembre 2024
+image: Brumaire.jpg
+---
+
+Une livraison très archives et très Marseille. Et toujours du numérique bien entendu. 
+
+### Lu
+
+* [Loin du “tout-cloud”, l’État lance un nouveau marché d’achat de serveurs informatique](https://acteurspublics.fr/articles/loin-du-tout-cloud-letat-lance-un-nouveau-marche-dachat-de-serveurs-informatiques) 
+>“Les administrations ont encore besoin de serveurs en propre afin de faire tourner des applications qu’elles ne souhaitent pas mettre dans le cloud”
+
+* [De la Calade à la Villette, une balade pour comprendre ce qui se joue dans les data centers](https://marsactu.fr/de-la-calade-a-la-villette-une-balade-pour-comprendre-ce-qui-se-joue-dans-les-data-centers/) toujours du Cloud mais via une ballade marseillais à la découverte des datacenters qui se multiplient sur le port.
+
+* [Portraits d’archivistes : Matthieu Bonicel, archiviste de l’art contemporain](https://entre-temps.net/portraits-darchivistes-matthieu-bonicel-archiviste-de-lart-contemporain/#62662c9c-bf87-4e9e-9eb3-25057cda95f2). Entre-Temps poursuit sa série de portrait d'archivistes, avec des profils assez atypiques. Ici nous entrons dans l'univers de la création contemporaine.
+
+
+### Vu
+
+* ["Un Hangar sur le port"](https://www.france.tv/documentaires/documentaires-societe/6543734-un-hangar-sur-le-port.html), documentaire sur le centre clandestin de rétention d'Arenc (Marseille). O.Bertand revient sur le scandale qui éclata en 1975, notamment à travers des [documents d'archives](https://www.archives13.fr/archive/fonds/FRAD013_11381). Le journaliste a donné des interview à [Marsactu](https://marsactu.fr/lhistoire-oubliee-de-la-prison-clandestine-darenc/) et à [La Provence](https://www.laprovence.com/article/culture-loisirs/1040765218787715/un-hangar-sur-le-port-le-film-du-marseillais-olivier-bertrand-sur-le-centre-darenc-bientot-diffuse-sur-france-3). 
+
+* Les Archives municipales et métropolitaines de Saint-Étienne ont mis en ligne une exposition intitulée ["Coup d’envoi. Sport et handicap, récit d’une aventure stéphanoise"](https://expositionsporthandicap.fr). Le site est agréable et riche de nombreuses archives à lire, ou à écouter. 
+
+* A l'occasion de l'édition d'une [plaquette de présentation des archives régionales](https://x.com/pascal__koenig/status/1859161377828434260), la section des archivistes régionaux de l'AAF nous a concocté [une frise sur l'histoire des Conseils régionaux](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VjcCW4x3E5JBkksHlb68ULporgVsNifB&font=Default&lang=en&initial_zoom=2&height=650). 
+
+### Entendu
+
+* Chez les Lieux de l'éco : [Fos-sur-mer, les horizons de l’industrie lourde](https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-lieux-de-l-eco-10-44-fos-sur-mer-les-horizons-de-l-industrie-lourde-7314046). On y retrouve à la fois l'histoire de ce morceau du port de Marseille mais aussi une étude sur l'impact sur la santé des habitants.
+
+* Chez LSD :  « L’odyssée de la croisière » [Épisode 1/4 : Paquebots : les grandes lignes](https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/paquebots-les-grandes-lignes-5807712)
+
+* Chez Cause Commune- Parlez-moi d'IA :  [le baromètre annuel de l’Observatoire Data Publica ](https://cause-commune.fm/podcast/parlez-moi-d-ia-49/) avec en invité Jacques Priol. 
+> Une mairie c'est pas Facebook, on fait pas n'importe quoi avec les données.

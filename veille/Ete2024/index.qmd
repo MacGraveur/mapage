@@ -1,0 +1,44 @@
+---
+categories:
+- Archives 
+- IA 
+- Wikidata 
+- Histoire 
+- Numérisation 
+- Sport 
+date : 07-01-2024
+title: Eté 2024
+image: Thermidor.jpg
+---
+
+C'était annoncé, une coupure de publication pendant l'été pour mieux se retrouver à la rentrée. 
+
+### Lu
+
+* [28 personnes relaxées dans l’affaire des «Panama Papers»](https://www.letemps.ch/economie/28-personnes-relaxees-dans-l-affaire-des-panama-papers) Au prochain leak, pensez à monter un SAE : 
+> La juge a cependant estimé que les preuves recueillies sur les serveurs du cabinet d’avocats «ne respectaient pas la chaîne de traçabilité» et ne permettaient pas d’établir avec «certitude […] leur authenticité et leur intégrité».
+
+* [La Reconstruction](https://francearchives.gouv.fr/fr/article/865397225) Le portail FranceArchives nous propose un état de source archivistique sur la Reconstruction. Thème qui va occuper sans doute les services patrimoniaux dans les années à venir.
+
+* Recension de la récente traduction de [_Arranger les choses_](https://laviedesidees.fr/Je-range-donc-je-trie). Ouvrage enfin disponible en français, 25 ans après sa parution. A priori peu de chance de ne pas se retrouver dans la pile de livres à lire pour les archivistes.
+
+
+* [Réaliser ses requêtes Sparql grâce à une IA](https://spinach.genie.stanford.edu/). Voilà une IA qui peut changer la vie de mal de monde, fini les galères de rédaction de requête dans Wikidata. Exemple [ici](https://w.wiki/ArCt) (Merci [enroweb](https://qoto.org/@enroweb))
+
+* [Cartographie littéraire de Marseille](https://www.bmvr.marseille.fr/cartographie-litteraire-marseille) ou [lien direct](https://uploads.knightlab.com/storymapjs/d82bb45286159258791c2c8aac0cfc2f/cartographie-litteraire/draft.html) parcourez à travers une storymap Marseille à travers la littérature. 
+
+### Vu
+
+* [Master Class sur la numérisation du patrimoine](https://youtu.be/Uanf8ykXujE?si=5QTCJrdxM75mVYOy). Les limites de la numérisation du patrimoine, de la finitude des ressources, de l'intérêt scientifique. Un échange très intéressant, pour une mise en critique de nos usages. Attention faut bien tout suivre, ça parle de B.Latour et de ses archives.
+
+* [Violette Morris, une femme à abattre](https://www.france.tv/france-5/la-case-du-siecle/6138116-violette-morris-une-femme-a-abattre.html). Son parcours hors norme est de plus en plus médiatisé. Un bon documentaire pour la découvrir si ce n'est déjà le cas. Ne trainez pas le documentaire est disponible jusqu'au 17 septembre seulement.
+
+* [Carte Postale : l'art du cliché ?](https://www.arte.tv/fr/videos/105628-009-A/gymnastique/) Suivons Renaud Epstein dans ses travaux sur les grands ensembles en carte postale. 5 mn bien investies.
+
+### Entendu
+
+* Chez Paroles d'histoire : [Compter les mots, avec Marie Dejoux Léo Dumont et Nicolas Perreaux](http://parolesdhistoire.fr/index.php/2024/07/06/345-compter-les-mots-avec-marie-dejoux-leo-dumont-et-nicolas-perreaux/)
+
+* Chez #1257 (nouveau podcast de la Sorbonne) : [Présentation de trois travaux de thèses en histoire soutenu récemment](https://smartlink.ausha.co/1257-lepodcast). La Sorbonne lance un podcast mettant en valeur 
+
+* Chez programme B : [Les images perdues du premier pas sur la lune](https://www.binge.audio/podcast/programme-b/les-images-perdues-du-premier-pas-sur-la-lune-1-2) Fortement recommandé pour les personnes qui s'intéresse à la pérennisation de l'information. (Merci [Leuleu](https://framapiaf.org/@leuleu))

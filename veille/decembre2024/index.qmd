@@ -1,0 +1,39 @@
+---
+categories:
+- Archives
+- Cahiers citoyens 
+- Colonisation 
+- Nomades
+- Maintenance 
+- Dématérialisation 
+- IIIF
+date : 12-01-2024
+title: Décembre 2024
+image: Frimaire.jpg
+---
+
+### Lu
+
+* [Pérenniser ma numérique éphémérité](https://ploum.net/2024-12-06-perenite-ephemerite.html). [Ploum](https://mamot.fr/@ploum) vous distille quelques conseils sur la pérennisation de vos traces sur le Web et notamment les réseaux sociaux.
+
+* [La maintenance rend-elle forcément réac ?](https://usbeketrica.com/fr/article/la-maintenance-rend-elle-forcement-reac). Usbek & Rica posait une bonne question (en 2022) mais le traitement est finalement assez mauvais de mon point de vue. Déjà une dichotomie droite/gauche quand on interroge un universitaire américain a-t-elle un sens ? Induire qu'il n'y a pas de penser réactionnaire à gauche, est aussi un souci.
+
+* [Dématérialisation et agents surchargés : comment l’administration maltraite les étrangers](https://www.mediapart.fr/journal/france/111224/dematerialisation-et-agents-surcharges-comment-l-administration-maltraite-les-etrangers)
+    >« il y a une violation totale et systématique de la loi depuis la mise en place de la dématérialisation », dénonce l’avocate Elsa Ghanassia. Pour son confrère Laurent Charles, c’est le principe même d’égalité devant les services publics qui n’est plus garanti. Et Delphine Martin de s’interroger sur ce système contreproductif : « L’État paie des frais quand on gagne en justice… Est-ce qu’il ne devrait pas mettre cet argent ailleurs, pour augmenter les moyens en préfecture ? »
+
+### Vu
+
+* [NOMades](https://murdesnomades.mmsh.fr/) : Mur des noms des internés et assignés à résidence en tant que « Nomades » en France de 1939 à 1946.
+    > Le 1er juin 2026, il y aura 80 ans que le dernier interné dit « nomade » quittait le camp des Alliers à Angoulême. Et, pourtant, il n’existe toujours pas de décompte exact des victimes « nomades » de la Seconde Guerre mondiale en France, ni de mémorial nominatif. NOMadeS se donne pour mission de publier leurs noms.
+
+
+* [Les doléances](https://www.france.tv/france-3/nouvelle-aquitaine/la-france-en-vrai-aquitaine/5660031-les-doleances.html) j'ai enfin pris le temps de regarder le documentaire de H.Desplanques. Démarche vraiment intéressante mais j'y vois de nombreux manques sur le sujet "archives", et l'absence criante de témoignage d'archivistes. 
+
+* [liiive Real-time collaborative viewing & annotation for IIIF image collections](https://liiive.now/) pas de bonne veille sans actu IIIF. Ouverture en bêta d'une plateforme d'annotation basé donc sur le IIIF, avec un mode collaboratif après création d'un compte gratuit.
+
+
+### Entendu
+
+* Chez la rédaction de France Culture : [L’impossible histoire des essais nucléaires en Polynésie française](https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/l-impossible-histoire-des-essais-nucleaires-en-polynesie-francaise-5246190). Des arguments de non ouverture toujours aussi peu crédible, les lenteurs de déclassification. Cela rappelle la lutte de l'AAF au sein d'un collectif lors de la [loi PATR](https://www.archivistes.org/-L-acces-aux-archives-classifiees-secret-defense-).
+
+* Chez LSD : [Le Maghreb des ondes, un enjeu colonial](https://www.radiofrance.fr/franceculture/podcasts/serie-le-maghreb-des-ondes-un-enjeu-colonial). Très joli série que l'histoire du Maghreb à travers les sources radiophoniques, cela permet de faire une autre histoire que celle des sources de l'administration coloniale. Point je rale : le premier épisode s'intitule "le mal d'archives" mais n'explicite pas la référence à Derrida, qui est en plus né en Algérie.

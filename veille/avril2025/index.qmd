@@ -1,0 +1,40 @@
+---
+categories:
+- Préservation
+- Patrimoine
+- Colonisation
+- Cartographie
+- RiC
+- Histoire
+date : 04-01-2025
+title: Avril 2025
+image: Germinal.jpg
+---
+
+Un mois un peu bousculé, avec une veille en fait très concentré sur la première quinzaine. A la relecture, je me rends compte qu'on y trouve beaucoup d'oeuvres littéraires et artistiques.
+
+
+### Lu
+
+* Pour démarrer cette veille, la lecture d'un texte poétique et un peu nostalgique sur la production numérique et le rapport au temps. [derrière l'encodage](https://falai.se/journal/encoded-story/)
+
+* Cet [outil](https://www.dpconline.org/digipres/implement-digipres/dpc-ram/download-dpc-ram) à la fois très pointu et totalement aisé à prendre en main pour une auto-évaluation de la maturité de son institution en matière de préservation arrive en V3 et traduit en français.
+
+* [La demoscene enfin reconnue comme patrimoine culturel en France](https://mag.mo5.com/268476/la-demoscene-enfin-reconnue-comme-patrimoine-culturel-en-france/). La demoscene, je n'en avais aucunement entendu parlé, maintenant c'est fait. Merci aux personnes qui se mobilisent pour la patrimoine numérique.
+
+
+### Vu
+
+* Guerre d’Algérie : un [documentaire](https://www.france.tv/france-5/la-case-du-siecle/7025014-algerie-sections-armes-speciales.html) inédit sur l’usage des armes chimiques [déprogrammé par France Télévisions](https://www.lavoixdunord.fr/1563709/article/2025-03-12/guerre-d-algerie-un-documentaire-inedit-sur-l-usage-des-armes-chimiques-par-la). On peut entendre l'historien Christophe Lafaye en parler chez [Nova](https://podcasts.nova.fr/radio-nova-la-derniere/202504062140-lintegrale-la-derniere-du-6-avril-2025-avec-fabrice-riceputi).
+
+* De plus en plus de production cartographique pour accéder aux fonds d'archives. Ici en [Ille-et-Vilaine](https://umap.openstreetmap.fr/fr/map/etablissements-scolaires-et-denseignements-superie_1080984#11/48.5855/-1.7612), à [Lyon](https://www.archives-lyon.fr/documents-remarquables/rechercher-dans-les-lotissements-1924-2006) ou sur des projets plus ambitieux en [Vendée](https://archives.vendee.fr/participer/reconstituez-les-paysages). ça donne quelques idées pour 2026.
+
+* [RICardo](https://ricardo.medialab.sciences-po.fr) (Research on International Commerce) est un projet dédié au commerce entre nations sur une période allant des débuts de la Révolution industrielle à la veille de la Seconde Guerre mondiale. Ce projet déjà ancien m'était totalement passé inaperçu. Une intéressante exploitation de RiC avant même une V 1.0.
+
+### Entendu
+
+* Chez Collège de France le quatrième cours de Patrick Boucheron sur "le sexe et le pouvoir" traite de la [tyrranie masculine](https://podcasts.apple.com/fr/podcast/04-le-sexe-du-pouvoir-la-tyrannie-masculine/id1075748999?i=1000686807371). Si l'ensemble des cours est à écouter, celui-ci est précieux à écouter messieurs.
+
+* Chez Parole d'histoire André Loez reçoit Eric Le Bourhis et Sarah Gensburger pour présenter leur ouvrage [L’autre spoliation des juifs parisiens](https://parolesdhistoire.fr/index.php/2025/04/12/376-lautre-spoliation-des-juifs-parisiens-avec-eric-le-bourhis-et-sarah-gensburger/). Des échanges très intéressants sur les archives et leur matérialités.
+
+* Chez Grand Canal, un [échange](https://www.radiofrance.fr/franceinter/podcasts/grand-canal/grand-canal-du-mardi-23-janvier-2024-9873276) avec Gaëlle Obiégly. Autour de son roman, qui traite de la distinction entre le déchet et l'archive ?

@@ -1,0 +1,40 @@
+---
+categories:
+- Archives 
+- IA 
+- Colonisation 
+- Architecture 
+- Shoah 
+- Opéra 
+- Wikipédia
+date : 01-01-2025
+title: Janvier 2025
+image: Nivose.jpg
+---
+
+On attaque une nouvelle année avec toujours des archives, du numérique comme ingrédiants de base.
+
+
+### Lu
+
+* Names of 425,000 suspected Nazi collaborators published. Hélas seulement [disponible](https://oorlogvoorderechter.nl/) en néerlandais. 
+>In a letter to parliament on 19 December, Culture Minister Eppo Bruins wrote: "Openness of archives is crucial for facing the effects of [the Netherlands'] difficult shared past and to process it as a society." Un joli projet sur le papier qui a viré au crash industriel, je vous laisse creuser le sujet sur le web.
+
+* [À Lyon, des chercheurs enrichissent Wikipédia : comment sont formés ces bénévoles de l’ombre](https://www.leprogres.fr/education/2025/01/01/a-lyon-des-chercheurs-enrichissent-wikipedia-comment-sont-formes-ces-benevoles-de-l-ombre) écho de la résidence de la wikimedienne [@dmontagne](https://mapstodon.space/@dmontagne) dans la PQR.
+
+* [IA : « Nous devons conserver notre souveraineté sur nos données »](https://www.ouest-france.fr/high-tech/intelligence-artificielle/ia-nous-devons-conserver-notre-souverainete-sur-nos-donnees-46af6b92-d1c1-11ef-8aa9-6a8073542db7). Intéressante démarche de Ouest France, je retiens surtout la volonté pour la rédaction de comprendre le fonctionnement plus que d'obtenir un résultat.
+
+### Vu
+
+* [Exposition aux Archives municipales de Marseille](https://archives.marseille.fr/actualites/actualites-1/prochainement-decouvrez-l-exposition-l-opera-de-marseille-une-premiere-19/n:199) pour les cent ans de la reconstruction de l'opéra municipal (suite à l'incendie de 1919). Très jolie exposition présentant les fonds conservées par les Archives mais aussi de nombreux objets, comme des costumes, issus des collections du Musée d'histoire de Marseille. Pour vous donner définitivement envie un [reportage de France Bleue](https://www.francebleu.fr/infos/culture-loisirs/video-l-opera-de-marseille-devoile-ses-coulisses-dans-une-exposition-centenaire-immersive-et-fascinante-7943323)
+
+![archives_expo_opera_invitation](https://hackmd.io/_uploads/BJdc1BHLJl.jpg)
+
+* [L'avenir est entre nos mains. ORT France de 1921 à 1970](https://www.youtube.com/watch?v=Y74BW0nkwoU&ab_channel=ORTFRANCE). Un organisme toujours existant à découvrir. via [mixlamalice](https://social.sciences.re/@mXli1@sciences.re)
+
+
+### Entendu
+
+* Chez Paroles d'hisoire [Dans les archives d’un savant colonial](https://parolesdhistoire.fr/index.php/2025/01/13/364-dans-les-archives-dun-savant-colonial/) Comme souvent chez André Loez est mis en lumière un travail d'historiens en lien avec des archivistes.
+
+* Chez le Code à changer ["Les courbes en folie" : faire de l'architecture avec les ordinateurs](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-20-11-7151548). [Xavier de La Porte](https://mastodon.social/@xporte) nous fait découvrir ce que l'informatique a fait à l'architecture mais en creux, on y retrouve ce qu'elle a fait à beaucoup de processus de production.

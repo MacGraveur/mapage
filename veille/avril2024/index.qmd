@@ -1,0 +1,44 @@
+---
+categories:
+- Archives 
+- Europe 
+- OpenData 
+- Démocratie 
+- Histoire 
+- Communs 
+- Patrimoine 
+date : 04-01-2024
+title: Avril 2024
+image: Germinal.jpg
+---
+
+Un peu plus de variétés pour ce mois d'avril et de belles découvertes pour moi.
+
+## Lu
+
+* [La République des larmes d'E.Fureix](https://journals.openedition.org/rh19/4295) très bel ouvrage d'histoire sur les usages publics des enterrements et des célébrations qui les entourent. 
+
+* Résolution de Conseil de l'Europe sur [Le droit à la liberté d'information: garantir l'accès aux documents historiques](https://pace.coe.int/fr/files/33390). Très intéressante résolution, dans laquelle on peut lire toutes l'importance des enjeux démocratique pour les anciens pays du Bloc de l'Est. En miroir, celle vient questionner un pays comme la France, au passé colonial.
+
+* [De l’ordolibéralisme à l’ordo-communalisme](https://aoc.media/opinion/2024/04/11/de-lordoliberalisme-a-lordo-communalisme/). Article sur les communs qui m'interpelle particulièrement, puisque c'est un thème que j'exploite ces derniers mois. Extrait qui j'espère donnera envie de le lire "À la différence de l’État ordolibéral qui garantit la concurrence libre et non-faussée, un État ordo-communal aurait pour rôle de garantir la coopération libre et solidaire. "
+
+
+## Vu
+
+* [Marseille d’un port à l’autre – 1945 à 1992](https://histoire.bnpparibas/videos/50-ans-de-transformations-du-port-de-marseille-avec-le-youtubeur-guilhem/). La thèse de Fabien Bartolotti, docteur en histoire économique a été lauréate du Prix d’Histoire économique AFHé- BNP Paribas 2021. Afin de valoriser ce travail de recherche, une vidéo a été commanditée au youtubeur Guilhem Jean. 26 mn sur l'histoire du port de Marseille, ceci notamment par le prisme des enjeux écologiques. Spoiler : c'était pas mieux "avant".
+
+* [Les Visages de la Bonne Mère](https://www.youtube.com/watch?v=sbJJDruB3b0&ab_channel=Mano%C3%ABlP%C3%A9nicaud) par Manoël Pénicaud qui a notamment été commissaire pour la magnifique exposition "Lieux saints partagés". Le sillon est ici creusé avec ce documentaire, la Bonne Mère n'appartient qu'aux catholiques. 
+
+* [Toute latitude — La cartographie, c’est du graphisme](https://fotokino.org/agenda/toute_latitude_poullard_monsaingeon/) très jolie exposition chez Fotokino. Des cartes détournées ou non comme objets d'art.
+![signal-2024-04-30-153406_003](https://hackmd.io/_uploads/SJq6md0ZA.jpg)
+
+![signal-2024-04-30-153406_002](https://hackmd.io/_uploads/Skc67_AbC.jpg)
+
+
+## Entendu
+
+* Chez La cantine brestoise, [Données ouvertes, abeilles et démocratie](https://www.lacantine-brest.net/54-donnees-ouvertes-abeilles-et-democratie-avec-samuel-goeta/), avec [Samuel Goëta](https://mastodon.social/@samgoeta).
+
+* Chez Dans l'atelier des historiens, [Paul Taesch par Anatole Le Bras](https://podcast.ausha.co/dans-l-atelier-des-historiens/paul-taesch-par-anatole-le-bras). Nouveau podcast lancé par Science Po Paris. Un historien nous présente une source qui a marqué un basculement dans ses recherches.
+
+* Chez France Culture [Les Penn Sardin, ouvrières en grève](https://www.radiofrance.fr/franceculture/podcasts/serie-les-penn-sardin-ouvrieres-en-greve)

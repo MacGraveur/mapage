@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - _img
+
+website:
+  title: "Mac Graveur"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+        icon: bi-house-door-fill
+      - href: veille/index.qmd
+        icon: bi-bookmark
+        text: Veille
+      - href: realisation.qmd
+        text: Réalisations
+        icon: bi-bricks
+      - href: publication.qmd
+        text: Publications
+        icon: bi-pen-fill
+      - href: about/index.qmd
+        icon: bi-person-bounding-box
+        text: Qui suis-je ?
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+siteurl: https://macgraveur.github.io/testpages/

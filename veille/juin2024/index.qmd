@@ -1,0 +1,33 @@
+---
+categories:
+- Humanités numériques
+- Histoire 
+- IIIF 
+- Sport 
+date : 06-01-2024
+title: Juin 2024
+image: Prairial.jpg
+---
+
+Mois de juin un peu compliqué en termes de veille, et notamment avec une section vu... non vu. On se retrouve certainement en septembre pour livaison de la veille estivale.
+
+### Lu
+
+* [Toulouse, refuge des archives filmiques palestiniennes](https://orientxxi.info/lu-vu-entendu/toulouse-refuge-des-archives-filmiques-palestiniennes,7359)
+> « Le projet était incroyable, elle a passé toute une partie de sa vie à chercher des copies de films, on ne pouvait pas la laisser seule avec ça... »
+
+* [Building a simple IIIF digital library with Tropy, Tropiiify and Canopy](https://literarymachin.es/iiif-tropy-canopy/) Émerge des connecteurs entre différents outils pour profiter au maximum des bénéfices du IIIF.
+
+* [Le pré de foire à Sisteron](https://tepas.mmsh.fr/notices_tepas/fiche-0043/) Un exemple de notice parmi d'autres proposées par TEPAS sur le sport dans la Région PACA, de saison en année olympique.
+
+### Vu
+
+* Rien pour ce mois-ci
+
+### Entendu
+
+* Chez Quoi de neuf en histoire ? : ["Histoire de Jérusalem" avec Vincent Lemire](https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-79-histoire-de-jerusalem-vincent-lemire) Lemire un historien, et citoyen, à lire, écouter, regarder. En ce temps, un peu de pensée complexe cela est tellement précieux.
+
+* Chez Paroles d'histoire : [Le Front populaire au présent, avec Jean Vigreux](http://parolesdhistoire.fr/index.php/2024/06/22/343-le-front-populaire-au-present-avec-jean-vigreux/) Parce que l'historien ne vit pas hors de la cité.
+
+* Chez Passion médiéviste : [Super Joute spécial Bretagne vs Normandie](https://passionmedievistes.fr/super-joute-bretagne-normandie/). Je n'avais jamais écouté ces hors-séries du podcast. Le format est plaisant : débattre des grandes figures historiques pour leur donner des points, le ton est volontairement potaches et détendues. Bémol j'ai trouvé ça un peu long.

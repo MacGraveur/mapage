@@ -1,0 +1,16 @@
+---
+listing:
+  categories: true
+  contents:
+  - '*.qmd'
+  filter-ui: false
+  sort: date desc
+  sort-ui: false
+  type: grid
+page-layout: full
+title: Lu, Vu, Entendu
+title-block-bannerrR: false
+siteurl: https://macgraveur.github.io/testpages/
+---
+
+Chaque mois je partage ici ma veille à travers un triptyque Lu, Vu, Entendu. Ma veille est largement orientée archives, numérique, et histoire mais parfois vous y trouverez d'autres sujets qui m'intéressent.
