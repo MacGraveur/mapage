@@ -1,0 +1,9 @@
+---
+title: Mes lectures
+---
+
+Tableau de bord de mes lectures depuis 2020, réalisée par @Leuleu. Une version en plein écran est disponible à cette url : <https://aldonzel.github.io/dashboard-lecture-julien/dashboard_lectures.html>
+
+```{=html}
+<iframe width="700" height="1000" src="https://aldonzel.github.io/dashboard-lecture-julien/dashboard_lectures.html" title="Carte mentale des outils pour l'archivage électronique"></iframe>
+```

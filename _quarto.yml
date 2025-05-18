@@ -20,6 +20,9 @@ website:
       - href: publication.qmd
         text: Publications
         icon: bi-pen-fill
+      - href: lecture.qmd
+        icon: bi-book
+        text: Mes lectures
       - href: about/index.qmd
         icon: bi-person-bounding-box
         text: Qui suis-je ?
