@@ -2,6 +2,8 @@
 title: Réalisations
 ---
 
+J'ai rassemblé ici quelques productions numériques réalisées dans le cadre professionnels ou non.
+
 ## Frise des directeurices des Archives départementales des Bouches-du-Rhône
 
 ```{=html}

@@ -1,6 +1,8 @@
 ---
 title: "Accueil"
 ---
+Ce site est encore en cours de construction et d'amélioration, il doit à @Leuleu pour le tutorat.
+
 Sur ces page vous trouverez :
 
 * Ma veille mensuelle,
