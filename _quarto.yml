@@ -29,7 +29,7 @@ website:
         text: Qui suis-je ?
     right:
       - icon: rss
-        href: index.xml
+        href: sitemap.xml
 format:
   html:
     theme:
