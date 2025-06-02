@@ -27,6 +27,9 @@ website:
       - href: about/index.qmd
         icon: bi-person-bounding-box
         text: Qui suis-je ?
+    right:
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme:

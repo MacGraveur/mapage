@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 ---
-Ce site est encore en cours de construction et d'amélioration, il doit à [@Leuleu](https://framapiaf.org/@leuleu) pour le tutorat.
+Ce site est encore en cours de construction et d'amélioration. Merci à [@Leuleu](https://framapiaf.org/@leuleu) pour le tutorat.
 
 Sur ces pages vous trouverez :
 
