@@ -14,3 +14,5 @@ siteurl: https://macgraveur.github.io/testpages/
 ---
 
 Chaque mois je partage ici ma veille à travers un triptyque Lu, Vu, Entendu. Ma veille est largement orientée archives, numérique, et histoire mais parfois vous y trouverez d'autres sujets qui m'intéressent.
+
+Illustrations : Les Douze Mois de l'Année - Rijksmuseum, CC0, via Wikimedia Commons

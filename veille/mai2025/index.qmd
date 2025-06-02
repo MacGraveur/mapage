@@ -1,0 +1,35 @@
+---
+categories:
+- Archives 
+- Wikipédia
+- Histoire
+- OpenGLAM
+date : 05-01-2025
+title: Mai 2025
+image: Floreal.jpg
+---
+
+C'est donc le premier mois de veille publié directement sur une page hébergée via mon GitHub. Ceci explique un contenu un peu plus léger.
+
+### Lu
+
+* [Moins de syntaxe, plus de pulsions… Les enjeux de l’écriture à l’ère du numérique](https://theconversation.com/moins-de-syntaxe-plus-de-pulsions-les-enjeux-de-lecriture-a-lere-du-numerique-254151). Ce que le numérique fait à l'écriture.
+
+* [Wikipédia, la fabrique du savoir en commun](https://basta.media/wikipedia-la-fabrique-du-savoir-en-commun ). Une intéressante série en trois volets autour des projets Wiki. Tout n'est pas parfait dans cet univers mais on est loin de la caricature du Point.
+
+* [Le musée de Quimper met en lumière ses œuvres dans Wikipédia](https://www.zdnet.fr/blogs/l-esprit-libre/le-musee-de-quimper-met-en-lumiere-ses-oeuvres-dans-wikipedia-474944.htm).  Que de chemin parcouru quand on voit qu'un musée et une université produisent et partagent que Wikipédia et abondent à WikiCommons. 
+
+* Les tests génétiques récréatifs, ça va moins vous amuser. [23andMe Sale Shows Your Genetic Data Is Worth $17](https://www.404media.co/23andme-sale-shows-your-genetic-data-is-worth-17/)
+
+
+### Vu
+
+* [L'odyssée de l'écriture](https://www.arte.tv/fr/videos/RC-020387/l-odyssee-de-l-ecriture/). Si l'ensemble m'a peu emballé, cela valait la peine au moins pour les derniers éléments concernants la Chine. Vraiment je n'avais aucune idée de ce qui la numérique avait fait à leur écriture.
+
+### Entendu
+
+* Chez le cours de l'histoire, [Histoire et numérique, les images du passé au défi du présent](https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/histoire-et-numerique-les-images-du-passe-au-defi-du-present-7907085) avec comme invité Daniel Foliard et Julien Schuh. Précieux échange sur la photographie, sa numérisation , ses réutilisations (notamment l'IA récemment). 
+
+* Chez Next Écosystème, [une nouvelle série audio dans laquelle explorer les enjeux environnementaux du numérique](https://next.ink/podcast/next-lance-ecosysteme-une-nouvelle-serie-audio-sur-les-enjeux-environnementaux-du-numerique/). Après une série sur l'IA Next s'attaque au sujet de l'environnement.
+
+* Chez LSD, [Les voix du PCF, archives sonores du communisme français](https://www.radiofrance.fr/franceculture/podcasts/serie-les-voix-du-pcf-archives-sonores-du-communisme-francais). Une série à ne pas louper pour les archivistes et à tout ceux qui s'intéressent à la politique. 

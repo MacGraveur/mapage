@@ -154,14 +154,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Ce site est encore en cours de construction et d’amélioration, il doit à <span class="citation" data-cites="Leuleu">@Leuleu</span> pour le tutorat.</p>
-<p>Sur ces page vous trouverez :</p>
+<p>Ce site est encore en cours de construction et d’amélioration, il doit à <a href="https://framapiaf.org/@leuleu"><span class="citation" data-cites="Leuleu">@Leuleu</span></a> pour le tutorat.</p>
+<p>Sur ces pages vous trouverez :</p>
 <ul>
-<li>Ma veille mensuelle,</li>
-<li>Des réalisations numériques,</li>
-<li>Mes publications dans des revues,</li>
-<li>Une courte biographie.</li>
+<li><a href="./veille/">Ma veille mensuelle,</a></li>
+<li><a href="./realisation.html">Des réalisations numériques,</a></li>
+<li><a href="./publication.html">Mes publications dans des revues,</a></li>
+<li><a href="./about/">Une courte biographie.</a></li>
 </ul>
+<p>Il reste encore pas mal de travail pour mieux contextualiser certains contenus mais cela viendra avec le temps.</p>
 <p>Bonne lecture et découverte.</p>
 
 
@@ -257,7 +258,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/macgraveur\.github\.io\/mapage\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
