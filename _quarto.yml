@@ -29,7 +29,7 @@ website:
         text: Qui suis-je ?
     right:
       - icon: rss
-        href: https://macgraveur.github.io/mapage/index.xml
+        href: https://macgraveur.github.io/mapage/sitemap.xml
 format:
   html:
     theme:
