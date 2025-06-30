@@ -27,9 +27,7 @@ website:
       - href: about/index.qmd
         icon: bi-person-bounding-box
         text: Qui suis-je ?
-    right:
-      - icon: rss
-        href: https://macgraveur.github.io/mapage/sitemap.xml
+
 format:
   html:
     theme:

@@ -1,0 +1,48 @@
+---
+categories:
+- Histoire
+- Réseaux sociaux
+- Souveraineté
+- Numérique
+- Dématérialisation
+
+date : 06-01-2025
+title: Juin 2025
+image: Prairial.jpg
+---
+
+Un mois de juin assez dense, j'ai même fait le choix de retirer quelques lectures pour rester digeste. Bon lecture et rendez-vous à la rentrée.
+
+### Lu
+
+* [Faire entendre les sons de la Belle Époque](https://lejournal.cnrs.fr/articles/faire-entendre-les-sons-de-la-belle-epoque). L'archéologie sonore sujet plutôt méconnu mais tellement passionnant.
+
+
+* [L’associatif militant face à la fascisation des réseaux sociaux](https://www.agirparlaculture.be/lassociatif-militant-face-a-la-fascisation-des-reseaux-sociaux/). Partir ? rester ? Allez où ? Si après l'élection de Trump on a pu sentir un mouvement, hélas cet article nous montre bien qu'il y a encore un long chemin pour quitter les réseaux toxiques.
+
+* [Le futur de l’édition scientifique est au format texte](https://www.arthurperret.fr/blog/2025-06-13-le-futur-de-l-edition-scientifique-est-au-format-texte.html). Toujours pertinent de lire les articles d'Arthur Perret. L'approche par la souveraineté et les communs me parle particulièrement.
+
+> Je pense aussi qu’il faut tirer les leçons du Web sémantique : persévérer dans l’ouverture et l’interconnexion mais en explorant peut-être une voie plus low tech, plus soutenable, plus immédiatement pratiquable.
+
+* [Archives du web : pour des partenariats public pirates](https://aoc.media/opinion/2025/06/17/archives-du-web-pour-des-partenariats-public-pirates/). Et si nous repensions notre rôle d'archiviste ? de service public ?
+
+> Le défi des « partenariats public pirates » tente de construire une synergie (fragile, expérimentale) entre structures publiques et autonomie hacker, en voyant dans cette dernière une ressource complice plutôt qu’un adversaire à réprimer
+
+* [Partage des données agricoles : du tracteur au serveur, comprendre l’expérience d’Agdatahub](https://theconversation.com/partage-des-donnees-agricoles-du-tracteur-au-serveur-comprendre-lexperience-dagdatahub-256597) Là aussi souveraineté et numérique.
+
+
+### Vu
+
+* ["Aux origines l’esclavage"](https://la1ere.franceinfo.fr/j-aurais-vraiment-aime-savoir-ou-est-mon-debut-kalash-et-quelques-autres-explorent-leurs-racines-dans-aux-origines-l-esclavage-1580975.html). Totalement emballé par ce documentaire sur l'esclavage, la mémoire en partage, la recherche d'origine. Le fonds est très bien et la forme de narration particulièrement réussie.
+
+* Le dessous des images - Regarder pour mieux voir chez Arte.tv : [Effacez ces images que Trump ne saurait voir !](https://www.arte.tv/fr/videos/121271-048-A/le-dessous-des-images/). Un format court proposé par Arte qui montre la violence des purges voulu par Trump dans les banques d'images publiques.
+
+* [Mr. Bates contre le Post Office](https://www.arte.tv/fr/videos/120400-001-A/mr-bates-contre-le-post-office-1-4/). Une histoire vraie, si vraie qu'aucun scénariste n'aurait réussi à l'imaginer. Mr Bates face au mur de l'administration et de la dématérialisation (loupée).
+
+### Entendu
+
+* [Anachroniques](https://www.radiogrenouille.com/tous-les-programmes/anachroniques/). Je n'avais pas eu encore eu l'occasion de le signaler dans ma veille mais Jérémie Foa et Thomas Glesener proposent une émission chez radio Grenouille (radio locale marseillaise) une émission sur l'actualité des sciences humaines. Pour les non marseillais, le tout est disponible en podcast. 
+
+* Chez Archivistica un épisode qui détone sur la [santé mentale](https://shows.acast.com/archivistica/episodes/680a37c86f5bfb044f5b2d87) chez les archivistes.
+
+* Chez Quoi de neuf en histoire ["Le Coran européen"](https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-125-le-coran-europeen-par-john-tolan). La fachosphère aura eu le mérite de donner une visibilité à ce projet de recherche hérudit. Je recommande particulièrement cet épisode. 
