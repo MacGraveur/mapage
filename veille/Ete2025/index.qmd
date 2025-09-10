@@ -1,0 +1,70 @@
+---
+categories:
+- Sobriété
+- Histoire
+- Marseille
+- Archives
+- IA
+- Patrimoine
+date : 10-09-2025
+title: Eté 2025
+image: Thermidor.jpg
+---
+
+Une livraison un peu spéciale suite à l'été. Tout d'abord dans la section "Lu" vous trouverez de nombreuses ressources sur le patrimoine marseillais et particulièrement en lien avec l'histoire industrialo-portuaire. Ensutie une section "Vu" vide faute de contenu à partager. Et sur la forme j'ai tenté d'évoluer en mettant des citations des contenus en avant.
+
+## Lu
+
+* [À Fos-sur-Mer, un territoire industriel portuaire à l’épreuve de la transition énergétique](https://theconversation.com/a-fos-sur-mer-un-territoire-industriel-portuaire-a-lepreuve-de-la-transition-energetique-260437)
+
+> Ces travaux historiques ont souligné le rôle ambivalent dévolu à l’innovation technologique. Elle peut jouer un rôle clé dans la mesure, la compréhension, la dénonciation puis la réduction des pollutions industrielles, mais aussi faciliter leur acceptation. Ceci à cause des discours qui réduisent les enjeux à des aspects techniques véhiculant l’idée que la technologie finira par réparer ce qu’elle a abîmé.
+
+* [À l’Estaque, le “camembert” de Cousteau échappe à la démolition et reprend des couleurs](https://marsactu.fr/a-lestaque-le-camembert-de-cousteau-echappe-a-la-demolition-et-reprend-des-couleurs/)
+
+> Un projet ancré dans le concret avec un enjeu clair : se réapproprier le littoral, en s’appuyant sur l’espace stratégique que revêt le bâtiment rond. “Le camembert est un lien, une continuité entre la rue et la mer, tout en étant une vitrine pour le DRASSM et le sous-marin, appuie Jonathan Cacchia. Réaménager le lieu, c’est permettre aux deux éléments de ne plus tourner le dos aux Marseillais.”
+
+* [Histoire : le Griffon, ce sous-marin sauvé des griffes de l’oubli à Marseille](https://www.laprovence.com/article/region/19291688183914/histoire-le-griffon-ce-sous-marin-sauve-des-griffes-de-l-oubli)
+
+> Vendu à une société de récupération de métaux, le Griffon a été racheté, il y a quelques années, par un groupe de passionnés issus, notamment, de la Navale, une association marseillaise investie dans la conservation du patrimoine maritime de la Méditerranée, et des Compagnons du SAGA .
+
+* [A Marseille, un temple du prêt-à-porter fait son inventaire colonial](https://www.lemonde.fr/m-le-mag/article/2025/07/17/a-marseille-un-temple-du-pret-a-porter-fait-son-inventaire-colonial_6621702_4500055.html)
+
+> Un passé « comme souvent visible par tous mais illisible pour la plupart d’entre nous », constate le docteur en sciences politiques Paul Max Morin, 37 ans, qui a entrepris de l’expliciter. Embarquant avec lui ses étudiants de deuxième année de sciences politiques dans un projet au nom évocateur : « le coffre-fort de l’Empire ».
+
+* [La couronne de la Bonne Mère retirée et exposée pour la première fois au public](https://madeinmarseille.net/a-la-une-marseille/185951-couronne-bonne-mere/)
+
+> Conçue par le sculpteur Eugène Louis Lequesne grâce à la technique de la galvanoplastie, cette pièce de 150 kilos et 1,50 mètre de diamètre n’avait encore jamais été restaurée. « C’est la première fois qu’elle descend de sa place habituelle au-dessus de la statue.""
+
+* [Quand de jeunes sportifs amateurs deviennent « accros » à leur outil connecté](https://aoc.media/opinion/2025/07/23/quand-de-jeunes-sportifs-amateurs-deviennent-accros-a-leur-outil-connecte/)
+
+> sans chercher à savoir si la dépendance à un dispositif digitalisé existe véritablement, nous avons adopté un point de vue compréhensif, qui prend en considération les discours d’expérience vécue de jeunes sportifs s’auto-catégorisant comme « dépendants », « accros » ou « addicts » à un outil connecté. 
+
+* [Futurs fossilisés : comment les artistes numérisent le patrimoine naturel européen](https://usbeketrica.com/fr/article/futurs-fossilises-comment-les-artistes-numerisent-le-patrimoine-naturel-europeen) 
+
+> La rigueur scientifique n’est pas incompatible avec la sensibilité artistique, insiste Valérie Cornet, chercheuse en biologie à l’UNamur. Et l’approche art-science peut rendre la recherche plus accessible au grand public.
+
+* [Les images générées par IA sont de plus en plus jaunes, et avec la « consanguinité » ça va s’aggraver](https://www.huffingtonpost.fr/tech-futurs/video/les-images-generees-par-ia-sont-de-plus-en-plus-jaunes-et-avec-la-consanguinite-ca-va-s-aggraver_252892.html)
+
+> Si un modèle consanguin s’effondre, il peut donc se mettre à « halluciner ». Il peut aussi commencer à générer des images pas du tout naturelles, voire particulièrement jaunes. 
+
+* [Guerre d’Algérie : ce que les difficultés d’accès aux archives disent de notre démocratie](https://theconversation.com/guerre-dalgerie-ce-que-les-difficultes-dacces-aux-archives-disent-de-notre-democratie-261053)
+
+> L’intention du législateur est de rendre incommunicables perpétuellement : les documents qui permettent de conceptualiser le fonctionnement d’une arme nucléaire, biologique ou chimique ; ceux qui expliquent comment techniquement les assembler ; ceux qui expliquent comment utiliser ces armes et ceux qui indiqueraient où les trouver. Ce sont essentiellement des archives techniques et non des documents historiques. Malheureusement, plus d’une décennie plus tard, cet article est détourné de son sens.
+
+## Vu
+
+Un été sans vidéo, ni conférence. Alors rien vu !
+
+## Entendu
+
+* Chez NEXT [Écosystème 7/7] [Numérique sobre, numérique démocratique](https://next.ink/podcast/ecosysteme-7-7-numerique-sobre-numerique-democratique/). J'ai pas été totalement convaincu pas toute la série mais ce dernier épisode est vraiment très intéressant, notamment car à l'intervenante, [Louise Vialard](https://metropole.nantes.fr/ma-ville-ma-metropole/nantes-et-ses-11-quartiers/elus-municipaux/louise-vialard) qui place bien le sujet du numérique comme un choix numérique, y compris dans une collectivité.
+
+* Chez l'atelier des historiens, on retrouve Émilien Ruiz et [son travail sur les effectifs dans la fonction publique](https://smartlink.ausha.co/dans-l-atelier-des-historiens/fonction-publique-des-statistiques-pour-quelles-politiques). Au-delà du sujet et de son traitement, je trouve intéressant de suivre le parcours d'un chercher qui ne s'était pas destiné à ce sujet.
+
+* Chez la Cantine brestoise [Patrimoine et 3D immersive](https://www.lacantine-brest.net/57-patrimoine-et-3d-immersive-avec-marie-morgane-abiven/), avec Marie-Morgane Abiven. L'utilisation de la 3D dans le patrimoine comme objet scientifique et de médiation.
+
+* Chez France Culture [Du fonds Radio France à Gallica : quand les archives inspirent la fiction](https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins-d-ete/faire-vivre-les-archives-5436449). Bon pas mal de choses mélangées (notamment des trucs qui non ne sont pas des archives), mais ça vaut le coup d'entendre Jaenada parler aussi bien des archives (et des archivistes).
+
+
+
+
