@@ -6,7 +6,7 @@ categories:
 - Archives
 - IA
 - Patrimoine
-date : 10-09-2025
+date : 09-10-2025
 title: Eté 2025
 image: Thermidor.jpg
 ---
