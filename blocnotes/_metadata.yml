@@ -1,0 +1,9 @@
+format:
+  html:
+    df-print: paged
+    toc: true
+    lang: fr
+    code-overflow: wrap
+    mermaid:
+      theme: neutral
+reference-location: margin

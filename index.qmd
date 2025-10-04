@@ -7,6 +7,7 @@ Ce site est encore en cours de construction et d'amélioration. Merci à [@Leule
 Sur ces pages vous trouverez :
 
 * [Ma veille mensuelle,](/veille/)
+* [Mon bloc-notes,](/blocnotes/)
 * [Des réalisations numériques,](/realisation.html)
 * [Mes publications dans des revues,](/publication.html)
 * [Une courte biographie.](/about/)

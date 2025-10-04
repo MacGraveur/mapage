@@ -15,6 +15,9 @@ website:
       - href: veille/index.qmd
         icon: bi-bookmark
         text: Veille
+      - href: blocnotes/index.qmd
+        text: Bloc-notes
+        icon: journal-richtext
       - href: realisation.qmd
         text: Réalisations
         icon: bi-bricks
