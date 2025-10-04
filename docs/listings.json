@@ -2,6 +2,7 @@
   {
     "listing": "/veille/index.html",
     "items": [
+      "/veille/septembre2025/index.html",
       "/veille/Ete2025/index.html",
       "/veille/juin2025/index.html",
       "/veille/mai2025/index.html",
@@ -25,7 +26,9 @@
   {
     "listing": "/blocnotes/index.html",
     "items": [
-      "/blocnotes/arie/index.html"
+      "/blocnotes/arie/index.html",
+      "/blocnotes/marsimperium/index.html",
+      "/blocnotes/mauvaisereputation/index.html"
     ]
   }
 ]

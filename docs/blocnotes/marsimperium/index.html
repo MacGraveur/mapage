@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Julien Benedetti">
 
-<title>Bloc-notes – Mac Graveur</title>
+<title>Mars Imperium, lancement du portail – Mac Graveur</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-dcc7d9e706e4adfbab8e3d6c7c60bab2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-dcc7d9e706e4adfbab8e3d6c7c60bab2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +67,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,7 +79,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Mac Graveur</span>
     </a>
   </div>
@@ -149,37 +90,37 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> <i class="bi bi-house-door-fill" role="img">
+    <a class="nav-link" href="../../index.html"> <i class="bi bi-house-door-fill" role="img">
 </i> 
 <span class="menu-text">Accueil</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../veille/index.html"> <i class="bi bi-bookmark" role="img">
+    <a class="nav-link" href="../../veille/index.html"> <i class="bi bi-bookmark" role="img">
 </i> 
 <span class="menu-text">Veille</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../blocnotes/index.html" aria-current="page"> <i class="bi bi-journal-richtext" role="img">
+    <a class="nav-link" href="../../blocnotes/index.html"> <i class="bi bi-journal-richtext" role="img">
 </i> 
 <span class="menu-text">Bloc-notes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../realisation.html"> <i class="bi bi-bricks" role="img">
+    <a class="nav-link" href="../../realisation.html"> <i class="bi bi-bricks" role="img">
 </i> 
 <span class="menu-text">Réalisations</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publication.html"> <i class="bi bi-pen-fill" role="img">
+    <a class="nav-link" href="../../publication.html"> <i class="bi bi-pen-fill" role="img">
 </i> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../lecture.html"> <i class="bi bi-book" role="img">
+    <a class="nav-link" href="../../lecture.html"> <i class="bi bi-book" role="img">
 </i> 
 <span class="menu-text">Mes lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about/index.html"> <i class="bi bi-person-bounding-box" role="img">
+    <a class="nav-link" href="../../about/index.html"> <i class="bi bi-person-bounding-box" role="img">
 </i> 
 <span class="menu-text">Qui suis-je ?</span></a>
   </li>  
@@ -191,25 +132,53 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TWFyc2VpbGxl">Marseille <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YXJjaGl2ZXM=">archives <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29sb25pc2F0aW9u">colonisation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZCVDMyVBOWNvbG9uaXNhdGlvbg==">décolonisation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZW1waXJl">empire <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9pcmU=">histoire <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#mars-imperium-lancement-du-portail" id="toc-mars-imperium-lancement-du-portail" class="nav-link active" data-scroll-target="#mars-imperium-lancement-du-portail">Mars Imperium, lancement du portail</a>
+  <ul class="collapse">
+  <li><a href="#présentation-générale" id="toc-présentation-générale" class="nav-link" data-scroll-target="#présentation-générale">Présentation générale :</a></li>
+  <li><a href="#présentation-des-différents-portails" id="toc-présentation-des-différents-portails" class="nav-link" data-scroll-target="#présentation-des-différents-portails">Présentation des différents portails</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bloc-notes</h1>
-</div>
+<h1 class="title">Mars Imperium, lancement du portail</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">empire</div>
+    <div class="quarto-category">colonisation</div>
+    <div class="quarto-category">décolonisation</div>
+    <div class="quarto-category">Marseille</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Auteur·rice</div>
+    <div class="quarto-title-meta-contents">
+             <p>Julien Benedetti </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Date de publication</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">11 mars 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -219,156 +188,33 @@ window.Quarto = {
 </header>
 
 
-<p>Je rassemble ici mes diverses notes prises notamment lors de conférences ou journées d’études.</p>
+<section id="mars-imperium-lancement-du-portail" class="level1">
+<h1>Mars Imperium, lancement du portail</h1>
+<p>Pour accéder au site c’est <a href="https://marsimperium.org/">ici</a> et pour le replay de la soirée c’est <a href="https://www.youtube.com/watch?v=DWhoPMc-tpQ&amp;ab_channel=Mus%C3%A9esdeMarseille">là</a></p>
+<section id="présentation-générale" class="level2">
+<h2 class="anchored" data-anchor-id="présentation-générale">Présentation générale :</h2>
+<ul>
+<li><p><strong>Céline Regnard</strong>. Le projet existe car l’équipe pense qu’il y a une demande sociale, notamment car il concerne un patrimoine encore présent à Marseille. Il y a une demande d’histoire. Volonté de ne pas produire un ouvrage avec comme objectif d’ouvrir son accès à un plus grand nombre de personnes. Constat que si les contenus ou des connaissances existent sur Marseille colonial, il n’y avait pas de lieu de concentration. Le projet a aussi produit de nouvelles connaissances. Le portail a aussi pour but de proposer des contenus pour transmettre et enseigner.</p></li>
+<li><p><strong>Xavier Daumalin</strong>. Le projet était ambitieux, il a donc fallu réunir une équipe robuste, quaqsi 70 personnes, et de nombreux partenaires. Les recherches menées dans les différentes institutions vont permettre d’ouvrir des travaux pour plusieurs années. L’une des ambitions était de rentrer en raisonnace avec la société, ne pas s’adresser seulement aux spécialistes.</p></li>
+<li><p><strong>Delphine Cavallo</strong>. La conception du portail a eu comme enjeu de donner une représentation simple a un sujet et des ressources complexes et variées. L’équipe technique a été composé de quatre personnes. Un important travail sur les aspects graphiques et design a été mené. Le portail réuni cinq plateformes, chacun ayant sa propre logique en lien avec ses contenus.</p></li>
+</ul>
+</section>
+<section id="présentation-des-différents-portails" class="level2">
+<h2 class="anchored" data-anchor-id="présentation-des-différents-portails">Présentation des différents portails</h2>
+<ul>
+<li><p><strong>Webdocumentaire et capsules vidéos</strong>. Le webdocumentaire comprends à la fois de la vidéos mais aussi des éléments interactifs. Les 81 capsules vidéos produites représentent environ 7h de contenus. Ont été réunis des historiens mais aussi des artistes, des archivistes ou des militants. Les capsules sont souvent enrichi des productions textuelles.</p></li>
+<li><p><strong>Focus 1922</strong>. Il s’agit d’un film de 52 mn sur l’exposition coloniale de Marseille de 1922. Le premier constat est que cette exposition a laissé peu de traces dans l’espace urbain, alors qu’il a produit un grand nombre d’images. Le documentaire cherche a remettre dans son contexte l’exposition coloniale. Ce documentaire n’est pas seulement une mise en valeur de recherches mais est aussi création de nouvelles avancées.</p></li>
+<li><p><strong>Balades numériques</strong>. Ces ballades ont été conçues par l’association Ancrages. Ces lieux sont liés à la souffrance et à la violence. Dans la démarche d’Ancrages la reconnaissance des personnes concernées par cette histoire est primordiale.</p></li>
+<li><p><strong>Vitrines d’emprire</strong>. C’est un travail sur le musée coloniale de Marseille (1893-1962). Ce musée montre l’importance du scientifique dans l’histoire coloniale, notamment dans les sciences naturelles. Il ne s’agit pas de reconstitué le musée mais de présenter à travers 40 pièces ce qui est était montré dans ce musée. Les biographies des objets ont été complexes par manque d’information, certains sont pauvres en information d’origine. La question de la restitution des oeuvres est abordée.</p></li>
+<li><p><strong>Médiathèque</strong>. Cette partie rassemble l’ensemble des documents utilisés par le projet mais aussi les productions. Important travail de cataloguage en utilisant des métadonnées existantes mais aussi en les enrichissants.</p></li>
+<li><p><strong>Parcours fléchés</strong>. Le choix a été fait de faire en avant certains thèmes qui ont émergés au fil de la recherche et du projet.</p></li>
+</ul>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Trier par" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Trier par</option>
-       <option value="index" data-direction="asc">Ordre par défaut</option>
-         <option value="listing-title" data-direction="asc">
-          Titre
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Le plus ancien
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Le plus récent
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Auteur·rice
-        </option>
-     </select>
-  </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y29sb25pc2F0aW9uJTJDZCVDMyVBOWNvbG9uaXNhdGlvbiUyQ2FyY2hpdmVz" data-listing-date-sort="1758837600000" data-listing-file-modified-sort="1759576640446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="762">
-<div class="thumbnail">
-<p><a href="../blocnotes/arie/index.html" class="no-external"></a></p><a href="../blocnotes/arie/index.html" class="no-external">
-<p><img loading="lazy" src="../blocnotes/arie/arie.jpg" class="thumbnail-image"></p>
-</a><p><a href="../blocnotes/arie/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blocnotes/arie/index.html" class="no-external">Archives et colonisation : pour une pratiques professionnelles inclusives et équitables</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../blocnotes/arie/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Y29sb25pc2F0aW9u'); return false;">
-colonisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWNvbG9uaXNhdGlvbg=='); return false;">
-décolonisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('YXJjaGl2ZXM='); return false;">
-archives
-</div>
-</div>
-<div class="listing-description">
-<a href="../blocnotes/arie/index.html" class="no-external"><em>Édouard Vasseur</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="../blocnotes/arie/index.html" class="no-external">
-<div class="listing-date">
-26 sept. 2025
-</div>
-<div class="listing-author">
-Julien Benedetti
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZW1waXJlJTJDY29sb25pc2F0aW9uJTJDZCVDMyVBOWNvbG9uaXNhdGlvbiUyQ01hcnNlaWxsZQ==" data-listing-date-sort="1741647600000" data-listing-file-modified-sort="1759577441812" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="511">
-<div class="thumbnail">
-<p><a href="../blocnotes/marsimperium/index.html" class="no-external"></a></p><a href="../blocnotes/marsimperium/index.html" class="no-external">
-<p><img loading="lazy" src="../blocnotes/marsimperium/logo_marsimperium.svg" class="thumbnail-image"></p>
-</a><p><a href="../blocnotes/marsimperium/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blocnotes/marsimperium/index.html" class="no-external">Mars Imperium, lancement du portail</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../blocnotes/marsimperium/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ZW1waXJl'); return false;">
-empire
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Y29sb25pc2F0aW9u'); return false;">
-colonisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOWNvbG9uaXNhdGlvbg=='); return false;">
-décolonisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFyc2VpbGxl'); return false;">
-Marseille
-</div>
-</div>
-<div class="listing-description">
-<a href="../blocnotes/marsimperium/index.html" class="no-external">Pour accéder au site c’est ici et pour le replay de la soirée c’est là</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../blocnotes/marsimperium/index.html" class="no-external">
-<div class="listing-date">
-11 mars 2025
-</div>
-<div class="listing-author">
-Julien Benedetti
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TWFyc2VpbGxlJTJDaGlzdG9pcmU=" data-listing-date-sort="1741042800000" data-listing-file-modified-sort="1759577387538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458">
-<div class="thumbnail">
-<p><a href="../blocnotes/mauvaisereputation/index.html" class="no-external"></a></p><a href="../blocnotes/mauvaisereputation/index.html" class="no-external">
-<p><img loading="lazy" src="../blocnotes/mauvaisereputation/couv.jpeg" class="thumbnail-image"></p>
-</a><p><a href="../blocnotes/mauvaisereputation/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../blocnotes/mauvaisereputation/index.html" class="no-external">Marseille capitale du crime ? Les racines d’un imaginaire</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../blocnotes/mauvaisereputation/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('TWFyc2VpbGxl'); return false;">
-Marseille
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9pcmU='); return false;">
-histoire
-</div>
-</div>
-<div class="listing-description">
-<a href="../blocnotes/mauvaisereputation/index.html" class="no-external"><em>Laurence Montel</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="../blocnotes/mauvaisereputation/index.html" class="no-external">
-<div class="listing-date">
-4 mars 2025
-</div>
-<div class="listing-author">
-Julien Benedetti
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Aucun article correspondant
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

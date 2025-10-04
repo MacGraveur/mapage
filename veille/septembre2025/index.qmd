@@ -1,0 +1,41 @@
+---
+categories:
+- Histoire
+- Colonisation
+- Réseaux sociaux
+- Cartographie
+- Communs
+- OpenGLAM
+- Cahiers citoyens
+date : 09-01-2025
+title: Septembre 2025
+image: Fructidor.jpg
+---
+
+Les mois changent et ne se ressemblent pas en termes de veille. Peu de lectures enthousiasmantes ce mois-ci mais de nombreuses choses vues. 
+
+# Lu
+
+* [La communication en bibliothèque au péril des réseaux sociaux privateurs](https://site.dbelveze.fr/posts/bibliotheques_reseaux_sociaux.html). Très intéressante réflexion sur la présence sur les réseaux sociaux propriétaires. Le point de vue vient d'une bibliothèque universitaire mais me semble aussi pertinente pour des archives ou tout service public.
+
+* [Numérisés, étudiés, mis en scène… Que deviennent les cahiers de doléances des Gilets jaunes ?](https://www.ouest-france.fr/societe/gilets-jaunes/numerises-etudies-mis-en-scene-que-deviennent-les-cahiers-de-doleances-des-gilets-jaunes-79cb4402-8e21-11f0-b582-5820cfc46140)
+
+> Des citoyens s’organisent pour interpréter rigoureusement les écrits. Interpréter oui, car contrairement aux questionnaires fermés, aux consultations en ligne ou encore aux sondages institutionnels, ces cahiers avaient justement pour but d’être ouverts à la liberté d’expression. Ils contiennent donc une grande part d’émotions, de craintes, de colères, d’espoirs, mais pas toujours de revendications claires.
+
+# Vu
+
+* Nota Bene propose trois vidéos sur l'Algérie :"[Pourquoi la France a colonisé l’Algérie ?](https://www.youtube.com/watch?v=6TWeh1ZhyHU)" puis [Les Algériens égaux des Français quand l'Algérie était colonisée ?](https://www.youtube.com/watch?v=8fA4MhtLNko) et enfin [La décolonisation de l'Algérie](https://www.youtube.com/watch?v=TCMC6hIHckU). Vraiment courageux de se lancer sur un tel sujet, le tout est vraiment bien fait, appuyé par un panel d'historiens solides sur l'histoire de l'Algérie. Petit bémol quelques séances vidéo de l'ECPAD me semble anachroniques par rapport au moment évoqué, par exemple dans l'épisode 2 on voit clairement des vidéos de l'époque de la Guerre et du plan de Constantine.
+
+* Sur France.tv [Tuer au nom de Dieu, enquête sur le massacre de la Saint-Barthélemy](https://www.france.tv/france-2/tuer-au-nom-de-dieu-enquete-sur-le-massacre-de-la-saint-barthelemy/7413983-emission-du-mardi-26-aout-2025.html). Après son ouvrage "Tous ceux qui tombent", puis une série de podcast ["les voies de la Saint-Barthélemy"](https://museeprotestant.org/podcast/les-voix-de-la-saint-barthelemy/), on retrouve Jéméri Foa à la manoeuvre pour un documentaire en deux volets.
+
+* [Map, quoi de neuf ?](https://peertube.openstreetmap.fr/w/7avEP5WPUvur4za46zXGLj) présentation par Yohann Boniface des dernières évolutions de Umap lors des dernières State Of The Map en juin à Tours. Si vous ne connaissez pas cet outil libre de cartographie, c'est 25 mn très bien investie.
+
+* [Quel rôle pour les citoyens et la société civile dans la gouvernance des données ?](https://www.youtube.com/watch?v=julOirrVT9s&ab_channel=datagouv) Un bilan doux amer sur l'ouverture des données publiques, et de la place de la société civile qui s'affronte des administrations.
+
+# Entendu
+
+* Chez Chemins d'histoire, on retrouve avec grand plaisir Camille Lefebvre avec [Retrouver l’œuvre d’al-Hajj Musa ibn Hissein, un savant du Borno du tournant des XIXe et XXe siècles](https://cheminsdhistoire.fr/emission226/). Plonger à la fois dans l'histoire mais aussi la linguistique. Vraiment passionnant.
+
+* Chez LSD, [Musées, la réinvention permanente](https://www.radiofrance.fr/franceculture/podcasts/serie-musees-la-reinvention-permanente). Avec un focus particulier sur le dernier volet qui a pour thème les restitutions. Si le sujet est très souvent évoqué dans les musées, il concerne aussi les archives notamment dans le cadre colonial.
+
+* Chez Avoir raison avec... J'ai découvert [Jacques Ellul](https://www.radiofrance.fr/franceculture/podcasts/serie-avoir-raison-avec-jacques-ellul). Si on s'intéresse à la critique de la technique et des technologies il semble une bonne piste.

@@ -5,8 +5,8 @@ listing:
   - '*.qmd'
   filter-ui: false
   sort: date desc
-  sort-ui: false
-  type: grid
+  sort-ui: true
+  type: default
 page-layout: full
 title: Bloc-notes
 title-block-bannerrR: false

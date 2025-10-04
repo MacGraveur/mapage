@@ -1,8 +1,12 @@
 ---
 author: Julien Benedetti
-date: 26/09/2025
+date: 09-26-2025
 title: "Archives et colonisation : pour une pratiques professionnelles inclusives et équitables"
 image: arie.jpg
+categories: 
+- colonisation
+- décolonisation
+- archives
 ---
 ## Présentation du projet ARIE et de ses résultats
 ### Contexte 

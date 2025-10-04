@@ -1,0 +1,38 @@
+---
+title : "Mars Imperium, lancement du portail"
+author : Julien Benedetti
+date : 03-11-2025
+categories: 
+- empire
+- colonisation
+- décolonisation
+- Marseille
+image: logo_marsimperium.svg
+---
+# Mars Imperium, lancement du portail
+
+Pour accéder au site c'est [ici](https://marsimperium.org/) et pour le replay de la soirée c'est [là](https://www.youtube.com/watch?v=DWhoPMc-tpQ&ab_channel=Mus%C3%A9esdeMarseille)
+
+## Présentation générale : 
+
+* **Céline Regnard**. Le projet existe car l'équipe pense qu'il y a une demande sociale, notamment car il concerne un patrimoine encore présent à Marseille. Il y a une demande d'histoire. Volonté de ne pas produire un ouvrage avec comme objectif d'ouvrir son accès à un plus grand nombre de personnes. Constat que si les contenus ou des connaissances existent sur Marseille colonial, il n'y avait pas de lieu de concentration. Le projet a aussi produit de nouvelles connaissances. Le portail a aussi pour but de proposer des contenus pour transmettre et enseigner. 
+
+* **Xavier Daumalin**. Le projet était ambitieux, il a donc fallu réunir une équipe robuste, quaqsi 70 personnes, et de nombreux partenaires. Les recherches menées dans les différentes institutions vont permettre d'ouvrir des travaux pour plusieurs années. L'une des ambitions était de rentrer en raisonnace avec la société, ne pas s'adresser seulement aux spécialistes.
+
+* **Delphine Cavallo**. La conception du portail a eu comme enjeu de donner une représentation simple a un sujet et des ressources complexes et variées. L'équipe technique a été composé de quatre personnes. Un important travail sur les aspects graphiques et design a été mené. Le portail réuni cinq plateformes, chacun ayant sa propre logique en lien avec ses contenus. 
+
+## Présentation des différents portails
+
+* **Webdocumentaire et capsules vidéos**. Le webdocumentaire comprends à la fois de la vidéos mais aussi des éléments interactifs. Les 81 capsules vidéos produites représentent environ 7h de contenus. Ont été réunis des historiens mais aussi des artistes, des archivistes ou des militants. Les capsules sont souvent enrichi des productions textuelles.
+
+* **Focus 1922**. Il s'agit d'un film de 52 mn sur l'exposition coloniale de Marseille de 1922. Le premier constat est que cette exposition a laissé peu de traces dans l'espace urbain, alors qu'il a produit un grand nombre d'images. Le documentaire cherche a remettre dans son contexte l'exposition coloniale. Ce documentaire n'est pas seulement une mise en valeur de recherches mais est aussi création de nouvelles avancées.
+
+* **Balades numériques**. Ces ballades ont été conçues par l'association Ancrages. Ces lieux sont liés à la souffrance et à la violence. Dans la démarche d'Ancrages la reconnaissance des personnes concernées par cette histoire est primordiale. 
+
+* **Vitrines d'emprire**. C'est un  travail sur le musée coloniale de Marseille (1893-1962). Ce musée montre l'importance du scientifique dans l'histoire coloniale, notamment dans les sciences naturelles. Il  ne s'agit pas de reconstitué le musée mais de présenter à travers 40 pièces ce qui est était montré dans ce musée. Les biographies des objets ont été complexes par manque d'information, certains sont pauvres en information d'origine. La question de la restitution des oeuvres est abordée.
+
+* **Médiathèque**. Cette partie rassemble l'ensemble des documents utilisés par le projet mais aussi les productions. Important travail de cataloguage en utilisant des métadonnées existantes mais aussi en les enrichissants.
+
+* **Parcours fléchés**. Le choix a été fait de faire en avant certains thèmes qui ont émergés au fil de la recherche et du projet.
+
+
