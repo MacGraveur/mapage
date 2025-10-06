@@ -16,7 +16,7 @@ Triple contexte :
 
 * Contexe académique avec de grands changements depuis 20 ans, notamment à travaux les études post-coloniales, et l'histoire globale.
 * Contexte politique différent entre la France et la Belgique. Il est à fois interrogé en politique intérieure et extérieure. Les relations internationales sont impactées par le sujet colonial, avec des évènements mémoriels récurrents ces dernières années.
-* Contexte archivistique. Avec une archivistique qui se libère en partie de la science historique, avec une influence dans la sphère anglosaxane avec la french theory et les subalternes studies. Celles-ci réinterrogent la place des archives, et leurs rôles sociales.
+* Contexte archivistique. Avec une archivistique qui se libère en partie de la science historique, avec une influence dans la sphère anglosaxone avec la french theory et les subalternes studies. Celles-ci réinterrogent la place des archives, et leurs rôles sociales.
 
 Plusieurs questionnements pour les archivistes : 
 
@@ -26,27 +26,27 @@ Plusieurs questionnements pour les archivistes :
 Des demandes multiples : 
 
 * Demandes des individus notamment pour faire falloir des droits administratifs ou de réparations.
-* Demande des communautés, notamment autoctones, avec un ensemble de questions comment reprendre le contrôle de collecte d'archives, orales, des communautés. Il faut gérer les éléments conflictuelles entre les différentes communautés. Il y a aussi des problèmatiques de droit sur des terres, alors que les archives ne concernent que le point de vue du colonisateur.
+* Demande des communautés, notamment autochtones, avec un ensemble de questions comment reprendre le contrôle de collecte d'archives, orales, des communautés. Il faut gérer les éléments conflictuels entre les différentes communautés. Il y a aussi des problèmatiques de droit sur des terres, alors que les archives ne concernent que le point de vue du colonisateur.
 
 ### Génèse
-_Bérangère Piret_
+_Bérengère Piret_
 
-Le débat est présent dans la sphère anglosaxone mais il y a peu d'archivistes francophones qui s'investissent sur ce sujet de l'archives coloniale. Le projet ARIE a donc comme objectif d'arimmer les archivistes francophones à ce sujet.
+Le débat est présent dans la sphère anglosaxone mais il y a peu d'archivistes francophones qui s'investissent sur ce sujet de l'archive coloniale. Le projet ARIE a donc comme objectif d'arrimer les archivistes francophones à ce sujet.
 
 L'équipe de chercheuses a été renforcé par par deux archivistes (État de Belgique et ANOM). Ce projet a bénéficié d'un financement Eramus+.
 
-Le projet a pour objectif pour fournir des outils afin d'appréhender les enjeux autour des archives coloniales. Le public visé est notamment les archivistes en formation, pour ceci a été construit un module de cours. Il a été testé sur différents groupes en France et en Belgique. Ceci a permis d'affiner le contenu. 
+Le projet a pour objectif de fournir des outils afin d'appréhender les enjeux autour des archives coloniales. Le public visé est notamment les archivistes en formation, pour ceux-ci a été construit un module de cours. Il a été testé sur différents groupes en France et en Belgique. Ceci a permis d'affiner le contenu. 
 
 Le second livrable est un manuel, pensé à toutes personnes en charge de fonds en relation avec la colonisation. Ceci signifie que cela ne concerne pas que les archivistes aux ANOM, car de nombreux services conservent des archives sur la colonisation. 
 
 L'un des problèmes identifiés est que les intervenants sont pour la grande majorité de l'horizon européen. Ceci en raison d'un manque de temps pour écrire en fonction de fonds d'archives dans d'autres spères géographiques.
 
 ### Les livrables
-_Fabienne Chemelot_
+_Fabienne Chamelot_
 
 Comme dit plus haut le programme a permis la réalisation de deux livrables. D'un part un module de formation et l'autre sous forme d'un manuel avec une visée plus scientifique.
 
-Le manuel comporte 60 notices rédigées par environ 40 auteurs. L'identité graphique a été pensé pour appuyer le propos de fonds. Le projet a analysé le propos de l'archivistique anglosaxon pour le réinséré dans un tradition franchophone. Le choix des termes a été travaillé afin de parler au mieux aux services d'archives sans aller sur des champs éloignés de leur préoccupations. L'accueil lors d'échanges avec les archivistes ont été très positifs, ils ont montré le besoin, même implicites, d'un besoin au sujet du traitement des archives coloniales.
+Le manuel comporte 60 notices rédigées par environ 40 auteurs. L'identité graphique a été pensée pour appuyer le propos de fonds. Le projet a analysé le propos de l'archivistique anglosaxon pour le réinsérer dans un tradition franchophone. Le choix des termes a été travaillé afin de parler au mieux aux services d'archives sans aller sur des champs éloignés de leur préoccupations. L'accueil lors d'échanges avec les archivistes ont été très positifs, ils ont montré le besoin, même implicites, d'un besoin au sujet du traitement des archives coloniales.
 
 Des questionnements restent en suspend et mériteraient des développements futurs. 
 
@@ -54,10 +54,10 @@ Des questionnements restent en suspend et mériteraient des développements futu
 
 _Nora El Quadim (Paris 8), Adama Aly Pam (Unesco), Emmanuelle Sibeud (Paris 8), Marie Van Eckenroode (UC Louvain / Archives de Belgique)._
 
-* Besoin de plus de dialogues entre différentes sphères professionnales mais aussi sphères géographiques. Ceci nécessite d'ouvrir des débats autour de certaines termes ou concepts.
+* Besoin de plus de dialogues entre différentes sphères professionnelles mais aussi sphères géographiques. Ceci nécessite d'ouvrir des débats autour de certaines termes ou concepts.
 * Les archives coloniales ont été longtemps le terrain des archivistes et des historiens, ils sont de plus en plus investis par le reste de la société. Ceci montre une dynamique- et c'est positif.
 * Archiver c'est cartographier le monde, c'est ce que le monde pourra voir du passé.
 * L'accès notamment réglementaire n'est pas décidé par les archivistes qui sont au mieux associés. Les archivistes doivent porter un nouveau regard sur nos pratiques et aider à l'accès au mieux.
 * Importance d'une éthique de travail basée sur la transparence. Par exemple en publiant des instruments de recherche même non finalisés.
-* Les concepts d'archives de souvernaité et de gestion sont une escroquerie intellectuelle en ne respectant pas la nature de provenance ou l'intégrité du fonds.
+* Les concepts d'archives de souveraineté et de gestion sont une escroquerie intellectuelle en ne respectant pas la nature de provenance ou l'intégrité du fonds.
 * La copie numérique n'est pas toujours la solution pour répondre à la demande de restitution, notamment car il faut prendre en compte l'importance de la matérialité de l'archives. Voir la Convention de Vienne sur la succession d'États en matière de biens, archives et dettes d'État.
