@@ -1,0 +1,95 @@
+---
+author: Julien Benedetti
+title: "Nouveaux venus dans le paysage des archives publiques : Monaco et IA"
+date: 11/06/2025
+image: images.png
+categories: 
+- IA
+- archives
+---
+
+## La création des Archives nationales de la principauté de Monaco en 2025
+_Michaël Bloche, Directeur des Archives nationales de la Principauté de Monaco_
+
+Ce service fait suite à une mission de préfiguration crée en 2021. Celle-ci était précédé par un service des archives princiaires. Le service des archives princiaires est fondée en 1911, il faudra attendre le milieu des années 60 pour voir la mise en place un service des archives du gouvernement. Le mise en oeuvre de ce service de préarchivage bénéficie de l'apport du service technique de la DAF, et notamment d'un rapport de préconisations de Michel Duchein.
+
+L'ordonnance cadrant les missions du service, et les notes indiquants ces moyens sont pris entre 1967 et 1968. Le service est confié à Mme Marguerite Zilliox. Hélas à son départ deux ans plus tard, le service est fermé par absence de personnel. Le dossier de création et de moyens est le sujet de tension politique entre le palais et le conseil national.
+
+La création d'un service central est même l'objet d'article de presse très sévère : "servivce intutile", "service parasite"…
+
+Le gouvernement de Monaco a envisagé d'engager un archiviste français, et a notamment refusé le profil d'Yves Pérotin, manquant ainsi pour M.Bloque "l'affaire du siècle du point de vue des archives". Il est envisagé d'envoyer un monegasque en stage auprès des Archives départementales des Bouches-du-Rhône mais M.Villard décline et oriente Monaco vers les Archives des Alpes-Maritimes. Ernest HildesHeimer y interviendra à temps partiel au début des années 70. En s'appuyant sur les recommandations de Duchein, des locaux d'archives conforment aux normes de conservation est construit. Hélas dès le début des années 80 les locaux d'archives sont largement amputés pour faire de la place aux nouveaux services informatiques.
+
+Du milieu des années 80 à au début des années 2000, plusieurs études et projets pour établir dans de nouveaux locaux le service restent lettres mortes.
+
+Il faudrau attendre 2011 pour voir la publication d'une ordonnance fondant la création d'un service central pour la conservation des archives définitives du Gouvernement princie (SCADA)r, ainsi que d'une commission consutative des archives de l'État. Suivra en 2021 la création d'une mission de préfiguration des Archives nationales, qui une tutelle que le SCADA. Ce nouveau service est un basculement car il intégre la notion patrimoniale. 
+
+2025 voit l'aboutissement de cette mission avec :
+
+* de nouveaux locaux,
+* un site internetv,
+* une équipe renforcée avec 13 agents.
+
+Ce service s'articule avec les autres services d'archives : 
+
+* archives du palais princier,
+* archives communales,
+* institutut audiovisuel,
+* services d'entrés parapubliques et privées.
+
+## L'IA au-delà du buzz
+_Georges Rodrigues, Directeur des systèmes d'information Ville d'Avignon_
+
+Est-ce que l'IA me répond quelque chose de juste ? Probablement. Les IAG répondent sur la base de probabilité statisitque. Sachant que la réponse peut évoluer si on améliore le contexte de la demande.
+
+Les prompts et leur qualité et précision sont donc capitales pour avoir la meilleure réponse possible, même si celle-ci reste toujours probabiliste.
+
+Les IA généraliste peuvent être adaptées par le Fine Tunig (spécialisation de l'IA à un sujet), ou le RAG (réponse basé sur un corpus fermé).
+
+Dans le monde professionnel, 31 % des français sont inquiets contre 15 % dans le monde. Même si on voit déjà quelques entreprises réduires leurs effectif il est impossible de prédire l'impact réel à plusieurs décennies. 55 % des salariés sans en informer ses supérieurs hiérarchiques.
+
+![figure 1](IMG_2495.jpg)
+
+La ville d'Avignon a déjà plusieurs usages de l'IA mais dans le cadre d'une charte.
+
+## L'IA au service des projets industriels
+_Valérie Kauffmann, EDF DIPDE_
+
+EDF a mené une expérimentation sur la recherche dans ses plans techniques (2D ou 3D). L'idée est de gagner du temps dans la recherche de la documention, srutout que celle-ci est très vaste. Ceci dans le but de permettre aux ingénieurs d'être plus concentrés sur leurs missions d'ingénieurie. Le projet est encore en expérimentation, il n'y a pas de passage à l'échelle industrielle car cela nécessiterai de déposer les documents sur des clouds américains. 
+
+## Explorer le contenu des messageries électroniques avec les LLM
+_Céline Guyon, Olkoa et ENSSIB_
+
+Il s'agit d'un projet en mode R&D de deploiement d'un RAG pour explorer les boites mails. Ce projet a été mené en collaboration avec l'école la Plateforme, qui forme au numérique et notamment des datascientist.
+
+Plusieurs questions se posent au sujet des messageries : quel niveau de description ? quel est le producteur et sa nature ? quelles DUA appliqués ? quelles éliminations possibles ? problématique de la conformité en fonction des usages professionnels et personnels ? Les messageries posent aussi des défis sur les aspects techniques.
+
+Enfin, il y a un probléme sur l'accès à ces messageries. A ce jour ce qui se fait le plus est de recharger le container pst dans un outil de messagerie. 
+
+Une messagerie n'est que rarement l'objet d'une pratique standarisée, mais relève plutôt du choix d'organisation personnelles. C.Guyon souligne l'absence de prise en compte de l'accès au profit de la préservation.
+
+Les messageries ont été identifiées comme étant un bon candidat à une exploration avec une LLM. La messagerie est un artefact archivistique, comment une IA pouvait donner à voir cet artafact, les relations, l'organisation, les échanges. Le but était d'aller plus loin qu'une simple recherche par mot-clefs.
+
+Le projet a été mené via 3 sprint d'un mois avec des alternants de la plateforme. Le projet est documenté sur Github mais n'a pas vocation à devenir un produit ou un outil. Il reste un objet exploratoire.
+
+Plusieurs ambitions : explorer les contenus des mails dans une logique sémantique, intérargir via un chabot pour interroger le contenu. 
+
+La première chose qui a été fait, n'est pas un traitement par une IA mais une analyse de réseau représentant les interactions. La coeur du projet se porte sur la recherche sémantique.
+
+Il faut dans un premier temps faire du_clustering_ pour vectoriser les courriels. Se découpage donne des morceaux _chunks_, ce découpage dépend des modèles utilisés. Ensuite, il faut passer un modèle d'_embeddings_ qui abouti a une vectorisation des morceaux. Le tout crée un espace latent qui positionne donc chaque _chunks_ leur proximité ou éloignement correspond à leur proximité ou éloignement sémantique.
+
+On peut ensuite faire émerger des _clusters_ c'est à dire de thèmes. Il faut trouver un équilibre dans le nombre de _clusters_ généré. 
+
+Autre étape mise en place, l'utilisation d'un RAG. Le LLM a été entraîné sur d'autres contenus mais de répond qu'en fonction du corpus fourni. Ce choix permet des traitements en local et donc en protection des données analysées. Grâce à ce RAG un chatbot peut être interrogé qui va répondre en indiquant sur quels mails sont appuyés ses réponses.
+
+Faire de l'archivistique au temps des algorithmes ? L'IA a permis d'intervenir là où la main et l'oeil de l'archiviste ne le pouvait plus. Les traitements en vecteurs n'est pas accessible à l'humain. La médiation computationelle donne à voir la logique de structuration d'un corpus de documents et les relations des documents entre eux.
+
+## Lettres en Lumières : une IA pour transcrire automatiquement les archives du XVIIIe siècle
+_Édouard Bouyé, Directeur des Archives de la Côte-d'Or_
+
+Le projet a été lancé un peu par le fait d'un hasard d'une rencontre avec un chercheur en IA. Ceci a abouti à l'accueil d'un étudiant (dans un premier temps en stage) en thèse pour 3 ans. 
+
+Le modèle est entraîné à partir de transcription de bénévoles, puis avec une correction est effectuée par un membre des AD. Il faut savoir accompagner les bénévoles et en prendre soin.
+
+La plate-forme de contribution est basée sur le IIIF. Il est possible d'importer via un manifest IIIF des lots d'images (jusqu'à 5) pour faire le traitement via l'IA. 
+
+Les AD de Côte-d'Or sont à la recherche de partenaires pour poursuivre le projet.
