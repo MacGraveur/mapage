@@ -14,7 +14,7 @@ Mais pour débuter, j'ai choisi une publication en deux volets autour de la tech
 
 Une dernière partie est consacrée au technofascisme, terme porté principalement par Olivier Tesquet et Nastasia Hadjadji.
 
-Cette page a vocation a être enrichi au fil de temps et des productions que je croiserai.
+Cette page a vocation à être enrichie au fil du temps et des productions que je croiserai.
 
 ## Technocritique
 
@@ -30,7 +30,11 @@ Cette page a vocation a être enrichi au fil de temps et des productions que je 
 
 * [Le numérique nous ramène-t-il au Moyen Âge ?](https://www.monde-diplomatique.fr/2025/08/MOROZOV/68672)
 
+> Mais la gauche raffole d'une idée à laquelle on peut reconnaître le charme du charlatanisme : l'industrie de la tech serait en train de tuer le capitalisme. La critique du techno-féodalisme constitue son créneau éditorial le plus porteur et les diagnostics apocalyptiques se multiplient plus vite encore que les start-up de la Silicon Valley.
+
 * [Où le numérique nous emmène-t-il ? Réponse à Evgeny Morozov](https://www.contretemps.eu/capitalisme-numerique-technofeodalisme-durand-morozov/)
+
+> La réminiscence féodale renvoie aux rapports de dépendance, à l’effacement de la frontière entre économique et politique et à la prééminence d’une logique de prédation fondée sur l’extension du domaine du contrôle.
 
 ## Technofascisme
 
