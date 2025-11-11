@@ -1,0 +1,45 @@
+---
+categories:
+- Technocritique
+- Technoféodalisme
+- Technofascisme
+date : 11-11-2025
+title: Hors-série Technowhatever
+image: technowhatever.gif
+---
+
+Une veille hors-série sur tout ce qui touche au technowhatever. Cette idée a éclos suite à la lecture d'échanges par voix d'articles entre Evgeny Morozov et Cédric Durand au sujet de l'usage du terme technoféodalisme. On sent poindre tout de même plutôt une lutte de chapelles marxistes ou (marxiennes). 
+
+Mais pour débuter, j'ai choisi une publication en deux volets autour de la technocritique qui permette de cadrer le débat et le placer dans une profondeur temporel.
+
+Une dernière partie est consacrée au technofascisme, terme porté principalement par Olivier Tesquet et Nastasia Hadjadji.
+
+Cette page a vocation a être enrichi au fil de temps et des productions que je croiserai.
+
+## Technocritique
+
+* [Le renouveau de la technocritique (1/2) : les moments de la critique](https://aoc.media/analyse/2025/06/30/le-renouveau-de-la-technocritique-1-2-les-moments-de-la-critique/)
+
+> Arrêtons-nous un instant sur ce geste : casser. Un geste simple et efficace, tout comme il est radical et a été jugé illégal.
+
+* [Le renouveau de la technocritique (2/2) : les moments de la critique](https://aoc.media/analyse/2025/07/01/le-renouveau-de-la-technocritique-2-2-les-formes-de-la-critique/)
+
+> la technocritique se manifeste sous différentes formes. La technocritique n’est pas une pratique uniforme et homogène, mais doit être saisie dans sa pluralité.
+
+## Technoféodalisme
+
+* [Le numérique nous ramène-t-il au Moyen Âge ?](https://www.monde-diplomatique.fr/2025/08/MOROZOV/68672)
+
+* [Où le numérique nous emmène-t-il ? Réponse à Evgeny Morozov](https://www.contretemps.eu/capitalisme-numerique-technofeodalisme-durand-morozov/)
+
+## Technofascisme
+
+* [Survivalisme, discipline et antiféminisme : plongée dans le collectif Anti-tech Résistance](https://reporterre.net/Survivalisme-discipline-et-anti-feminisme-plongee-dans-le-collectif-Anti-tech-Resistance)
+
+> Après Rennes et Paris, ATR a créé des groupes locaux à Grenoble, Nantes et Lyon. Un essaimage qui correspond à une stratégie en trois phases : d’abord recruter, puis faciliter l’action de groupes clandestins pour préparer l’après par l’autonomisation, et enfin relayer les actions de ces groupes clandestins pour « empêcher le système de se relever ».
+
+* [Olivier Tesquet : « Avec le Doge ou Palantir, on a des exemples très concrets d’une nouvelle architecture du pouvoir, un pouvoir techno-fasciste »](https://multinationales.org/fr/enquetes/extreme-tech/tesquet-hadjadji-techno-fascisme-doge-palantir-thiel)
+
+> Dans un projet libertarien autoritaire, il y a besoin d’avoir des armes et des outils technologiques qui vont permettre de maintenir l’ordre, parce que la transformation de la société ne peut pas se faire sans violence. Sans oublier l’énergie.
+
+* En podcast chez Trenchtech, [Nastasia Hadjadji et Olivier Tesquet - Technofascisme](https://podcast.ausha.co/trench-tech/nastasia-hadjadji-et-olivier-tesquet-technofascisme)
