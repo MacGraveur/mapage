@@ -1,0 +1,86 @@
+---
+categories:
+- Marseille
+- IA
+- Archives
+- Marseille
+- Colonisation
+- infrastructure
+- Cahiers citoyens
+- IIIF
+date: 12-04-2025
+title: Novembre 2025
+image: Brumaire.jpg
+---
+
+Publié avec un peu de retard mais avec beaucoup de contenu. Des humanités numériques, du patrimoine, le rôle social et politique des archives. De quoi plaire à beaucoup de lecteurs je pense.
+
+# Lu
+
+* Le HN Lab propose en deux billets un retour une expérimentation autour du RAG, oui mais le RAG c'est quoi ? Explorer ses documents de travail avec les méthodes de la Retrieval-Augmented Generation [construire un agent conversationnel sur ses propres documents](https://hnlab.huma-num.fr/blog/2025/08/26/explorer-ses-documents-avec-la-RAG/) puis la mise en oeuvre plus technique [créer, démonter et mettre en œuvre une application Web complète](https://hnlab.huma-num.fr/blog/2025/10/13/deployer-la-RAG/)
+
+> Note : Rôle du chercheur, du documentaliste, de l’archiviste
+C’est à cette étape qu’il crucial de travailler scientifiquement et documentairement sur :
+Le choix du modèle LLM (taille, qualité, cible, modèle ré-entrainé dans une discipline ou pas, etc.). Là, le scientifique, le documentaliste, l’archiviste a son mot à dire. Il doit connaitre les grandes tendances des modèles disponibles, ce qui nécessite de se faire accompagner très régulièrement sur ces questions pas les spécialistes du domaine.
+    Le choix de la taille des chunks suivant la nature des documents que l’on explore. Là aussi l’expertise du chercheur est essentielle afin de définir la « topographie » des documents.
+    Le contenu du Prompt qui doit être travailler entre le chercheur et les développeurs. Cette étape — que l’on pourrait nommer « science du Prompting » se rapproche des enjeux de connaissance des fonds d’archives et des instruments de recherche archivistique que doivent avoir par exemple un historien ou une historienne. Comment poser des questions aux documents, avec quelles méthodes et donc quels « gestes » pour reprendre le coeur du livre se C. Muller et F. Clavert.
+
+* [Le présent d'hier et de demain](https://hieretdemain.ch/2025/04/03/institutions-darchives-publiques-de-moyenne-et-petite-taille-face-a-lintelligence-artificielle-ia-generative-buzz-et-realites/). Pas totalement certains de partager la citation ci-dessous mais le post mérite le temps de lecture, car il pose bien divers sujets.
+
+> Tout d’abord l’IA doit être considérée comme un pool de stagiaires efficaces qui font le travail à notre place, mais dont le travail doit être supervisé, contrôlé et relu. 
+
+* [Archives à l'écran. Après un visionnage d'"Emboîter leurs pas"](https://entre-temps.net/archives-a-lecran-apres-un-visionnage-demboiter-leurs-pas/). Sur les traces des archives communautaires, et l'approche des acteurs de ces histoires.
+
+>  Il y a là une véritable entrée « en archives ». On comprend que cette personne est le réalisateur et qu’il est là pour nous guider dans les dédales des archives sans rien nous expliquer de manière trop didactique.
+
+* Vous n'aviez pas eu depuis longtemps d'article sur les cahiers citoyens alors ce mois-ci c'est double ration. 
+
+    * Tout d'abord une longue interview de Manon Pengam chez Blast [Que reste-t-il des cahiers de doléances ?](https://www.revue-ballast.fr/que-reste-t-il-des-cahiers-de-doleances/)
+
+    > Une mise en ligne n’est pas simple en raison de problèmes techniques : après transmission par la préfecture, la BnF a fait procéder par des prestataires à des campagnes de numérisation puis de transcription des photocopies. L’ensemble des copies de cahiers reçues par la BnF a fait l’objet d’une numérisation en format image. La qualité de la transcription a pâti du manque de temps imparti au processus de numérisation et de traitement, ainsi que des divergences entre prestataires. Aussi, on compte 115 000 mots non reconnus et près de 400 000 mots inconnus sur un total de 50 millions. Des phrases ou même des contributions entières sont non retranscrites et il y a de nombreuses erreurs. Par exemple le mot « impôt » est retranscrit en « impact », « riche » en « niche », etc. Il y a également des problèmes juridiques concernant le respect de la vie privée : les cahiers citoyens, du moins ceux produits et reçus en mairie, ont un statut d’archives publiques, leur communicabilité est donc régie par le code du patrimoine (art. L. 213–1 et suivants).
+
+    * Puis une note de la fondation Jean Jaurès de Loan Diaz, Thierry Germain et Manon Pengam ["Ne pas participer, mais décider : face à la crise de la délibération, quels imaginaires dans les cahiers de doléances ?"](https://www.jean-jaures.org/publication/ne-pas-participer-mais-decider-face-a-la-crise-de-la-deliberation-quels-imaginaires-dans-les-cahiers-de-doleances/)
+    
+    > Ces documents de natures diverses ont été numérisés et centralisés aux Archives nationales. Les originaux en papier ont été versés aux Archives départementales, et n’ont donc jamais été dissimulés. Pour autant, la réappropriation politique de leur contenu a été freinée par un mépris pour leurs contributrices et contributeurs, tantôt amalgamés aux « gilets jaunes » (appellation devenue entre-temps une étiquette dégradante), tantôt considérés comme un agrégat d’individualités ayant parlé pour elles-mêmes, sans considération pour le collectif national.
+    
+* [« Elles. Leurs droits, notre histoire. Les Bretilliennes s’émancipent (19-20e siècles) » : une exposition à ne pas manquer](https://alter1fo.com/exposition-archives-departementales-ille-vilaine-rennes-149413) aux Archives départementales d'Ille-et-Vilaine
+
+> Loin des figures emblématiques et des pionnières souvent mises en lumière, l’exposition choisit de tourner notre regard vers ces femmes ordinaires, celles dont les histoires restent trop souvent dans l’ombre ou dans l’intimité d’une famille. 
+
+> Pourtant, cette vocation universelle peine encore à se traduire dans les faits. Car la fréquentation de l’exposition révèle un paradoxe persistant : l’immense majorité des personnes venues sont des femmes. Où sont les hommes ? Si cette asymétrie devait se confirmer, elle ne manquerait pas de soulever de légitimes interrogations.
+
+* Continuons à l'ouest avec une [publication](https://www.paysdelaloire.fr/mon-conseil-regional/toute-lactu-de-ma-region/les-actualites/larchive-du-mois-de-novembre-2025) des Archives régionales du Pays-de-la-Loire sur les élues de la collectivité.
+
+> Lors de la première réunion en janvier 1974, Nicole Hersart de la Villemarqué, est la seule femme - en tant que conseillère générale de Loire-Atlantique - de l’Assemblée qui compte 80 conseillers.
+
+* Et pour finir une salve sur le patrimoine marseillais.
+
+    * [Des proches d’anciens internés exhument le passé psychiatrique de l’hôpital de la Timone](https://marsactu.fr/des-proches-danciens-internes-exhument-le-passe-psychiatrique-de-lhopital-de-la-timone/) dont plus bas un podcast résonne en écho.
+    
+    > La salle de lecture des Archives départementales des Bouches-du-Rhône, à Marseille, est en effet la première étape pour suivre la route des enquêteurs de la Timone. 
+    
+    * [L’hôtel de Cabre, plus vieille maison de Marseille, dévoile ses façades rénovées](https://madeinmarseille.net/actualite/191523-en-images-lhotel-de-cabre-plus-vieille-maison-de-marseille-devoile-ses-facades-renovees/)
+    
+    > C’est la plus vieille maison de Marseille et son histoire est jonchée d’anecdotes étonnantes. L’hôtel de Cabre, du nom de la grande famille de négociants d’Aubagne, parvenue aux plus hautes fonctions politiques de Marseille, aurait été construit au 16e siècle.
+
+    * [Pour le photographe Gérard Detaille, “Marseille est un kaléidoscope humain”](https://marsactu.fr/pour-le-photographe-gerard-detaille-marseille-est-un-kaleidoscope-humain/)
+
+    > Fabrice Denise offre une formule qui sonne juste : “Cette œuvre, c’est un peu un album de famille dans lequel les Marseillaises et les Marseillais vont se retrouver.”  
+
+# Vu
+
+* [Arvest](https://arvest.app/fr) un outil très prometteur développé par l'Université Rennes 2 pour réaliser un carnet de recherche et rassembler documents, notes et sources. Le tout avec du IIIF.
+
+* [Le temps du renouveau. Cannes, 1944-1947](https://expos-historiques.cannes.com/expositions-virtuelles/le-temps-du-renouveau). On peut retrouver en ligne l'exposition cannoise qui a fermé avant l'été.
+
+* [Une rétrospective de Marseille en photos depuis 1860 au musée d’Histoire](https://madeinmarseille.net/bons-plans/188626-au-musee-dhistoire-les-detaille-devoilent-150-ans-de-photos-sur-marseille/). Courte vidéo de présentation de l'exposition Les Detaille. Photographes de Marseille (1860-2024) au Musée d'histoire de Marseille.
+
+# Entendu
+
+* Chez Propagations, [Bienvenue dans l’ère des propagations](https://podcast.fr/episode/bienvenue-dans-lere-des-propagations/) avec D.Boullier qui est l'inspirateur du titre du podcast. Chercheur très bon dans la fulgarisation, et assez drôle durant l'interview.
+
+* Chez les Décodeurs, Ici Pays d'Auvergne. P.F.Brau nous fait découvrir les [Archives départementales du Puy-de-Dôme](https://www.francebleu.fr/emissions/les-decodeurs-ici-pays-d-auvergne/les-archives-departementales-du-puy-de-dome-2358864)
+
+* Chez Afriques mémoire d'un continent, RFI. Laurence De Cock dans un enregistrement à Blois balaie l'histoire de l'enseignement de la colonisation. [Entre oubli et mémoire, l’enseignement du passé colonial en France](https://www.rfi.fr/fr/podcasts/afrique-m%C3%A9moires-d-un-continent/20251017-entre-oubli-et-m%C3%A9moire-l-enseignement-du-pass%C3%A9-colonial-en-france)
+
+* Chez Louiemedia, [Grand mère n’était pas folle](https://louiemedia.com/passages/2025/10/23/grand-mre-ntait-pas-folle) avec Marie-Ilse Bourlanges qui nous présente son parcours de recherche sur l'histoire de sa grand-mère internée à la Timone (Marseille).
