@@ -2,16 +2,18 @@
 title: "Accueil"
 feed: true
 ---
-Ce site est encore en cours de construction et d'amélioration. Merci à [@Leuleu](https://framapiaf.org/@leuleu) pour le tutorat.
+
+![Felipe La Rotta, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons](Dvd-burning-cutaway2.JPG){ width="600" height="300" style="display: block; margin: 50 auto" }
 
 Sur ces pages vous trouverez :
 
 * [Ma veille mensuelle,](/veille/)
 * [Mon bloc-notes,](/blocnotes/)
 * [Des réalisations numériques,](/realisation.html)
-* [Mes publications dans des revues,](/publication.html)
-* [Une courte biographie.](/about/)
+* [Mes publications,](/publication.html)
+* [Une courte biographie,](/about/)
+* [Mes lectures.](/lecture.html/)
 
-Il reste encore pas mal de travail pour mieux contextualiser certains contenus mais cela viendra avec le temps.
+Bonnes lectures et découvertes.
 
-Bonne lecture et découverte.
+Merci à [@Leuleu](https://framapiaf.org/@leuleu) pour le tutorat.

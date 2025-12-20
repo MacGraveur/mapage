@@ -3,7 +3,7 @@ categories:
 - Technocritique
 - Technoféodalisme
 - Technofascisme
-date : 11-11-2025
+date : 12-20-2025
 title: Hors-série Technowhatever
 image: technowhatever.gif
 ---
@@ -36,6 +36,16 @@ Cette page a vocation à être enrichie au fil du temps et des productions que j
 
 > La réminiscence féodale renvoie aux rapports de dépendance, à l’effacement de la frontière entre économique et politique et à la prééminence d’une logique de prédation fondée sur l’extension du domaine du contrôle.
 
+* [Technoféodalisme : l'analogie à contretemps](https://golb.statium.link/post/20251012technofeodalisme/)
+
+Texte long mais très précieux, puisque contrairement aux autres, il cherche déjà à tracer les contours du/des féodalismes. Point de départ bien nécessaire pour ensuite évaluer la pertinence du concept de technoféodalisme. 
+
+> La leçon a en tirer, et qui a toute son importance ici, c’est que la société féodale est d’abord et avant tout une société qui recherche des liens de stabilité, certes relatifs, mais dont l’objectif n’est certainement pas une domination destructrice.
+
+> On peut formuler des hypothèses de lecture de l’histoire pour comprendre le monde contemporain avec des clés qui permettent de soulever des problématiques. Cependant, en histoire, l’anachronisme ne pardonne pas.
+
+> Jouer à se faire peur, c’est la mode du moment. Même chez ceux dont on pourrait croire être plus éclairés face aux dynamiques de pouvoir contemporaines. 
+
 ## Technofascisme
 
 * [Survivalisme, discipline et antiféminisme : plongée dans le collectif Anti-tech Résistance](https://reporterre.net/Survivalisme-discipline-et-anti-feminisme-plongee-dans-le-collectif-Anti-tech-Resistance)
@@ -47,3 +57,21 @@ Cette page a vocation à être enrichie au fil du temps et des productions que j
 > Dans un projet libertarien autoritaire, il y a besoin d’avoir des armes et des outils technologiques qui vont permettre de maintenir l’ordre, parce que la transformation de la société ne peut pas se faire sans violence. Sans oublier l’énergie.
 
 * En podcast chez Trenchtech, [Nastasia Hadjadji et Olivier Tesquet - Technofascisme](https://podcast.ausha.co/trench-tech/nastasia-hadjadji-et-olivier-tesquet-technofascisme)
+
+## Technopunk
+
+* [La complainte du technopunk ringard](https://ploum.net/2025-11-17-techpunk.html)
+
+> Le papillonnage, la sérendipité sont l’essence de l’être humain. Et, cerise sur le gâteau, il est impossible de comptabiliser, de quantifier ce genre de lecteurs. Un usage autrefois normal, mais aujourd’hui incroyablement rebelle et anticapitaliste du web. Un usage technopunk !
+
+> La philosophie punk, à la base, c’est le refus total de la mode, de la tendance. Être technopunk, c’est donc se passionner pour les technologies vieilles, ennuyantes, sans budget marketing.
+
+## Technopolice
+
+* Récension de l'ouvrage [Technopolice. La surveillance policière à l’ère de l’intelligence artificielle](https://journals.openedition.org/champpenal/17284) par Félix Tréguer.
+
+> La notion de « technopolice » est ainsi posée comme néologisme pour désigner ce qui est identifié ici comme bien plus qu’une technique mais comme une politique de surveillance plus généralisée, dans la continuité du schéma interprétatif proposé par Michel Foucault dans ses différents travaux sur les technologies de surveillance et de contrôle des populations (Foucault, 1975, 2004).
+
+## Technosolusionist
+
+* [GiscardPunk - late 70's and 1980's technosolutionist France (synthwave edit)](https://www.youtube.com/watch?v=KKhnDzRgsW8)

@@ -2,7 +2,9 @@
 title: Publications
 ---
 
-Dans cette section, j'ai regroupé mes publications :
+## Publications et interventions scientifiques
+
+* Avec Anne-Laure Donzel, Archives et infrastructures : il faut que tout bouge pour que rien ne change. _forum de l'Association des archivistes français)_, 2025. https://aldonzel.github.io/intervention-forum-AAF25
 
 * Faire des archives des communs. In _La Gazette des archives_, n°271, 2024. Archives en communs : commun, _open data_ et archive ?. pp. 75-90.
 
@@ -15,3 +17,11 @@ Dans cette section, j'ai regroupé mes publications :
 * L’archiviste au coeur de l’institution. In: _La Gazette des archives_, n°244, 2016-4. Les mutations du métier d'archiviste et de son environnement. Actes du 11e colloque national des archivistes communaux et intercommunaux 2-4 juin 2015 (Limoges) pp. 155-168. <https://doi.org/10.3406/gazar.2016.5417>
 
 * Avec Maud Jouve. Quelles compétences pour les archivistes aujourd’hui? Les lacunes des formations initiales. In: _Arbido_, 2015-4. <https://arbido.ch/fr/edition-article/2015-1/kompetenzen/quelles-comp%C3%A9tences-pour-les-archivistes-aujourdhui-les-lacunes-des-formations-initiales>
+
+## Intervention dans la presse
+
+* [Julien Benedetti, e-archiviste en réseaux](https://www.archimag.com/archives-patrimoine/2020/04/01/julien-benedetti-archiviste-reseaux), Archimag. 1er avril 2020
+
+* [Conservation des « archives essentielles » : un tournant inquiétant ?](https://www.humanite.fr/en-debat/debats/conservation-des-archives-essentielles-un-tournant-inquietant), L'Humanité. 11 janvier 2018
+
+* [Le métier d’archiviste, les archives départementales](https://www.radiofrance.fr/franceculture/podcasts/la-fabrique-de-l-histoire/le-metier-d-archiviste-les-archives-departementales-3903148), La Fabrique de l'Histoire, France Culture. 11 décembre 2017
