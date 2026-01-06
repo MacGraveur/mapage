@@ -1,0 +1,51 @@
+---
+categories:
+- IA
+- Archives
+- Colonisation
+- Infrastructure
+- Communs
+- Immigration
+- Data
+- Cartographie
+- Histoire
+date: 01-05-2026
+title: Décembre 2025
+image: Frimaire.jpg
+---
+
+Dernier mois de l'année et quelques réels coup de coeur dans cette veille. Le Réseau tout en haut, et juste ensuite la conversation avec Clara Dealberto chez Sismique.
+
+## Lu
+
+* [Le Réseau, ou lorsque nous étions intraçables](https://laviedesidees.fr/Le-Reseau-ou-lorsque-nous-etions-intracables)
+
+> Cette disparition n’est pas seulement d’ordre technique : elle est aussi politique. Elle signale un basculement dans les conditions d’accès à la communication interpersonnelle, désormais encadrée par des dispositifs marchands, identifiés, plus complexes, qui requièrent un plus haut niveau de technicité pour être détournés.
+
+* [Après 80 ans, les archives de la dénazification sortent de l’ombre](https://actualitte.com/article/128377/archives/apres-80-ans-les-archives-de-la-denazification-sortent-de-l-ombre). 
+
+Avertissement : les liens externes sont ciblés "ChatGPT", j'ai donc un doute plus que sérieux sur la rédaction de cet article, je le partage car l'information reste intéteressante et qu'il est une sorte de cas d'école à montrer. 
+
+> le Landesarchiv confirme que l’ensemble du fonds conservé à La Courneuve a désormais été entièrement numérisé, traité et rendu accessible en ligne via ses portails officiels.
+
+* [De l’intérêt de la Convention de Faro pour protéger et développer les communs fonciers](https://metropolitiques.eu/De-l-interet-de-la-Convention-de-Faro-pour-proteger-et-developper-les-communs.html)
+
+> Elle [Christine Breton] a mené tout un travail avec eux, autour des récits, dans une démarche assez éloignée de l’idée traditionnelle de patrimoine où le conservateur est seul responsable de ce qui mérite d’être protégé, archivé.
+
+> Les communautés patrimoniales sont des espaces auto-institués de mise en relation d’une diversité de personnes attachées à un même commun, de compréhension mutuelle, d’hospitalité et de coopération.
+
+## Vu
+
+* [Communs de données et intelligence artificielle : regards croisés France–Québec](https://www.youtube.com/live/ROigWIj5bM8). Une journée d'étude proposée par la BnF. Vu partiellement en raison de la longueur et hélas pas de découpage par intervention.
+
+* [Regards croisés sur l’oeuvre de Jacques Windenberger](https://scienceotheque.univ-amu.fr/fr/regards-croises-loeuvre-de-jacques-windenberger). Une série de courtes vidéos du photographe autour de son travail sur les ouvriers de Fos-sur-Mer.
+
+* [Sorcières : chronique d’un massacre](https://www.arte.tv/fr/videos/112345-000-A/sorcieres-chronique-d-un-massacre/). Une histoire de la traque des sorcières en partant d'un cas du début XVIIe dans le Pays Basque.
+
+## Entendu
+
+* Chez Sismique, [L’envers de la carte. Entre information, narration et pouvoir](https://www.sismique.fr/episodes/lenvers-de-la-carte-entre-information-narration-et-pouvoir-clara-dealberto-la-republique-des-cartes). Vraiment un joli moment pour mieux appréhender les enjeux des cartes et des inforgraphies.
+
+* Chez Bookmakers, [Dominique Manotti : c'est Marseille mémé !](https://www.arteradio.com/son/dominique-manotti-la-mamie-rouge-du-roman-noir-1-3). Une série sur l'autrice de polar avec notamment un dernier volet sur son ouvrage _Marseille 73_, qui relate les exécutions d'Algériens à Marseille. 
+
+* Chez Paroles d'histoire, [Vraies histoires de faux](https://parolesdhistoire.fr/index.php/2025/10/27/407-vraies-histoires-de-faux-avec-nicolas-sarzeaud/), avec Nicolas Sarzeaud, qui permet de prolongé l'[exposition des Archives nationales](https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours) qui se termine le 2 fèvrier.
