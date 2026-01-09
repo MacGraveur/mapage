@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mac Graveur</title>
+<link>https://macgraveur.github.io/mapage/</link>
+<atom:link href="https://macgraveur.github.io/mapage/index.xml" rel="self" type="application/rss+xml"/>
+<description>la page de Mac Graveur</description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sun, 04 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Décembre 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/decembre2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Dernier mois de l’année et quelques réels coup de coeur dans cette veille. Le Réseau tout en haut, et juste ensuite la conversation avec Clara Dealberto chez Sismique.</p>
+<section id="lu" class="level2">
+<h2 class="anchored" data-anchor-id="lu">Lu</h2>
+<ul>
+<li><a href="https://laviedesidees.fr/Le-Reseau-ou-lorsque-nous-etions-intracables">Le Réseau, ou lorsque nous étions intraçables</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Cette disparition n’est pas seulement d’ordre technique : elle est aussi politique. Elle signale un basculement dans les conditions d’accès à la communication interpersonnelle, désormais encadrée par des dispositifs marchands, identifiés, plus complexes, qui requièrent un plus haut niveau de technicité pour être détournés.</p>
+</blockquote>
+<ul>
+<li><a href="https://actualitte.com/article/128377/archives/apres-80-ans-les-archives-de-la-denazification-sortent-de-l-ombre">Après 80 ans, les archives de la dénazification sortent de l’ombre</a>.</li>
+</ul>
+<p>Avertissement : les liens externes sont ciblés “ChatGPT”, j’ai donc un doute plus que sérieux sur la rédaction de cet article, je le partage car l’information reste intéteressante et qu’il est une sorte de cas d’école à montrer.</p>
+<blockquote class="blockquote">
+<p>le Landesarchiv confirme que l’ensemble du fonds conservé à La Courneuve a désormais été entièrement numérisé, traité et rendu accessible en ligne via ses portails officiels.</p>
+</blockquote>
+<ul>
+<li><a href="https://metropolitiques.eu/De-l-interet-de-la-Convention-de-Faro-pour-proteger-et-developper-les-communs.html">De l’intérêt de la Convention de Faro pour protéger et développer les communs fonciers</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Elle [Christine Breton] a mené tout un travail avec eux, autour des récits, dans une démarche assez éloignée de l’idée traditionnelle de patrimoine où le conservateur est seul responsable de ce qui mérite d’être protégé, archivé.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Les communautés patrimoniales sont des espaces auto-institués de mise en relation d’une diversité de personnes attachées à un même commun, de compréhension mutuelle, d’hospitalité et de coopération.</p>
+</blockquote>
+</section>
+<section id="vu" class="level2">
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
+<ul>
+<li><p><a href="https://www.youtube.com/live/ROigWIj5bM8">Communs de données et intelligence artificielle : regards croisés France–Québec</a>. Une journée d’étude proposée par la BnF. Vu partiellement en raison de la longueur et hélas pas de découpage par intervention.</p></li>
+<li><p><a href="https://scienceotheque.univ-amu.fr/fr/regards-croises-loeuvre-de-jacques-windenberger">Regards croisés sur l’oeuvre de Jacques Windenberger</a>. Une série de courtes vidéos du photographe autour de son travail sur les ouvriers de Fos-sur-Mer.</p></li>
+<li><p><a href="https://www.arte.tv/fr/videos/112345-000-A/sorcieres-chronique-d-un-massacre/">Sorcières : chronique d’un massacre</a>. Une histoire de la traque des sorcières en partant d’un cas du début XVIIe dans le Pays Basque.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level2">
+<h2 class="anchored" data-anchor-id="entendu">Entendu</h2>
+<ul>
+<li><p>Chez Sismique, <a href="https://www.sismique.fr/episodes/lenvers-de-la-carte-entre-information-narration-et-pouvoir-clara-dealberto-la-republique-des-cartes">L’envers de la carte. Entre information, narration et pouvoir</a>. Vraiment un joli moment pour mieux appréhender les enjeux des cartes et des inforgraphies.</p></li>
+<li><p>Chez Bookmakers, <a href="https://www.arteradio.com/son/dominique-manotti-la-mamie-rouge-du-roman-noir-1-3">Dominique Manotti : c’est Marseille mémé !</a>. Une série sur l’autrice de polar avec notamment un dernier volet sur son ouvrage <em>Marseille 73</em>, qui relate les exécutions d’Algériens à Marseille.</p></li>
+<li><p>Chez Paroles d’histoire, <a href="https://parolesdhistoire.fr/index.php/2025/10/27/407-vraies-histoires-de-faux-avec-nicolas-sarzeaud/">Vraies histoires de faux</a>, avec Nicolas Sarzeaud, qui permet de prolongé l’<a href="https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours">exposition des Archives nationales</a> qui se termine le 2 fèvrier.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>IA</category>
+  <category>Archives</category>
+  <category>Colonisation</category>
+  <category>Infrastructure</category>
+  <category>Communs</category>
+  <category>Immigration</category>
+  <category>Data</category>
+  <category>Cartographie</category>
+  <category>Histoire</category>
+  <guid>https://macgraveur.github.io/mapage/veille/decembre2025/</guid>
+  <pubDate>Sun, 04 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/decembre2025/Frimaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hors-série Technowhatever</title>
+  <link>https://macgraveur.github.io/mapage/veille/technowhatever/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Une veille hors-série sur tout ce qui touche au technowhatever. Cette idée a éclos suite à la lecture d’échanges par voix d’articles entre Evgeny Morozov et Cédric Durand au sujet de l’usage du terme technoféodalisme. On sent poindre tout de même plutôt une lutte de chapelles marxistes ou (marxiennes).</p>
+<p>Mais pour débuter, j’ai choisi une publication en deux volets autour de la technocritique qui permette de cadrer le débat et le placer dans une profondeur temporel.</p>
+<p>Une dernière partie est consacrée au technofascisme, terme porté principalement par Olivier Tesquet et Nastasia Hadjadji.</p>
+<p>Cette page a vocation à être enrichie au fil du temps et des productions que je croiserai.</p>
+<section id="technocritique" class="level2">
+<h2 class="anchored" data-anchor-id="technocritique">Technocritique</h2>
+<ul>
+<li><a href="https://aoc.media/analyse/2025/06/30/le-renouveau-de-la-technocritique-1-2-les-moments-de-la-critique/">Le renouveau de la technocritique (1/2) : les moments de la critique</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Arrêtons-nous un instant sur ce geste : casser. Un geste simple et efficace, tout comme il est radical et a été jugé illégal.</p>
+</blockquote>
+<ul>
+<li><a href="https://aoc.media/analyse/2025/07/01/le-renouveau-de-la-technocritique-2-2-les-formes-de-la-critique/">Le renouveau de la technocritique (2/2) : les moments de la critique</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>la technocritique se manifeste sous différentes formes. La technocritique n’est pas une pratique uniforme et homogène, mais doit être saisie dans sa pluralité.</p>
+</blockquote>
+</section>
+<section id="technoféodalisme" class="level2">
+<h2 class="anchored" data-anchor-id="technoféodalisme">Technoféodalisme</h2>
+<ul>
+<li><a href="https://www.monde-diplomatique.fr/2025/08/MOROZOV/68672">Le numérique nous ramène-t-il au Moyen Âge ?</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Mais la gauche raffole d’une idée à laquelle on peut reconnaître le charme du charlatanisme : l’industrie de la tech serait en train de tuer le capitalisme. La critique du techno-féodalisme constitue son créneau éditorial le plus porteur et les diagnostics apocalyptiques se multiplient plus vite encore que les start-up de la Silicon Valley.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.contretemps.eu/capitalisme-numerique-technofeodalisme-durand-morozov/">Où le numérique nous emmène-t-il ? Réponse à Evgeny Morozov</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>La réminiscence féodale renvoie aux rapports de dépendance, à l’effacement de la frontière entre économique et politique et à la prééminence d’une logique de prédation fondée sur l’extension du domaine du contrôle.</p>
+</blockquote>
+<ul>
+<li><a href="https://golb.statium.link/post/20251012technofeodalisme/">Technoféodalisme : l’analogie à contretemps</a></li>
+</ul>
+<p>Texte long mais très précieux, puisque contrairement aux autres, il cherche déjà à tracer les contours du/des féodalismes. Point de départ bien nécessaire pour ensuite évaluer la pertinence du concept de technoféodalisme.</p>
+<blockquote class="blockquote">
+<p>La leçon a en tirer, et qui a toute son importance ici, c’est que la société féodale est d’abord et avant tout une société qui recherche des liens de stabilité, certes relatifs, mais dont l’objectif n’est certainement pas une domination destructrice.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>On peut formuler des hypothèses de lecture de l’histoire pour comprendre le monde contemporain avec des clés qui permettent de soulever des problématiques. Cependant, en histoire, l’anachronisme ne pardonne pas.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Jouer à se faire peur, c’est la mode du moment. Même chez ceux dont on pourrait croire être plus éclairés face aux dynamiques de pouvoir contemporaines.</p>
+</blockquote>
+</section>
+<section id="technofascisme" class="level2">
+<h2 class="anchored" data-anchor-id="technofascisme">Technofascisme</h2>
+<ul>
+<li><a href="https://reporterre.net/Survivalisme-discipline-et-anti-feminisme-plongee-dans-le-collectif-Anti-tech-Resistance">Survivalisme, discipline et antiféminisme : plongée dans le collectif Anti-tech Résistance</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Après Rennes et Paris, ATR a créé des groupes locaux à Grenoble, Nantes et Lyon. Un essaimage qui correspond à une stratégie en trois phases : d’abord recruter, puis faciliter l’action de groupes clandestins pour préparer l’après par l’autonomisation, et enfin relayer les actions de ces groupes clandestins pour « empêcher le système de se relever ».</p>
+</blockquote>
+<ul>
+<li><a href="https://multinationales.org/fr/enquetes/extreme-tech/tesquet-hadjadji-techno-fascisme-doge-palantir-thiel">Olivier Tesquet : « Avec le Doge ou Palantir, on a des exemples très concrets d’une nouvelle architecture du pouvoir, un pouvoir techno-fasciste »</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Dans un projet libertarien autoritaire, il y a besoin d’avoir des armes et des outils technologiques qui vont permettre de maintenir l’ordre, parce que la transformation de la société ne peut pas se faire sans violence. Sans oublier l’énergie.</p>
+</blockquote>
+<ul>
+<li>En podcast chez Trenchtech, <a href="https://podcast.ausha.co/trench-tech/nastasia-hadjadji-et-olivier-tesquet-technofascisme">Nastasia Hadjadji et Olivier Tesquet - Technofascisme</a></li>
+</ul>
+</section>
+<section id="technopunk" class="level2">
+<h2 class="anchored" data-anchor-id="technopunk">Technopunk</h2>
+<ul>
+<li><a href="https://ploum.net/2025-11-17-techpunk.html">La complainte du technopunk ringard</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Le papillonnage, la sérendipité sont l’essence de l’être humain. Et, cerise sur le gâteau, il est impossible de comptabiliser, de quantifier ce genre de lecteurs. Un usage autrefois normal, mais aujourd’hui incroyablement rebelle et anticapitaliste du web. Un usage technopunk !</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>La philosophie punk, à la base, c’est le refus total de la mode, de la tendance. Être technopunk, c’est donc se passionner pour les technologies vieilles, ennuyantes, sans budget marketing.</p>
+</blockquote>
+</section>
+<section id="technopolice" class="level2">
+<h2 class="anchored" data-anchor-id="technopolice">Technopolice</h2>
+<ul>
+<li>Récension de l’ouvrage <a href="https://journals.openedition.org/champpenal/17284">Technopolice. La surveillance policière à l’ère de l’intelligence artificielle</a> par Félix Tréguer.</li>
+</ul>
+<blockquote class="blockquote">
+<p>La notion de « technopolice » est ainsi posée comme néologisme pour désigner ce qui est identifié ici comme bien plus qu’une technique mais comme une politique de surveillance plus généralisée, dans la continuité du schéma interprétatif proposé par Michel Foucault dans ses différents travaux sur les technologies de surveillance et de contrôle des populations (Foucault, 1975, 2004).</p>
+</blockquote>
+</section>
+<section id="technosolusionist" class="level2">
+<h2 class="anchored" data-anchor-id="technosolusionist">Technosolusionist</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=KKhnDzRgsW8">GiscardPunk - late 70’s and 1980’s technosolutionist France (synthwave edit)</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Technocritique</category>
+  <category>Technoféodalisme</category>
+  <category>Technofascisme</category>
+  <guid>https://macgraveur.github.io/mapage/veille/technowhatever/</guid>
+  <pubDate>Fri, 19 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/technowhatever/technowhatever.gif" medium="image" type="image/gif"/>
+</item>
+<item>
+  <title>Novembre 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/novembre2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Publié avec un peu de retard mais avec beaucoup de contenu. Des humanités numériques, du patrimoine, le rôle social et politique des archives. De quoi plaire à beaucoup de lecteurs je pense.</p>
+<section id="lu" class="level1">
+<h1>Lu</h1>
+<ul>
+<li>Le HN Lab propose en deux billets un retour une expérimentation autour du RAG, oui mais le RAG c’est quoi ? Explorer ses documents de travail avec les méthodes de la Retrieval-Augmented Generation <a href="https://hnlab.huma-num.fr/blog/2025/08/26/explorer-ses-documents-avec-la-RAG/">construire un agent conversationnel sur ses propres documents</a> puis la mise en oeuvre plus technique <a href="https://hnlab.huma-num.fr/blog/2025/10/13/deployer-la-RAG/">créer, démonter et mettre en œuvre une application Web complète</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Note : Rôle du chercheur, du documentaliste, de l’archiviste C’est à cette étape qu’il crucial de travailler scientifiquement et documentairement sur : Le choix du modèle LLM (taille, qualité, cible, modèle ré-entrainé dans une discipline ou pas, etc.). Là, le scientifique, le documentaliste, l’archiviste a son mot à dire. Il doit connaitre les grandes tendances des modèles disponibles, ce qui nécessite de se faire accompagner très régulièrement sur ces questions pas les spécialistes du domaine. Le choix de la taille des chunks suivant la nature des documents que l’on explore. Là aussi l’expertise du chercheur est essentielle afin de définir la « topographie » des documents. Le contenu du Prompt qui doit être travailler entre le chercheur et les développeurs. Cette étape — que l’on pourrait nommer « science du Prompting » se rapproche des enjeux de connaissance des fonds d’archives et des instruments de recherche archivistique que doivent avoir par exemple un historien ou une historienne. Comment poser des questions aux documents, avec quelles méthodes et donc quels « gestes » pour reprendre le coeur du livre se C. Muller et F. Clavert.</p>
+</blockquote>
+<ul>
+<li><a href="https://hieretdemain.ch/2025/04/03/institutions-darchives-publiques-de-moyenne-et-petite-taille-face-a-lintelligence-artificielle-ia-generative-buzz-et-realites/">Le présent d’hier et de demain</a>. Pas totalement certains de partager la citation ci-dessous mais le post mérite le temps de lecture, car il pose bien divers sujets.</li>
+</ul>
+<blockquote class="blockquote">
+<p>Tout d’abord l’IA doit être considérée comme un pool de stagiaires efficaces qui font le travail à notre place, mais dont le travail doit être supervisé, contrôlé et relu.</p>
+</blockquote>
+<ul>
+<li><a href="https://entre-temps.net/archives-a-lecran-apres-un-visionnage-demboiter-leurs-pas/">Archives à l’écran. Après un visionnage d’“Emboîter leurs pas”</a>. Sur les traces des archives communautaires, et l’approche des acteurs de ces histoires.</li>
+</ul>
+<blockquote class="blockquote">
+<p>Il y a là une véritable entrée « en archives ». On comprend que cette personne est le réalisateur et qu’il est là pour nous guider dans les dédales des archives sans rien nous expliquer de manière trop didactique.</p>
+</blockquote>
+<ul>
+<li><p>Vous n’aviez pas eu depuis longtemps d’article sur les cahiers citoyens alors ce mois-ci c’est double ration.</p>
+<ul>
+<li>Tout d’abord une longue interview de Manon Pengam chez Blast <a href="https://www.revue-ballast.fr/que-reste-t-il-des-cahiers-de-doleances/">Que reste-t-il des cahiers de doléances ?</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Une mise en ligne n’est pas simple en raison de problèmes techniques : après transmission par la préfecture, la BnF a fait procéder par des prestataires à des campagnes de numérisation puis de transcription des photocopies. L’ensemble des copies de cahiers reçues par la BnF a fait l’objet d’une numérisation en format image. La qualité de la transcription a pâti du manque de temps imparti au processus de numérisation et de traitement, ainsi que des divergences entre prestataires. Aussi, on compte 115 000 mots non reconnus et près de 400 000 mots inconnus sur un total de 50 millions. Des phrases ou même des contributions entières sont non retranscrites et il y a de nombreuses erreurs. Par exemple le mot « impôt » est retranscrit en « impact », « riche » en « niche », etc. Il y a également des problèmes juridiques concernant le respect de la vie privée : les cahiers citoyens, du moins ceux produits et reçus en mairie, ont un statut d’archives publiques, leur communicabilité est donc régie par le code du patrimoine (art. L. 213–1 et suivants).</p>
+</blockquote>
+<ul>
+<li>Puis une note de la fondation Jean Jaurès de Loan Diaz, Thierry Germain et Manon Pengam <a href="https://www.jean-jaures.org/publication/ne-pas-participer-mais-decider-face-a-la-crise-de-la-deliberation-quels-imaginaires-dans-les-cahiers-de-doleances/">“Ne pas participer, mais décider : face à la crise de la délibération, quels imaginaires dans les cahiers de doléances ?”</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Ces documents de natures diverses ont été numérisés et centralisés aux Archives nationales. Les originaux en papier ont été versés aux Archives départementales, et n’ont donc jamais été dissimulés. Pour autant, la réappropriation politique de leur contenu a été freinée par un mépris pour leurs contributrices et contributeurs, tantôt amalgamés aux « gilets jaunes » (appellation devenue entre-temps une étiquette dégradante), tantôt considérés comme un agrégat d’individualités ayant parlé pour elles-mêmes, sans considération pour le collectif national.</p>
+</blockquote></li>
+<li><p><a href="https://alter1fo.com/exposition-archives-departementales-ille-vilaine-rennes-149413">« Elles. Leurs droits, notre histoire. Les Bretilliennes s’émancipent (19-20e siècles) » : une exposition à ne pas manquer</a> aux Archives départementales d’Ille-et-Vilaine</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Loin des figures emblématiques et des pionnières souvent mises en lumière, l’exposition choisit de tourner notre regard vers ces femmes ordinaires, celles dont les histoires restent trop souvent dans l’ombre ou dans l’intimité d’une famille.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Pourtant, cette vocation universelle peine encore à se traduire dans les faits. Car la fréquentation de l’exposition révèle un paradoxe persistant : l’immense majorité des personnes venues sont des femmes. Où sont les hommes ? Si cette asymétrie devait se confirmer, elle ne manquerait pas de soulever de légitimes interrogations.</p>
+</blockquote>
+<ul>
+<li>Continuons à l’ouest avec une <a href="https://www.paysdelaloire.fr/mon-conseil-regional/toute-lactu-de-ma-region/les-actualites/larchive-du-mois-de-novembre-2025">publication</a> des Archives régionales du Pays-de-la-Loire sur les élues de la collectivité.</li>
+</ul>
+<blockquote class="blockquote">
+<p>Lors de la première réunion en janvier 1974, Nicole Hersart de la Villemarqué, est la seule femme - en tant que conseillère générale de Loire-Atlantique - de l’Assemblée qui compte 80 conseillers.</p>
+</blockquote>
+<ul>
+<li><p>Et pour finir une salve sur le patrimoine marseillais.</p>
+<ul>
+<li><a href="https://marsactu.fr/des-proches-danciens-internes-exhument-le-passe-psychiatrique-de-lhopital-de-la-timone/">Des proches d’anciens internés exhument le passé psychiatrique de l’hôpital de la Timone</a> dont plus bas un podcast résonne en écho.</li>
+</ul>
+<blockquote class="blockquote">
+<p>La salle de lecture des Archives départementales des Bouches-du-Rhône, à Marseille, est en effet la première étape pour suivre la route des enquêteurs de la Timone.</p>
+</blockquote>
+<ul>
+<li><a href="https://madeinmarseille.net/actualite/191523-en-images-lhotel-de-cabre-plus-vieille-maison-de-marseille-devoile-ses-facades-renovees/">L’hôtel de Cabre, plus vieille maison de Marseille, dévoile ses façades rénovées</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>C’est la plus vieille maison de Marseille et son histoire est jonchée d’anecdotes étonnantes. L’hôtel de Cabre, du nom de la grande famille de négociants d’Aubagne, parvenue aux plus hautes fonctions politiques de Marseille, aurait été construit au 16e siècle.</p>
+</blockquote>
+<ul>
+<li><a href="https://marsactu.fr/pour-le-photographe-gerard-detaille-marseille-est-un-kaleidoscope-humain/">Pour le photographe Gérard Detaille, “Marseille est un kaléidoscope humain”</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Fabrice Denise offre une formule qui sonne juste : “Cette œuvre, c’est un peu un album de famille dans lequel les Marseillaises et les Marseillais vont se retrouver.”</p>
+</blockquote></li>
+</ul>
+</section>
+<section id="vu" class="level1">
+<h1>Vu</h1>
+<ul>
+<li><p><a href="https://arvest.app/fr">Arvest</a> un outil très prometteur développé par l’Université Rennes 2 pour réaliser un carnet de recherche et rassembler documents, notes et sources. Le tout avec du IIIF.</p></li>
+<li><p><a href="https://expos-historiques.cannes.com/expositions-virtuelles/le-temps-du-renouveau">Le temps du renouveau. Cannes, 1944-1947</a>. On peut retrouver en ligne l’exposition cannoise qui a fermé avant l’été.</p></li>
+<li><p><a href="https://madeinmarseille.net/bons-plans/188626-au-musee-dhistoire-les-detaille-devoilent-150-ans-de-photos-sur-marseille/">Une rétrospective de Marseille en photos depuis 1860 au musée d’Histoire</a>. Courte vidéo de présentation de l’exposition Les Detaille. Photographes de Marseille (1860-2024) au Musée d’histoire de Marseille.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level1">
+<h1>Entendu</h1>
+<ul>
+<li><p>Chez Propagations, <a href="https://podcast.fr/episode/bienvenue-dans-lere-des-propagations/">Bienvenue dans l’ère des propagations</a> avec D.Boullier qui est l’inspirateur du titre du podcast. Chercheur très bon dans la fulgarisation, et assez drôle durant l’interview.</p></li>
+<li><p>Chez les Décodeurs, Ici Pays d’Auvergne. P.F.Brau nous fait découvrir les <a href="https://www.francebleu.fr/emissions/les-decodeurs-ici-pays-d-auvergne/les-archives-departementales-du-puy-de-dome-2358864">Archives départementales du Puy-de-Dôme</a></p></li>
+<li><p>Chez Afriques mémoire d’un continent, RFI. Laurence De Cock dans un enregistrement à Blois balaie l’histoire de l’enseignement de la colonisation. <a href="https://www.rfi.fr/fr/podcasts/afrique-m%C3%A9moires-d-un-continent/20251017-entre-oubli-et-m%C3%A9moire-l-enseignement-du-pass%C3%A9-colonial-en-france">Entre oubli et mémoire, l’enseignement du passé colonial en France</a></p></li>
+<li><p>Chez Louiemedia, <a href="https://louiemedia.com/passages/2025/10/23/grand-mre-ntait-pas-folle">Grand mère n’était pas folle</a> avec Marie-Ilse Bourlanges qui nous présente son parcours de recherche sur l’histoire de sa grand-mère internée à la Timone (Marseille).</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Marseille</category>
+  <category>IA</category>
+  <category>Archives</category>
+  <category>Marseille</category>
+  <category>Colonisation</category>
+  <category>infrastructure</category>
+  <category>Cahiers citoyens</category>
+  <category>IIIF</category>
+  <guid>https://macgraveur.github.io/mapage/veille/novembre2025/</guid>
+  <pubDate>Wed, 03 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/novembre2025/Brumaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Octobre 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/octobre2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Beaucoup de contenu à vous proposer ce mois-ci. L’actualité a été riche dans mes fils divers mais surtout j’ai pris le temps de consulter les ressources que je mets parfois de côté et oubli. Bonne découverte.</p>
+<section id="lu" class="level1">
+<h1>Lu</h1>
+<ul>
+<li><a href="https://www.archives-lyon.fr/guide/le-matrimoine-aux-archives-de-lyon">Le Matrimoine aux Archives de Lyon</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Devant ce nouveau défi, la ville de Lyon ne reste pas silencieuse et sensibilise le grand public sur la question des archives des femmes depuis plusieurs années. En 2023, c’est le sujet du matrimoine qui est mis à l’honneur dans les différentes institutions de conservation, comme au musée d’Histoire - Gadagne. En effet, le musée s’associe, de la même manière que les Archives municipales de Lyon (AML), aux étudiant.e.s du master recherche MATILDA dans le but de valoriser les femmes qui ont joué un rôle important au sein de la ville, au même titre que leurs homologues masculins. Ce master de recherche « MATILDA – histoire européenne des femmes et du genre (XVIII- XXIe siècle) » interroge le rôle du genre dans la fabrication des sociétés européennes, à travers des thèmes variés. C’est dans cette optique de mise en avant du matrimoine que les AML présentent ce guide de lecture des archives des femmes, qui ne se concentre pas essentiellement sur les actrices lyonnaises de renom, mais qui englobe l’histoire des femmes de manière plus large.</p>
+</blockquote>
+<ul>
+<li><p>Dans les archives de Bruno Latour (1947-2022) : <a href="https://labarchiv.hypotheses.org/4673">un penseur des réseaux entre sciences, techniques et société</a> puis <a href="https://labarchiv.hypotheses.org/4740">la bibliothèque de travail</a>. Très bonne démarche de valorisation d’un fonds de chercheur par les Archives nationales.</p></li>
+<li><p><a href="https://www.404media.co/save-our-signs-preservation-project-launches-archive-of-10-000-national-park-signs/">‘Save Our Signs’ Preservation Project Launches Archive of 10,000 National Park Signs</a>. On se rappelle qu’une archive c’est quelque soit le support !</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>The order and destruction of such signage represented another step in the Trump administration’s efforts to whitewash, alter or completely delete important public information about history, research, and science.</p>
+</blockquote>
+<ul>
+<li><a href="https://pba.mmsh.fr/?p=35306">Web Archiving Aix Marseille</a>. L’archivage du web ce n’est pas seulement le dépôt légal du Web de la BnF.</li>
+</ul>
+<blockquote class="blockquote">
+<p>Web Archiving Aix Marseille est le nom donné à une instance d’archivage maintenue par le CEntre de formation et de soutien aux DOnnées de la REcherche (CEDRE) à la demande du WebLab.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.laprovence.com/article/culture-loisirs/4583354243614214/un-pan-de-l-histoire-se-cache-au-coeur-de-ce-magasin-situe-dans-le-1er-arrondissement-de-marseille">Un pan de l’histoire se cache au cœur de ce magasin situé dans le 1er arrondissement de Marseille</a>. Intéressant à noter dans la version papier du journal le titre est “Quand l’enceinte d’Uniqlo était le coffre-fort du colonialisme”, une auto-censure de La Provence ?</li>
+</ul>
+<blockquote class="blockquote">
+<p>Son destin révèle l’imbrication structurelle entre colonisation et finance, concluent l’historien Xavier Daumalin</p>
+</blockquote>
+<ul>
+<li><a href="https://www.revue-ballast.fr/esquisse-pour-une-histoire-de-la-commune-de-marseille-de-jean-claude-izzo/">Esquisse pour une histoire de la Commune de Marseille — de Jean-Claude Izzo</a>. Intéressante vue d’un romancier sur l’histoire de sa ville.</li>
+</ul>
+</section>
+<section id="vu" class="level1">
+<h1>Vu</h1>
+<ul>
+<li><p>Sur Arte.tv vous retrouvez <a href="https://www.arte.tv/fr/videos/RC-026929/wolf-hall/">Wolf Hall</a> et une deuxième (tardive) seconde saison. Moi qui ne connait pas grand chose à l’histoire de l’Angleterre c’est une façon agréable d’en découvrir plus.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=i7loUF64Lso&amp;ab_channel=TrenchTech">Ophélie Coelho - Guerre froide numérique : les Big Tech prennent le pouvoir</a>. Jolie ambiance sur ce podcast vidéo. Je suis plutôt audio mais ici on a une plus value je trouve.</p></li>
+<li><p><a href="https://app.ptm.huma-num.fr/galligeo/">Galligeo</a>. Géoréférencer des plans et cartes de chez Gallica, ça donne des idées pour d’autres sites et portails.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level1">
+<h1>Entendu</h1>
+<ul>
+<li><p>Chez Cause commune, parlez-moi d’IA avec une double invitation à <a href="https://cause-commune.fm/archive-podcast-page/">Serge Abitbol</a>. Le premier épisode introductif est intéressant si vous n’avez pas de base sur l’IA.</p></li>
+<li><p>Chez Propagations, <a href="https://shows.acast.com/propagations/episodes/julien-nocetti-ia-militaire-tech-monte-au-front">Quand la tech monte au front avec Julien Nocetti</a>. Une jolie introduction aux enjeux de géopolitique liés à l’IA.</p></li>
+<li><p>Chez Circular Metabolism, <a href="https://www.circularmetabolism.com/p/comment-prendre-soin-de-la-technosphere">Comment Prendre Soin de la Technosphère ?</a>. Entretien avec Jérôme Denis. Toujours riche dans ses interventions, j’aime écouter des chercheurs qui en restant sur leurs sujets arrivent toujours à aller un peu plus loin, s’arrimer encore plus à d’autres disciplines ou chercheurs.</p></li>
+<li><p>Chez #1257, <a href="https://1257.pantheonsorbonne.fr/1257-podcast#">Documenter la destruction du patrimoine de Gaza</a> avec Fabrice Virgili et Élodie Bouffard</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Comment reconstruire quand on a plus de cadastre ?</p>
+</blockquote>
+<ul>
+<li>Chez Dans la tête d’un coureur, La Guerre des DATAS [Les majuscules ne sont pas de moi !] : <a href="https://www.danslateteduncoureur.fr/blog/brooks-data-science-digital-performance-progression-running-trail">Comment les pros utilisent la science (et les maths) pour performer.</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Marseille</category>
+  <category>Infrastructure</category>
+  <category>Maintenance</category>
+  <category>Archivistique</category>
+  <category>Histoire</category>
+  <category>Colonisation</category>
+  <category>Postcolonial</category>
+  <category>Web</category>
+  <guid>https://macgraveur.github.io/mapage/veille/octobre2025/</guid>
+  <pubDate>Tue, 30 Sep 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/octobre2025/Vendemiaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Septembre 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/septembre2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Les mois changent et ne se ressemblent pas en termes de veille. Peu de lectures enthousiasmantes ce mois-ci mais de nombreuses choses vues.</p>
+<section id="lu" class="level1">
+<h1>Lu</h1>
+<ul>
+<li><p><a href="https://site.dbelveze.fr/posts/bibliotheques_reseaux_sociaux.html">La communication en bibliothèque au péril des réseaux sociaux privateurs</a>. Très intéressante réflexion sur la présence sur les réseaux sociaux propriétaires. Le point de vue vient d’une bibliothèque universitaire mais me semble aussi pertinente pour des archives ou tout service public.</p></li>
+<li><p><a href="https://www.ouest-france.fr/societe/gilets-jaunes/numerises-etudies-mis-en-scene-que-deviennent-les-cahiers-de-doleances-des-gilets-jaunes-79cb4402-8e21-11f0-b582-5820cfc46140">Numérisés, étudiés, mis en scène… Que deviennent les cahiers de doléances des Gilets jaunes ?</a></p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Des citoyens s’organisent pour interpréter rigoureusement les écrits. Interpréter oui, car contrairement aux questionnaires fermés, aux consultations en ligne ou encore aux sondages institutionnels, ces cahiers avaient justement pour but d’être ouverts à la liberté d’expression. Ils contiennent donc une grande part d’émotions, de craintes, de colères, d’espoirs, mais pas toujours de revendications claires.</p>
+</blockquote>
+</section>
+<section id="vu" class="level1">
+<h1>Vu</h1>
+<ul>
+<li><p>Nota Bene propose trois vidéos sur l’Algérie :“<a href="https://www.youtube.com/watch?v=6TWeh1ZhyHU">Pourquoi la France a colonisé l’Algérie ?</a>” puis <a href="https://www.youtube.com/watch?v=8fA4MhtLNko">Les Algériens égaux des Français quand l’Algérie était colonisée ?</a> et enfin <a href="https://www.youtube.com/watch?v=TCMC6hIHckU">La décolonisation de l’Algérie</a>. Vraiment courageux de se lancer sur un tel sujet, le tout est vraiment bien fait, appuyé par un panel d’historiens solides sur l’histoire de l’Algérie. Petit bémol quelques séances vidéo de l’ECPAD me semble anachroniques par rapport au moment évoqué, par exemple dans l’épisode 2 on voit clairement des vidéos de l’époque de la Guerre et du plan de Constantine.</p></li>
+<li><p>Sur France.tv <a href="https://www.france.tv/france-2/tuer-au-nom-de-dieu-enquete-sur-le-massacre-de-la-saint-barthelemy/7413983-emission-du-mardi-26-aout-2025.html">Tuer au nom de Dieu, enquête sur le massacre de la Saint-Barthélemy</a>. Après son ouvrage “Tous ceux qui tombent”, puis une série de podcast <a href="https://museeprotestant.org/podcast/les-voix-de-la-saint-barthelemy/">“les voies de la Saint-Barthélemy”</a>, on retrouve Jéméri Foa à la manoeuvre pour un documentaire en deux volets.</p></li>
+<li><p><a href="https://peertube.openstreetmap.fr/w/7avEP5WPUvur4za46zXGLj">Map, quoi de neuf ?</a> présentation par Yohann Boniface des dernières évolutions de Umap lors des dernières State Of The Map en juin à Tours. Si vous ne connaissez pas cet outil libre de cartographie, c’est 25 mn très bien investie.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=julOirrVT9s&amp;ab_channel=datagouv">Quel rôle pour les citoyens et la société civile dans la gouvernance des données ?</a> Un bilan doux amer sur l’ouverture des données publiques, et de la place de la société civile qui s’affronte des administrations.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level1">
+<h1>Entendu</h1>
+<ul>
+<li><p>Chez Chemins d’histoire, on retrouve avec grand plaisir Camille Lefebvre avec <a href="https://cheminsdhistoire.fr/emission226/">Retrouver l’œuvre d’al-Hajj Musa ibn Hissein, un savant du Borno du tournant des XIXe et XXe siècles</a>. Plonger à la fois dans l’histoire mais aussi la linguistique. Vraiment passionnant.</p></li>
+<li><p>Chez LSD, <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-musees-la-reinvention-permanente">Musées, la réinvention permanente</a>. Avec un focus particulier sur le dernier volet qui a pour thème les restitutions. Si le sujet est très souvent évoqué dans les musées, il concerne aussi les archives notamment dans le cadre colonial.</p></li>
+<li><p>Chez Avoir raison avec… J’ai découvert <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-avoir-raison-avec-jacques-ellul">Jacques Ellul</a>. Si on s’intéresse à la critique de la technique et des technologies il semble une bonne piste.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Histoire</category>
+  <category>Colonisation</category>
+  <category>Réseaux sociaux</category>
+  <category>Cartographie</category>
+  <category>Communs</category>
+  <category>OpenGLAM</category>
+  <category>Cahiers citoyens</category>
+  <guid>https://macgraveur.github.io/mapage/veille/septembre2025/</guid>
+  <pubDate>Sun, 31 Aug 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/septembre2025/Fructidor.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Été 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/Ete2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Une livraison un peu spéciale suite à l’été. Tout d’abord dans la section “Lu” vous trouverez de nombreuses ressources sur le patrimoine marseillais et particulièrement en lien avec l’histoire industrialo-portuaire. Ensutie une section “Vu” vide faute de contenu à partager. Et sur la forme j’ai tenté d’évoluer en mettant des citations des contenus en avant.</p>
+<section id="lu" class="level2">
+<h2 class="anchored" data-anchor-id="lu">Lu</h2>
+<ul>
+<li><a href="https://theconversation.com/a-fos-sur-mer-un-territoire-industriel-portuaire-a-lepreuve-de-la-transition-energetique-260437">À Fos-sur-Mer, un territoire industriel portuaire à l’épreuve de la transition énergétique</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Ces travaux historiques ont souligné le rôle ambivalent dévolu à l’innovation technologique. Elle peut jouer un rôle clé dans la mesure, la compréhension, la dénonciation puis la réduction des pollutions industrielles, mais aussi faciliter leur acceptation. Ceci à cause des discours qui réduisent les enjeux à des aspects techniques véhiculant l’idée que la technologie finira par réparer ce qu’elle a abîmé.</p>
+</blockquote>
+<ul>
+<li><a href="https://marsactu.fr/a-lestaque-le-camembert-de-cousteau-echappe-a-la-demolition-et-reprend-des-couleurs/">À l’Estaque, le “camembert” de Cousteau échappe à la démolition et reprend des couleurs</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Un projet ancré dans le concret avec un enjeu clair : se réapproprier le littoral, en s’appuyant sur l’espace stratégique que revêt le bâtiment rond. “Le camembert est un lien, une continuité entre la rue et la mer, tout en étant une vitrine pour le DRASSM et le sous-marin, appuie Jonathan Cacchia. Réaménager le lieu, c’est permettre aux deux éléments de ne plus tourner le dos aux Marseillais.”</p>
+</blockquote>
+<ul>
+<li><a href="https://www.laprovence.com/article/region/19291688183914/histoire-le-griffon-ce-sous-marin-sauve-des-griffes-de-l-oubli">Histoire : le Griffon, ce sous-marin sauvé des griffes de l’oubli à Marseille</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Vendu à une société de récupération de métaux, le Griffon a été racheté, il y a quelques années, par un groupe de passionnés issus, notamment, de la Navale, une association marseillaise investie dans la conservation du patrimoine maritime de la Méditerranée, et des Compagnons du SAGA .</p>
+</blockquote>
+<ul>
+<li><a href="https://www.lemonde.fr/m-le-mag/article/2025/07/17/a-marseille-un-temple-du-pret-a-porter-fait-son-inventaire-colonial_6621702_4500055.html">A Marseille, un temple du prêt-à-porter fait son inventaire colonial</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Un passé « comme souvent visible par tous mais illisible pour la plupart d’entre nous », constate le docteur en sciences politiques Paul Max Morin, 37 ans, qui a entrepris de l’expliciter. Embarquant avec lui ses étudiants de deuxième année de sciences politiques dans un projet au nom évocateur : « le coffre-fort de l’Empire ».</p>
+</blockquote>
+<ul>
+<li><a href="https://madeinmarseille.net/a-la-une-marseille/185951-couronne-bonne-mere/">La couronne de la Bonne Mère retirée et exposée pour la première fois au public</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Conçue par le sculpteur Eugène Louis Lequesne grâce à la technique de la galvanoplastie, cette pièce de 150 kilos et 1,50 mètre de diamètre n’avait encore jamais été restaurée. « C’est la première fois qu’elle descend de sa place habituelle au-dessus de la statue.””</p>
+</blockquote>
+<ul>
+<li><a href="https://aoc.media/opinion/2025/07/23/quand-de-jeunes-sportifs-amateurs-deviennent-accros-a-leur-outil-connecte/">Quand de jeunes sportifs amateurs deviennent « accros » à leur outil connecté</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>sans chercher à savoir si la dépendance à un dispositif digitalisé existe véritablement, nous avons adopté un point de vue compréhensif, qui prend en considération les discours d’expérience vécue de jeunes sportifs s’auto-catégorisant comme « dépendants », « accros » ou « addicts » à un outil connecté.</p>
+</blockquote>
+<ul>
+<li><a href="https://usbeketrica.com/fr/article/futurs-fossilises-comment-les-artistes-numerisent-le-patrimoine-naturel-europeen">Futurs fossilisés : comment les artistes numérisent le patrimoine naturel européen</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>La rigueur scientifique n’est pas incompatible avec la sensibilité artistique, insiste Valérie Cornet, chercheuse en biologie à l’UNamur. Et l’approche art-science peut rendre la recherche plus accessible au grand public.</p>
+</blockquote>
+<ul>
+<li><a href="https://www.huffingtonpost.fr/tech-futurs/video/les-images-generees-par-ia-sont-de-plus-en-plus-jaunes-et-avec-la-consanguinite-ca-va-s-aggraver_252892.html">Les images générées par IA sont de plus en plus jaunes, et avec la « consanguinité » ça va s’aggraver</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Si un modèle consanguin s’effondre, il peut donc se mettre à « halluciner ». Il peut aussi commencer à générer des images pas du tout naturelles, voire particulièrement jaunes.</p>
+</blockquote>
+<ul>
+<li><a href="https://theconversation.com/guerre-dalgerie-ce-que-les-difficultes-dacces-aux-archives-disent-de-notre-democratie-261053">Guerre d’Algérie : ce que les difficultés d’accès aux archives disent de notre démocratie</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>L’intention du législateur est de rendre incommunicables perpétuellement : les documents qui permettent de conceptualiser le fonctionnement d’une arme nucléaire, biologique ou chimique ; ceux qui expliquent comment techniquement les assembler ; ceux qui expliquent comment utiliser ces armes et ceux qui indiqueraient où les trouver. Ce sont essentiellement des archives techniques et non des documents historiques. Malheureusement, plus d’une décennie plus tard, cet article est détourné de son sens.</p>
+</blockquote>
+</section>
+<section id="vu" class="level2">
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
+<p>Un été sans vidéo, ni conférence. Alors rien vu !</p>
+</section>
+<section id="entendu" class="level2">
+<h2 class="anchored" data-anchor-id="entendu">Entendu</h2>
+<ul>
+<li><p>Chez NEXT [Écosystème 7/7] <a href="https://next.ink/podcast/ecosysteme-7-7-numerique-sobre-numerique-democratique/">Numérique sobre, numérique démocratique</a>. J’ai pas été totalement convaincu pas toute la série mais ce dernier épisode est vraiment très intéressant, notamment car à l’intervenante, <a href="https://metropole.nantes.fr/ma-ville-ma-metropole/nantes-et-ses-11-quartiers/elus-municipaux/louise-vialard">Louise Vialard</a> qui place bien le sujet du numérique comme un choix numérique, y compris dans une collectivité.</p></li>
+<li><p>Chez l’atelier des historiens, on retrouve Émilien Ruiz et <a href="https://smartlink.ausha.co/dans-l-atelier-des-historiens/fonction-publique-des-statistiques-pour-quelles-politiques">son travail sur les effectifs dans la fonction publique</a>. Au-delà du sujet et de son traitement, je trouve intéressant de suivre le parcours d’un chercher qui ne s’était pas destiné à ce sujet.</p></li>
+<li><p>Chez la Cantine brestoise <a href="https://www.lacantine-brest.net/57-patrimoine-et-3d-immersive-avec-marie-morgane-abiven/">Patrimoine et 3D immersive</a>, avec Marie-Morgane Abiven. L’utilisation de la 3D dans le patrimoine comme objet scientifique et de médiation.</p></li>
+<li><p>Chez France Culture <a href="https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins-d-ete/faire-vivre-les-archives-5436449">Du fonds Radio France à Gallica : quand les archives inspirent la fiction</a>. Bon pas mal de choses mélangées (notamment des trucs qui non ne sont pas des archives), mais ça vaut le coup d’entendre Jaenada parler aussi bien des archives (et des archivistes).</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Sobriété</category>
+  <category>Histoire</category>
+  <category>Marseille</category>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Patrimoine</category>
+  <guid>https://macgraveur.github.io/mapage/veille/Ete2025/</guid>
+  <pubDate>Thu, 31 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/Ete2025/Thermidor.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Juin 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/juin2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Un mois de juin assez dense, j’ai même fait le choix de retirer quelques lectures pour rester digeste. Bonne lecture et rendez-vous à la rentrée.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://lejournal.cnrs.fr/articles/faire-entendre-les-sons-de-la-belle-epoque">Faire entendre les sons de la Belle Époque</a>. L’archéologie sonore sujet plutôt méconnu mais tellement passionnant.</p></li>
+<li><p><a href="https://www.agirparlaculture.be/lassociatif-militant-face-a-la-fascisation-des-reseaux-sociaux/">L’associatif militant face à la fascisation des réseaux sociaux</a>. Partir ? rester ? Allez où ? Si après l’élection de Trump on a pu sentir un mouvement, hélas cet article nous montre bien qu’il y a encore un long chemin pour quitter les réseaux toxiques.</p></li>
+<li><p><a href="https://www.arthurperret.fr/blog/2025-06-13-le-futur-de-l-edition-scientifique-est-au-format-texte.html">Le futur de l’édition scientifique est au format texte</a>. Toujours pertinent de lire les articles d’Arthur Perret. L’approche par la souveraineté et les communs me parle particulièrement.</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Je pense aussi qu’il faut tirer les leçons du Web sémantique : persévérer dans l’ouverture et l’interconnexion mais en explorant peut-être une voie plus low tech, plus soutenable, plus immédiatement pratiquable.</p>
+</blockquote>
+<ul>
+<li><a href="https://aoc.media/opinion/2025/06/17/archives-du-web-pour-des-partenariats-public-pirates/">Archives du web : pour des partenariats public pirates</a>. Et si nous repensions notre rôle d’archiviste ? de service public ?</li>
+</ul>
+<blockquote class="blockquote">
+<p>Le défi des « partenariats public pirates » tente de construire une synergie (fragile, expérimentale) entre structures publiques et autonomie hacker, en voyant dans cette dernière une ressource complice plutôt qu’un adversaire à réprimer</p>
+</blockquote>
+<ul>
+<li><a href="https://theconversation.com/partage-des-donnees-agricoles-du-tracteur-au-serveur-comprendre-lexperience-dagdatahub-256597">Partage des données agricoles : du tracteur au serveur, comprendre l’expérience d’Agdatahub</a> Là aussi souveraineté et numérique.</li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://la1ere.franceinfo.fr/j-aurais-vraiment-aime-savoir-ou-est-mon-debut-kalash-et-quelques-autres-explorent-leurs-racines-dans-aux-origines-l-esclavage-1580975.html">“Aux origines l’esclavage”</a>. Totalement emballé par ce documentaire sur l’esclavage, la mémoire en partage, la recherche d’origine. Le fonds est très bien et la forme de narration particulièrement réussie.</p></li>
+<li><p>Le dessous des images - Regarder pour mieux voir chez Arte.tv : <a href="https://www.arte.tv/fr/videos/121271-048-A/le-dessous-des-images/">Effacez ces images que Trump ne saurait voir !</a>. Un format court proposé par Arte qui montre la violence des purges voulu par Trump dans les banques d’images publiques.</p></li>
+<li><p><a href="https://www.arte.tv/fr/videos/120400-001-A/mr-bates-contre-le-post-office-1-4/">Mr.&nbsp;Bates contre le Post Office</a>. Une histoire vraie, si vraie qu’aucun scénariste n’aurait réussi à l’imaginer. Mr Bates face au mur de l’administration et de la dématérialisation (loupée).</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p><a href="https://www.radiogrenouille.com/tous-les-programmes/anachroniques/">Anachroniques</a>. Je n’avais pas eu encore eu l’occasion de le signaler dans ma veille mais Jérémie Foa et Thomas Glesener proposent une émission chez radio Grenouille (radio locale marseillaise) une émission sur l’actualité des sciences humaines. Pour les non marseillais, le tout est disponible en podcast.</p></li>
+<li><p>Chez Archivistica un épisode qui détone sur la <a href="https://shows.acast.com/archivistica/episodes/680a37c86f5bfb044f5b2d87">santé mentale</a> chez les archivistes.</p></li>
+<li><p>Chez Quoi de neuf en histoire <a href="https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-125-le-coran-europeen-par-john-tolan">“Le Coran européen”</a>. La fachosphère aura eu le mérite de donner une visibilité à ce projet de recherche hérudit. Je recommande particulièrement cet épisode.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Histoire</category>
+  <category>Réseaux sociaux</category>
+  <category>Souveraineté</category>
+  <category>Numérique</category>
+  <category>Dématérialisation</category>
+  <guid>https://macgraveur.github.io/mapage/veille/juin2025/</guid>
+  <pubDate>Sat, 31 May 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/juin2025/Prairial.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mai 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/mai2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>C’est donc le premier mois de veille publié directement sur une page hébergée via mon GitHub. Ceci explique un contenu un peu plus léger.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://theconversation.com/moins-de-syntaxe-plus-de-pulsions-les-enjeux-de-lecriture-a-lere-du-numerique-254151">Moins de syntaxe, plus de pulsions… Les enjeux de l’écriture à l’ère du numérique</a>. Ce que le numérique fait à l’écriture.</p></li>
+<li><p><a href="https://basta.media/wikipedia-la-fabrique-du-savoir-en-commun">Wikipédia, la fabrique du savoir en commun</a>. Une intéressante série en trois volets autour des projets Wiki. Tout n’est pas parfait dans cet univers mais on est loin de la caricature du Point.</p></li>
+<li><p><a href="https://www.zdnet.fr/blogs/l-esprit-libre/le-musee-de-quimper-met-en-lumiere-ses-oeuvres-dans-wikipedia-474944.htm">Le musée de Quimper met en lumière ses œuvres dans Wikipédia</a>. Que de chemin parcouru quand on voit qu’un musée et une université produisent et partagent que Wikipédia et abondent à WikiCommons.</p></li>
+<li><p>Les tests génétiques récréatifs, ça va moins vous amuser. <a href="https://www.404media.co/23andme-sale-shows-your-genetic-data-is-worth-17/">23andMe Sale Shows Your Genetic Data Is Worth $17</a></p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><a href="https://www.arte.tv/fr/videos/RC-020387/l-odyssee-de-l-ecriture/">L’odyssée de l’écriture</a>. Si l’ensemble m’a peu emballé, cela valait la peine au moins pour les derniers éléments concernants la Chine. Vraiment je n’avais aucune idée de ce qui la numérique avait fait à leur écriture.</li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez le cours de l’histoire, <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/histoire-et-numerique-les-images-du-passe-au-defi-du-present-7907085">Histoire et numérique, les images du passé au défi du présent</a> avec comme invité Daniel Foliard et Julien Schuh. Précieux échange sur la photographie, sa numérisation , ses réutilisations (notamment l’IA récemment).</p></li>
+<li><p>Chez Next Écosystème, <a href="https://next.ink/podcast/next-lance-ecosysteme-une-nouvelle-serie-audio-sur-les-enjeux-environnementaux-du-numerique/">une nouvelle série audio dans laquelle explorer les enjeux environnementaux du numérique</a>. Après une série sur l’IA Next s’attaque au sujet de l’environnement.</p></li>
+<li><p>Chez LSD, <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-les-voix-du-pcf-archives-sonores-du-communisme-francais">Les voix du PCF, archives sonores du communisme français</a>. Une série à ne pas louper pour les archivistes et à tout ceux qui s’intéressent à la politique.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>Wikipédia</category>
+  <category>Histoire</category>
+  <category>OpenGLAM</category>
+  <guid>https://macgraveur.github.io/mapage/veille/mai2025/</guid>
+  <pubDate>Wed, 30 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/mai2025/Floreal.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Avril 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/avril2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Un mois un peu bousculé, avec une veille en fait très concentré sur la première quinzaine. A la relecture, je me rends compte qu’on y trouve beaucoup d’oeuvres littéraires et artistiques.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p>Pour démarrer cette veille, la lecture d’un texte poétique et un peu nostalgique sur la production numérique et le rapport au temps. <a href="https://falai.se/journal/encoded-story/">derrière l’encodage</a></p></li>
+<li><p>Cet <a href="https://www.dpconline.org/digipres/implement-digipres/dpc-ram/download-dpc-ram">outil</a> à la fois très pointu et totalement aisé à prendre en main pour une auto-évaluation de la maturité de son institution en matière de préservation arrive en V3 et traduit en français.</p></li>
+<li><p><a href="https://mag.mo5.com/268476/la-demoscene-enfin-reconnue-comme-patrimoine-culturel-en-france/">La demoscene enfin reconnue comme patrimoine culturel en France</a>. La demoscene, je n’en avais aucunement entendu parlé, maintenant c’est fait. Merci aux personnes qui se mobilisent pour la patrimoine numérique.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p>Guerre d’Algérie : un <a href="https://www.france.tv/france-5/la-case-du-siecle/7025014-algerie-sections-armes-speciales.html">documentaire</a> inédit sur l’usage des armes chimiques <a href="https://www.lavoixdunord.fr/1563709/article/2025-03-12/guerre-d-algerie-un-documentaire-inedit-sur-l-usage-des-armes-chimiques-par-la">déprogrammé par France Télévisions</a>. On peut entendre l’historien Christophe Lafaye en parler chez <a href="https://podcasts.nova.fr/radio-nova-la-derniere/202504062140-lintegrale-la-derniere-du-6-avril-2025-avec-fabrice-riceputi">Nova</a>.</p></li>
+<li><p>De plus en plus de production cartographique pour accéder aux fonds d’archives. Ici en <a href="https://umap.openstreetmap.fr/fr/map/etablissements-scolaires-et-denseignements-superie_1080984#11/48.5855/-1.7612">Ille-et-Vilaine</a>, à <a href="https://www.archives-lyon.fr/documents-remarquables/rechercher-dans-les-lotissements-1924-2006">Lyon</a> ou sur des projets plus ambitieux en <a href="https://archives.vendee.fr/participer/reconstituez-les-paysages">Vendée</a>. ça donne quelques idées pour 2026.</p></li>
+<li><p><a href="https://ricardo.medialab.sciences-po.fr">RICardo</a> (Research on International Commerce) est un projet dédié au commerce entre nations sur une période allant des débuts de la Révolution industrielle à la veille de la Seconde Guerre mondiale. Ce projet déjà ancien m’était totalement passé inaperçu. Une intéressante exploitation de RiC avant même une V 1.0.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Collège de France le quatrième cours de Patrick Boucheron sur “le sexe et le pouvoir” traite de la <a href="https://podcasts.apple.com/fr/podcast/04-le-sexe-du-pouvoir-la-tyrannie-masculine/id1075748999?i=1000686807371">tyrranie masculine</a>. Si l’ensemble des cours est à écouter, celui-ci est précieux à écouter messieurs.</p></li>
+<li><p>Chez Parole d’histoire André Loez reçoit Eric Le Bourhis et Sarah Gensburger pour présenter leur ouvrage <a href="https://parolesdhistoire.fr/index.php/2025/04/12/376-lautre-spoliation-des-juifs-parisiens-avec-eric-le-bourhis-et-sarah-gensburger/">L’autre spoliation des juifs parisiens</a>. Des échanges très intéressants sur les archives et leur matérialités.</p></li>
+<li><p>Chez Grand Canal, un <a href="https://www.radiofrance.fr/franceinter/podcasts/grand-canal/grand-canal-du-mardi-23-janvier-2024-9873276">échange</a> avec Gaëlle Obiégly. Autour de son roman, qui traite de la distinction entre le déchet et l’archive ?</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Préservation</category>
+  <category>Patrimoine</category>
+  <category>Colonisation</category>
+  <category>Cartographie</category>
+  <category>RiC</category>
+  <category>Histoire</category>
+  <guid>https://macgraveur.github.io/mapage/veille/avril2025/</guid>
+  <pubDate>Mon, 31 Mar 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/avril2025/Germinal.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mars 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/mars2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Malgré <a href="https://framapiaf.org/tags/aafrennes2025">#AAFRennes2025</a> qui m’a pas mal mobilisé, au moins mentalement, voici la veille de ce mois. Avec dans le “vu” deux compte-rendus de conférences. J’espère pouvoir réitérer ce format.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://france3-regions.francetvinfo.fr/grand-est/champagne-ardenne/attaques-contre-wikipedia-ce-contributeur-nous-explique-comment-fonctionne-l-encyclopedie-libre-et-partagee-3113800.html">Attaques contre Wikipédia : ce contributeur nous explique comment fonctionne l’encyclopédie libre et partagée</a> Superbe interview de <a href="https://piaille.fr/@lyokoi">Lyokoï</a>, en ce moment pour lire un long article complet et exact sur Wikipedia fait beaucoup de bien.</p></li>
+<li><p><a href="https://aoc.media/analyse/2025/02/27/quand-fragmentation-dinternet-rime-avec-profits/">Quand fragmentation d’Internet rime avec profits</a>. Intéressante réflexion sur la concentration du web par de très grandes entreprises, et le besoin d’en sortir.</p></li>
+<li><p>Le soin des choses numériques, 1 : <a href="https://digipres.fr/archives/177">Préservation du train d’octets et préservation sémantique</a> par <a href="https://digipres.club/@BertrandCaron@">Bertrand Caron</a> une réflexion sur la pérennisation numérique à partir de l’ouvrage de Denis et Pontille en plusieurs volets, un second est déjà publié.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><a href="https://www.france.tv/documentaires/documentaires-societe/6888928-les-sacrifies-de-l-ia.html">Les sacrifiés de l’IA</a>. <a href="https://video.blast-info.fr/w/xtTpevG3JuJCFoU5uwPCQp">Exploitation, destruction et techno-fascisme : la face cachée de l’IA</a> toujours par Antonio Casilli mais dans une version plus courte et peut-être plus pédagogique pour entrer dans le sujet.</li>
+</ul>
+<p>J’ai vu sur Mastodon cette intéressante infrographie de <a href="https://social.sciences.re/@FannyDcl">Fanny Ducel</a> qui me semble en une image donner à voir le sujet.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://hackmd.io/_uploads/H1PEF33ske.png" class="img-fluid figure-img"></p>
+<figcaption>faa7fb44131763be</figcaption>
+</figure>
+</div>
+<ul>
+<li><p>Marseille criminels, conférence de Laurence Montel, le compte-rendu est à lire <a href="https://hackmd.io/@macgraveur80/marseille_crime">ici</a></p></li>
+<li><p>Soirée de lancement de la plate-forme Mars-Imperium, le compte-rendu à lire <a href="https://hackmd.io/@macgraveur80/marsimperium">ici</a>.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Passion Modernistes : <a href="https://passionmedievistes.fr/modernistes-ep-44-cecile-rhone/">Cécile et le Rhône</a>.</p></li>
+<li><p>Chez le cours de l’histoire : <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aimer-l-histoire-et-en-faire-son-metier-2560138">Aimer l’histoire et en faire son métier</a>. Une belle brochette d’intervenants qui montrent la pluralité des parcours possibles avec un diplome supérieur en histoire.</p></li>
+<li><p>Chez <a href="https://piaille.fr/@biblioconnards">Deux connards dans un bibliobus</a> : <a href="https://pdca.st/0AJs">322.420 : indexation, piège à con</a> poadcast publié en décembre sur les enjeux de l’indexation pour les bibliothèque et archives, l’actualité aux États-Unis lui donnent un autre relief, même si le propos vaut aussi ici et maintenant. Et merci à eux pour ce magnifique mème.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://hackmd.io/_uploads/SkJjUrF21e.jpg" class="img-fluid figure-img"></p>
+<figcaption>1741625822922-redux</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>Wikipédia</category>
+  <category>Web</category>
+  <category>Maintenance</category>
+  <category>IA</category>
+  <category>Colonisation</category>
+  <category>Histoire</category>
+  <category>Indexation</category>
+  <guid>https://macgraveur.github.io/mapage/veille/mars2025/</guid>
+  <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/mars2025/ventose.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Février 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/fevrier2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Une fois fait le bilan je vois qu’il y a beaucoup d’IA dans ma veille, mais aussi hélas un gros sujet sur le nouveau mandat Trump et ses attaques contre les archives.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><a href="https://aoc.media/analyse/2025/02/09/sommet-ia-la-necessaire-secession-semantique-europeenne/">Sommet IA : la nécessaire sécession sémantique européenne</a> par Dominique Boullier chez AOC. Un champ lexical autour de la colonisation revient plusieurs fois, sans que Boullier en fasse un réel point de réflexion, mais donc un fil à tirer. L’Europe, un colonisateur colonisé ?. Boullier mets en avant la modèle de Wikipedia, on retrouve cette proposition dans l’article <a href="https://laviedesidees.fr/L-intelligence-artificielle-peut-elle-etre-collective">L’intelligence artificielle peut-elle être collective ?</a> de Anne Alombert :</li>
+</ul>
+<blockquote class="blockquote">
+<p>Des plateformes comme Wikipédia et Tournesol constituent des exemples de technologies numériques contributives et herméneutiques : contributives, car fondées sur le partage et la participation des utilisateurs (qui deviennent ainsi des contributeurs et non des consommateurs) et herméneutiques, car ouvertes à l’exercice du jugement, à la diversité des interprétations et à la délibération collective.</p>
+</blockquote>
+<ul>
+<li><p>Grosse actualité côté US avec à la fois de la <a href="https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/">suppression d’informations et données sur des portails gouvernementaux</a>, le limogeage (totalement attendu) de Colleen Shogan - directrice de la NARA, <a href="https://sites.google.com/view/saafellowsaotus">la réaction de la SAA</a> avec un appel à pétition (sur des outils Google… oups), une <a href="https://www.lemonde.fr/pixels/article/2025/02/16/contre-la-purge-sans-precedent-des-sites-gouvernementaux-ordonnee-par-trump-les-archivistes-du-numerique-a-l-offensive_6549807_4408996.html">opération de sauvegarde</a> par des archivistes (oui encore un GDoc…) mais aussi la <a href="https://www.lesoir.be/655205/article/2025-02-13/trump-instaure-son-ministere-de-la-verite">carte blanche de F.Delabie</a> en Belgique.</p></li>
+<li><p><a href="https://blog.sparna.fr/2025/02/14/retour-sur-le-deploiement-de-sparnatural-pour-francearchives/">Retour sur … Le déploiement de Sparnatural pour FranceArchives</a> retour donc sur la recherche via sparlendpoint dans FranceArchives, je suis vraiment pas persuadé que l’utilisation soit massive, il faudrait sans doute plus de communication et démo.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://www.ina.fr/actualites-ina/femme-avortement-temoignage-collecte-patrimoine-loi-veil-clandestin-legalisation">«Il suffit d’écouter les femmes» : l’INA donne la parole aux femmes ayant vécu l’avortement clandestin en France</a>. L’INA fait oeuvre de mémoire en mettant en avant la parole des femmes.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=9cG5X2nKsnw&amp;ab_channel=%C3%89colenationaledeschartes-PSL">Intelligence artificielle et institutions patrimoniales</a><a href="https://glammr.us/@figoblog">Emmanuelle Bermès</a> repart d’un historique de l’IA et du Machine Learning pour arriver aux usages dans les institutions patrimoniales. Un joli intro sur le sujet.</p></li>
+<li><p>La bonne idée côté archives, une vidéo directement dans l’introduction de l’instrument de recherche pour le commenter et le présenter. Ça se passe aux Archives départementales de la Charente.</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Montrer la rigueur de la procédure criminelle d’Ancien Régime à travers l’exemple d’une enquête est un défi en soi. L’Affaire Louise de Rouzier qui vous est présentée, issue des procédures criminelles du tribunal seigneurial du comté de Confolens (50 B 82) permet de révéler <a href="https://lasource.archives.lacharente.fr/actualites/les-intros-en-videos-51/n:298">en 4,17’ minutes</a> la grande richesse des archives judiciaires.</p>
+</blockquote>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Parlez-moi d’IA <a href="https://cause-commune.fm/podcast/parlez-moi-d-ia-58/">“ComparIA, améliorer les modèles IA pour les cultures francophones avec Mathilde Bras et Hadrien Pélissier”</a>. Très intéressante démarche de l’État pour comparer et évaluer les IA et leur pertinence en français.</p></li>
+<li><p>Chez Entendz-vous l’éco ? <a href="https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/data-centers-marseille-au-centre-du-marche-de-la-donnee-7355996">Data centers : Marseille au centre du marché de la donnée</a>. Une plongée dans les infrastructures de données et de calcul , dont Marseille aujourd’hui est un point d’entrée en France. Avec Clément Marquet et <a href="https://mastodon.social/@opheliecoelho">Ophélie Coehlo</a></p></li>
+<li><p>Chez France Culture <a href="https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/pour-reenchanter-les-reseaux-sociaux-cap-vers-l-interoperabilite-3643566">Pour réenchanter les réseaux sociaux, cap vers l’interopérabilité !</a> chronique courte mais percutante de Frédéric Saltiel. Avec une recommandation pour <a href="https://cfeditions.com/rapt-internet/">Le rapt d’Internet</a> de Cory Doctorow dont la traduction française est parue récemment chez C&amp;F (Et dans la pile de lecture à la maison).</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Colonisation</category>
+  <category>Trump</category>
+  <category>NARA</category>
+  <category>Data</category>
+  <category>RDF</category>
+  <category>RiC</category>
+  <category>WebSem</category>
+  <category>Féminisme</category>
+  <category>Sparlq</category>
+  <category>Infrastructure</category>
+  <guid>https://macgraveur.github.io/mapage/veille/fevrier2025/</guid>
+  <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/fevrier2025/Pluviose.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Janvier 2025</title>
+  <link>https://macgraveur.github.io/mapage/veille/janvier2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>On attaque une nouvelle année avec toujours des archives, du numérique comme ingrédiants de base.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p>Names of 425,000 suspected Nazi collaborators published. Hélas seulement <a href="https://oorlogvoorderechter.nl/">disponible</a> en néerlandais. &gt;In a letter to parliament on 19 December, Culture Minister Eppo Bruins wrote: “Openness of archives is crucial for facing the effects of [the Netherlands’] difficult shared past and to process it as a society.” Un joli projet sur le papier qui a viré au crash industriel, je vous laisse creuser le sujet sur le web.</p></li>
+<li><p><a href="https://www.leprogres.fr/education/2025/01/01/a-lyon-des-chercheurs-enrichissent-wikipedia-comment-sont-formes-ces-benevoles-de-l-ombre">À Lyon, des chercheurs enrichissent Wikipédia : comment sont formés ces bénévoles de l’ombre</a> écho de la résidence de la wikimedienne <a href="https://mapstodon.space/@dmontagne"><span class="citation" data-cites="dmontagne">@dmontagne</span></a> dans la PQR.</p></li>
+<li><p><a href="https://www.ouest-france.fr/high-tech/intelligence-artificielle/ia-nous-devons-conserver-notre-souverainete-sur-nos-donnees-46af6b92-d1c1-11ef-8aa9-6a8073542db7">IA : « Nous devons conserver notre souveraineté sur nos données »</a>. Intéressante démarche de Ouest France, je retiens surtout la volonté pour la rédaction de comprendre le fonctionnement plus que d’obtenir un résultat.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><a href="https://archives.marseille.fr/actualites/actualites-1/prochainement-decouvrez-l-exposition-l-opera-de-marseille-une-premiere-19/n:199">Exposition aux Archives municipales de Marseille</a> pour les cent ans de la reconstruction de l’opéra municipal (suite à l’incendie de 1919). Très jolie exposition présentant les fonds conservées par les Archives mais aussi de nombreux objets, comme des costumes, issus des collections du Musée d’histoire de Marseille. Pour vous donner définitivement envie un <a href="https://www.francebleu.fr/infos/culture-loisirs/video-l-opera-de-marseille-devoile-ses-coulisses-dans-une-exposition-centenaire-immersive-et-fascinante-7943323">reportage de France Bleue</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://hackmd.io/_uploads/BJdc1BHLJl.jpg" class="img-fluid figure-img"></p>
+<figcaption>archives_expo_opera_invitation</figcaption>
+</figure>
+</div>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Y74BW0nkwoU&amp;ab_channel=ORTFRANCE">L’avenir est entre nos mains. ORT France de 1921 à 1970</a>. Un organisme toujours existant à découvrir. via <a href="https://social.sciences.re/@mXli1@sciences.re">mixlamalice</a></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Paroles d’hisoire <a href="https://parolesdhistoire.fr/index.php/2025/01/13/364-dans-les-archives-dun-savant-colonial/">Dans les archives d’un savant colonial</a> Comme souvent chez André Loez est mis en lumière un travail d’historiens en lien avec des archivistes.</p></li>
+<li><p>Chez le Code à changer <a href="https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-20-11-7151548">“Les courbes en folie” : faire de l’architecture avec les ordinateurs</a>. <a href="https://mastodon.social/@xporte">Xavier de La Porte</a> nous fait découvrir ce que l’informatique a fait à l’architecture mais en creux, on y retrouve ce qu’elle a fait à beaucoup de processus de production.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Colonisation</category>
+  <category>Architecture</category>
+  <category>Shoah</category>
+  <category>Opéra</category>
+  <category>Wikipédia</category>
+  <guid>https://macgraveur.github.io/mapage/veille/janvier2025/</guid>
+  <pubDate>Tue, 31 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/janvier2025/Nivose.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Décembre 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/decembre2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://ploum.net/2024-12-06-perenite-ephemerite.html">Pérenniser ma numérique éphémérité</a>. <a href="https://mamot.fr/@ploum">Ploum</a> vous distille quelques conseils sur la pérennisation de vos traces sur le Web et notamment les réseaux sociaux.</p></li>
+<li><p><a href="https://usbeketrica.com/fr/article/la-maintenance-rend-elle-forcement-reac">La maintenance rend-elle forcément réac ?</a>. Usbek &amp; Rica posait une bonne question (en 2022) mais le traitement est finalement assez mauvais de mon point de vue. Déjà une dichotomie droite/gauche quand on interroge un universitaire américain a-t-elle un sens ? Induire qu’il n’y a pas de penser réactionnaire à gauche, est aussi un souci.</p></li>
+<li><p><a href="https://www.mediapart.fr/journal/france/111224/dematerialisation-et-agents-surcharges-comment-l-administration-maltraite-les-etrangers">Dématérialisation et agents surchargés : comment l’administration maltraite les étrangers</a> &gt;« il y a une violation totale et systématique de la loi depuis la mise en place de la dématérialisation », dénonce l’avocate Elsa Ghanassia. Pour son confrère Laurent Charles, c’est le principe même d’égalité devant les services publics qui n’est plus garanti. Et Delphine Martin de s’interroger sur ce système contreproductif : « L’État paie des frais quand on gagne en justice… Est-ce qu’il ne devrait pas mettre cet argent ailleurs, pour augmenter les moyens en préfecture ? »</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://murdesnomades.mmsh.fr/">NOMades</a> : Mur des noms des internés et assignés à résidence en tant que « Nomades » en France de 1939 à 1946. &gt; Le 1er juin 2026, il y aura 80 ans que le dernier interné dit « nomade » quittait le camp des Alliers à Angoulême. Et, pourtant, il n’existe toujours pas de décompte exact des victimes « nomades » de la Seconde Guerre mondiale en France, ni de mémorial nominatif. NOMadeS se donne pour mission de publier leurs noms.</p></li>
+<li><p><a href="https://www.france.tv/france-3/nouvelle-aquitaine/la-france-en-vrai-aquitaine/5660031-les-doleances.html">Les doléances</a> j’ai enfin pris le temps de regarder le documentaire de H.Desplanques. Démarche vraiment intéressante mais j’y vois de nombreux manques sur le sujet “archives”, et l’absence criante de témoignage d’archivistes.</p></li>
+<li><p><a href="https://liiive.now/">liiive Real-time collaborative viewing &amp; annotation for IIIF image collections</a> pas de bonne veille sans actu IIIF. Ouverture en bêta d’une plateforme d’annotation basé donc sur le IIIF, avec un mode collaboratif après création d’un compte gratuit.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez la rédaction de France Culture : <a href="https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/l-impossible-histoire-des-essais-nucleaires-en-polynesie-francaise-5246190">L’impossible histoire des essais nucléaires en Polynésie française</a>. Des arguments de non ouverture toujours aussi peu crédible, les lenteurs de déclassification. Cela rappelle la lutte de l’AAF au sein d’un collectif lors de la <a href="https://www.archivistes.org/-L-acces-aux-archives-classifiees-secret-defense-">loi PATR</a>.</p></li>
+<li><p>Chez LSD : <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-le-maghreb-des-ondes-un-enjeu-colonial">Le Maghreb des ondes, un enjeu colonial</a>. Très joli série que l’histoire du Maghreb à travers les sources radiophoniques, cela permet de faire une autre histoire que celle des sources de l’administration coloniale. Point je rale : le premier épisode s’intitule “le mal d’archives” mais n’explicite pas la référence à Derrida, qui est en plus né en Algérie.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>Cahiers citoyens</category>
+  <category>Colonisation</category>
+  <category>Nomades</category>
+  <category>Maintenance</category>
+  <category>Dématérialisation</category>
+  <category>IIIF</category>
+  <guid>https://macgraveur.github.io/mapage/veille/decembre2024/</guid>
+  <pubDate>Sat, 30 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/decembre2024/Frimaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Novembre 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/novembre2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Une livraison très archives et très Marseille. Et toujours du numérique bien entendu.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://acteurspublics.fr/articles/loin-du-tout-cloud-letat-lance-un-nouveau-marche-dachat-de-serveurs-informatiques">Loin du “tout-cloud”, l’État lance un nouveau marché d’achat de serveurs informatique</a> &gt;“Les administrations ont encore besoin de serveurs en propre afin de faire tourner des applications qu’elles ne souhaitent pas mettre dans le cloud”</p></li>
+<li><p><a href="https://marsactu.fr/de-la-calade-a-la-villette-une-balade-pour-comprendre-ce-qui-se-joue-dans-les-data-centers/">De la Calade à la Villette, une balade pour comprendre ce qui se joue dans les data centers</a> toujours du Cloud mais via une ballade marseillais à la découverte des datacenters qui se multiplient sur le port.</p></li>
+<li><p><a href="https://entre-temps.net/portraits-darchivistes-matthieu-bonicel-archiviste-de-lart-contemporain/#62662c9c-bf87-4e9e-9eb3-25057cda95f2">Portraits d’archivistes : Matthieu Bonicel, archiviste de l’art contemporain</a>. Entre-Temps poursuit sa série de portrait d’archivistes, avec des profils assez atypiques. Ici nous entrons dans l’univers de la création contemporaine.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://www.france.tv/documentaires/documentaires-societe/6543734-un-hangar-sur-le-port.html">“Un Hangar sur le port”</a>, documentaire sur le centre clandestin de rétention d’Arenc (Marseille). O.Bertand revient sur le scandale qui éclata en 1975, notamment à travers des <a href="https://www.archives13.fr/archive/fonds/FRAD013_11381">documents d’archives</a>. Le journaliste a donné des interview à <a href="https://marsactu.fr/lhistoire-oubliee-de-la-prison-clandestine-darenc/">Marsactu</a> et à <a href="https://www.laprovence.com/article/culture-loisirs/1040765218787715/un-hangar-sur-le-port-le-film-du-marseillais-olivier-bertrand-sur-le-centre-darenc-bientot-diffuse-sur-france-3">La Provence</a>.</p></li>
+<li><p>Les Archives municipales et métropolitaines de Saint-Étienne ont mis en ligne une exposition intitulée <a href="https://expositionsporthandicap.fr">“Coup d’envoi. Sport et handicap, récit d’une aventure stéphanoise”</a>. Le site est agréable et riche de nombreuses archives à lire, ou à écouter.</p></li>
+<li><p>A l’occasion de l’édition d’une <a href="https://x.com/pascal__koenig/status/1859161377828434260">plaquette de présentation des archives régionales</a>, la section des archivistes régionaux de l’AAF nous a concocté <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VjcCW4x3E5JBkksHlb68ULporgVsNifB&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">une frise sur l’histoire des Conseils régionaux</a>.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez les Lieux de l’éco : <a href="https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-lieux-de-l-eco-10-44-fos-sur-mer-les-horizons-de-l-industrie-lourde-7314046">Fos-sur-mer, les horizons de l’industrie lourde</a>. On y retrouve à la fois l’histoire de ce morceau du port de Marseille mais aussi une étude sur l’impact sur la santé des habitants.</p></li>
+<li><p>Chez LSD : « L’odyssée de la croisière » <a href="https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/paquebots-les-grandes-lignes-5807712">Épisode 1/4 : Paquebots : les grandes lignes</a></p></li>
+<li><p>Chez Cause Commune- Parlez-moi d’IA : <a href="https://cause-commune.fm/podcast/parlez-moi-d-ia-49/">le baromètre annuel de l’Observatoire Data Publica</a> avec en invité Jacques Priol. &gt; Une mairie c’est pas Facebook, on fait pas n’importe quoi avec les données.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Histoire</category>
+  <category>Archives</category>
+  <category>Cloud</category>
+  <category>Handicap</category>
+  <category>Sport</category>
+  <category>Immigration</category>
+  <category>Décentralisation</category>
+  <category>Industrie</category>
+  <category>IA</category>
+  <guid>https://macgraveur.github.io/mapage/veille/novembre2024/</guid>
+  <pubDate>Thu, 31 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/novembre2024/Brumaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Octobre 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/octobre2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Un mois d’octobre assez dense, ce qui est très bien pour occuper vos soirées hivernales.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://vsa-aas.ch/fr/acces-et-communication/lapprentissage-automatique-dans-les-archives/">L’apprentissage automatique dans les archives</a> un intéressant livre blanc des archivistes suisses sur un sujet plus si exploratoire. Le bilan n’est pas techno-béat comme il peut l’être parfois, mais apporte une vraie réflexion métier sur l’usage de nouveaux outils.</p></li>
+<li><p><a href="https://hnlab.huma-num.fr/blog/2024/10/03/hackathon2-hnlab/">Hackathon II - Annotation et la segmentation sémantique d’image</a>. Rex d’Huma-Num d’un hacktahon d’annotation d’image, avec supervision machine.</p></li>
+<li><p>Si vous l’avez râté un thread exceptionnel, sur la dématérialisation de la justice, de <span class="citation" data-cites="Maitre_Eolas">@Maitre_Eolas</span> : “<a href="https://x.com/maitre_eolas/status/1843648831050920172?s=12&amp;t=p1zvXxSqsyeLTFKpJ7EVOQ">Que je vous raconte la procédure numérique mise en place à Paris. Le PV est toujours rédigé sur un traitement de texte (OpenOff’). Déjà ça pue. Pourquoi un traitement de texte pour une procédure numérique ? Accrochez-vous</a>”.</p></li>
+<li><p><a href="https://media.licdn.com/dms/document/media/D561FAQHmkTUUzcsH8w/feedshare-document-pdf-analyzed/0/1729689062688?e=1730937600&amp;v=beta&amp;t=122K-bN5_5prb8I0VRqCI1OG4xBRHIVgah3FkBwArEs">De l’import jusqu’à l’exposition IIIF</a> support de démonstration de traitement de données archivistiques pour aller vers une exploitation en IIIF. Ceci est une plaquette commerciale mais à l’intérêt de montrer que l’intégration de ce standard dans les outils en France continue à bonne cadence.</p></li>
+<li><p>Un bon marronnier : <a href="https://theconversation.com/les-cahiers-de-doleances-ont-ils-ete-confisques-241766">Les « cahiers de doléances » ont-ils été confisqués ?</a> mais aussi <a href="https://www.huffingtonpost.fr/politique/article/michel-barnier-veut-s-inspirer-des-cahiers-de-doleances-cette-association-n-attend-que-ca_241464.html">Michel Barnier veut s’inspirer des cahiers de doléances, cette association n’attend que ça</a> et encore <a href="https://www.leparisien.fr/hauts-de-seine-92/gilets-jaunes-en-ile-de-france-des-elus-reclament-la-liberation-des-cahiers-de-doleances-22-10-2024-3E6NDQKKSBGZXKC5PV4QF7ZFZI.php">Gilets jaunes : en Île-de-France, des élus réclament « la libération » des cahiers de doléances</a> (Attention c’est pas fini - voir ci-dessous)</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=232N7zhp2fQ&amp;ab_channel=Num%C3%A9riqueenCommun%5Bs%5D">La clôture de Numérique en Commun[s] #NEC24</a> quand on a pas pu être à ces journées, on peut quand même profiter des replays (avec une archiviste sur scène)</p></li>
+<li><p><a href="https://amidesk.com/extra/?-Quartier-Saint-Jean-Marseille-">Quartier Saint-Jean (Marseille)</a> avant sa destruction. Intéressante production numérique.</p></li>
+<li><p><a href="https://francearchives.gouv.fr/fr/article/689545690">Réinventer les relations aux usagers des archives</a>. Vidéos de la journée du 16 mai 2024 disponible avec les supports. Une première restitution d’un programme de recherche mené pour le SIAF par le laboratoire TEMOS. Ceci en attendant la publication d’un rapport plus complet.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p><a href="https://museeprotestant.org/podcast-les-voix-de-la-saint-barthelemy/">Les voix de la Saint-Barthélemy</a> podcast en cours à partir du livre <em>ceux qui tombent</em> de J.Foa. J’ai beaucoup apprécié les épidoses “Coulisses” sur la construction de ce podcast.</p></li>
+<li><p>Chez Paroles d’histoire <a href="https://parolesdhistoire.fr/index.php/2024/10/16/352-la-fabrique-des-annales-n1-cahiers-de-doleances-contemporains/">La fabrique des Annales (n°1) : cahiers de doléances contemporains</a> Lancement d’un partenariat entre la célèbre revue et André Loez, on retrouve notamment un échange avec les auteurs d’une étude sur les cahiers de doléances dans la Somme.</p></li>
+<li><p>Chez Next on lance un podcast sur les algorithme avec Mathilde Saliou aux manettes, <a href="https://podcastaddict.com/podcast/next-algorithmique/5372082">Algorithmique</a> propose déjà 3 épisodes.</p></li>
+<li><p>Un podcast sur l’archivistique ? On en rêvait Margot Georges est là pour nous et lance <a href="https://open.spotify.com/show/1zjmuKCdnJfCm4KOpMShLQ?si=b6df33654df646bd">archivistica</a> merci à elle ! ça démarre très bien.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>IIIF</category>
+  <category>Histoire</category>
+  <category>Archivistique</category>
+  <guid>https://macgraveur.github.io/mapage/veille/octobre2024/</guid>
+  <pubDate>Mon, 30 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/octobre2024/Vendemiaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Septembre 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/septembre2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Un mois de septembre très marqué par les productions autour des commémorations du 80e anniversaire de la Libération.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p>Dans le cadre des commémorations du 80e anniversaire de la Libération du territoire, les Archives départementales du Puy-de-Dôme proposent, en partenariat avec l’Agence des musiques des territoires d’Auvergne (AMTA), <a href="https://www.archivesdepartementales.puy-de-dome.fr/n/podcasts/n:841">une série de podcasts</a>.</p></li>
+<li><p><a href="https://www.mediapart.fr/journal/international/300824/la-destruction-des-monuments-historiques-de-gaza-une-facette-de-l-aneantissement">La destruction des monuments historiques de Gaza, une facette de l’anéantissement</a> &gt;“Viser des musées, c’est fondamentalement un ciblage de l’identité palestinienne et de leur propre mémoire et compréhension de leur terre”</p></li>
+</ul>
+<p>Comme un écho un <a href="https://gazahistoire.hypotheses.org/">carnet hypothèses</a> s’ouvre pour établir un atlas de ces destructions.</p>
+<ul>
+<li><p><a href="https://www.francetvinfo.fr/france/rentree/enquete-franceinfo-rentree-scolaire-des-donnees-internes-a-l-education-nationale-revelent-les-inegalites-d-enseignement-entre-public-et-prive_6698430.html">Rentrée scolaire : des données internes à l’Education nationale révèlent les inégalités d’enseignement entre public et privé</a>. Le journaliste Brice Le Borgne malgré le refus du ministère s’est procuré des données sur la répartition des heures d’enseignement. Trois semaines après la publication de son enquête, miracle, l’Éducation nationale publie les jeux de données pour le <a href="https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_public/table/?disjunctive.academie&amp;disjunctive.code_departement&amp;disjunctive.libelle_departement&amp;disjunctive.niveau&amp;sort=-num_ligne">public</a> et le <a href="https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_prive/table/?disjunctive.academie&amp;disjunctive.code_departement&amp;disjunctive.libelle_departement&amp;disjunctive.niveau&amp;sort=-num_ligne">privé</a>. Cela rappelle le travail d’Alexandre Lechenet sur l’IPS.</p></li>
+<li><p><a href="https://huggingface.co/spaces/urchade/gliner_multiv2.1">GLiNER-base</a> du LLM couplé à du NER, premiers tests très concluants. <img src="https://hackmd.io/_uploads/Sy6SIjV2C.png" class="img-fluid" alt="image"></p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://patrimoine-archives.chelles.fr/actualites/80-ans-de-la-liberation-de-chelles-53/n:54">80 ans de la Libération de Chelles</a> Un beau travail qui a dû demander pas mal de recherche. La narration cartographie est une jolie mise en valeur.</p></li>
+<li><p>Deux projets du même type mais l’un abouti - <a href="https://rougememoire.com/">Rouge mémoire</a> - et l’autre en cours -<a href="https://archivesreimsfootball.fr">Archives Reims Football</a> - : Des statistiques historiques sur deux clubs de football alimentés à partir d’information participative. Bravo aux motivés !</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=Ggn_cSAOGnk&amp;ab_channel=SocioloGeek">Comment produit-on des données ?</a> - Dans les coulisses de la recherche #4. Une vidéo pédagogique sur la fabrique de la donnée et son usage public, avec l’exemple des données liées au COVID.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez le Collimateur <a href="https://shows.acast.com/collimateur/episodes/le-debarquement-oublie-le-fil-de-lepee-21">Le Débarquement oublié [Le Fil de l’Epée #21]</a> avec Claire Miot. Des échanges intéressants sur ce débarquement bien moins connu que celui de Normandie y compris localement. Petit regret que les sources soient exclusivement militaires, car on trouve des fonds dans les services territoriaux aussi bien écrits, photos, que témoignages oraux.</p></li>
+<li><p>Chez Paroles d’histoire <a href="https://parolesdhistoire.fr/index.php/2024/09/23/349-bureau-colonial-voix-algeriennes-avec-emmanuel-blanchard/">Bureau colonial, voix algériennes</a>, avec Emmanuel Blanchard. J’ai beaucoup apprécié les propos sur les archivistes et notamment le fait que non ce n’est pas l’histoire qui “découvre” des archives mais bien les archivistes lors des collectes puis classement.</p></li>
+<li><p>Chez Op Cit ! <a href="https://ihmc.ens.psl.eu/episode-28-histoire-coloniale-allemande-froment-wagemann">L’Histoire coloniale allemande</a> avec Delphine Froment et Tobias Wagemann. Une émission qui nous permet d’apprendre les spécificités de l’empire coloniale allemand, notamment sa temporalité très courte comparé aux autres puissances européennes.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Histoire</category>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Football</category>
+  <category>Colonisation</category>
+  <category>Libération</category>
+  <category>Patrimoine</category>
+  <category>Gaza</category>
+  <category>OpenData</category>
+  <guid>https://macgraveur.github.io/mapage/veille/septembre2024/</guid>
+  <pubDate>Sat, 31 Aug 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/septembre2024/Fructidor.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Eté 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/Ete2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>C’était annoncé, une coupure de publication pendant l’été pour mieux se retrouver à la rentrée.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://www.letemps.ch/economie/28-personnes-relaxees-dans-l-affaire-des-panama-papers">28 personnes relaxées dans l’affaire des «Panama Papers»</a> Au prochain leak, pensez à monter un SAE : &gt; La juge a cependant estimé que les preuves recueillies sur les serveurs du cabinet d’avocats «ne respectaient pas la chaîne de traçabilité» et ne permettaient pas d’établir avec «certitude […] leur authenticité et leur intégrité».</p></li>
+<li><p><a href="https://francearchives.gouv.fr/fr/article/865397225">La Reconstruction</a> Le portail FranceArchives nous propose un état de source archivistique sur la Reconstruction. Thème qui va occuper sans doute les services patrimoniaux dans les années à venir.</p></li>
+<li><p>Recension de la récente traduction de <a href="https://laviedesidees.fr/Je-range-donc-je-trie"><em>Arranger les choses</em></a>. Ouvrage enfin disponible en français, 25 ans après sa parution. A priori peu de chance de ne pas se retrouver dans la pile de livres à lire pour les archivistes.</p></li>
+<li><p><a href="https://spinach.genie.stanford.edu/">Réaliser ses requêtes Sparql grâce à une IA</a>. Voilà une IA qui peut changer la vie de mal de monde, fini les galères de rédaction de requête dans Wikidata. Exemple <a href="https://w.wiki/ArCt">ici</a> (Merci <a href="https://qoto.org/@enroweb">enroweb</a>)</p></li>
+<li><p><a href="https://www.bmvr.marseille.fr/cartographie-litteraire-marseille">Cartographie littéraire de Marseille</a> ou <a href="https://uploads.knightlab.com/storymapjs/d82bb45286159258791c2c8aac0cfc2f/cartographie-litteraire/draft.html">lien direct</a> parcourez à travers une storymap Marseille à travers la littérature.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li><p><a href="https://youtu.be/Uanf8ykXujE?si=5QTCJrdxM75mVYOy">Master Class sur la numérisation du patrimoine</a>. Les limites de la numérisation du patrimoine, de la finitude des ressources, de l’intérêt scientifique. Un échange très intéressant, pour une mise en critique de nos usages. Attention faut bien tout suivre, ça parle de B.Latour et de ses archives.</p></li>
+<li><p><a href="https://www.france.tv/france-5/la-case-du-siecle/6138116-violette-morris-une-femme-a-abattre.html">Violette Morris, une femme à abattre</a>. Son parcours hors norme est de plus en plus médiatisé. Un bon documentaire pour la découvrir si ce n’est déjà le cas. Ne trainez pas le documentaire est disponible jusqu’au 17 septembre seulement.</p></li>
+<li><p><a href="https://www.arte.tv/fr/videos/105628-009-A/gymnastique/">Carte Postale : l’art du cliché ?</a> Suivons Renaud Epstein dans ses travaux sur les grands ensembles en carte postale. 5 mn bien investies.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Paroles d’histoire : <a href="http://parolesdhistoire.fr/index.php/2024/07/06/345-compter-les-mots-avec-marie-dejoux-leo-dumont-et-nicolas-perreaux/">Compter les mots, avec Marie Dejoux Léo Dumont et Nicolas Perreaux</a></p></li>
+<li><p>Chez #1257 (nouveau podcast de la Sorbonne) : <a href="https://smartlink.ausha.co/1257-lepodcast">Présentation de trois travaux de thèses en histoire soutenu récemment</a>. La Sorbonne lance un podcast mettant en valeur</p></li>
+<li><p>Chez programme B : <a href="https://www.binge.audio/podcast/programme-b/les-images-perdues-du-premier-pas-sur-la-lune-1-2">Les images perdues du premier pas sur la lune</a> Fortement recommandé pour les personnes qui s’intéresse à la pérennisation de l’information. (Merci <a href="https://framapiaf.org/@leuleu">Leuleu</a>)</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>IA</category>
+  <category>Wikidata</category>
+  <category>Histoire</category>
+  <category>Numérisation</category>
+  <category>Sport</category>
+  <guid>https://macgraveur.github.io/mapage/veille/Ete2024/</guid>
+  <pubDate>Sun, 30 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/Ete2024/Thermidor.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Juin 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/juin2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Mois de juin un peu compliqué en termes de veille, et notamment avec une section vu… non vu. On se retrouve certainement en septembre pour livaison de la veille estivale.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://orientxxi.info/lu-vu-entendu/toulouse-refuge-des-archives-filmiques-palestiniennes,7359">Toulouse, refuge des archives filmiques palestiniennes</a> &gt; « Le projet était incroyable, elle a passé toute une partie de sa vie à chercher des copies de films, on ne pouvait pas la laisser seule avec ça… »</p></li>
+<li><p><a href="https://literarymachin.es/iiif-tropy-canopy/">Building a simple IIIF digital library with Tropy, Tropiiify and Canopy</a> Émerge des connecteurs entre différents outils pour profiter au maximum des bénéfices du IIIF.</p></li>
+<li><p><a href="https://tepas.mmsh.fr/notices_tepas/fiche-0043/">Le pré de foire à Sisteron</a> Un exemple de notice parmi d’autres proposées par TEPAS sur le sport dans la Région PACA, de saison en année olympique.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<ul>
+<li>Rien pour ce mois-ci</li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Quoi de neuf en histoire ? : <a href="https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-79-histoire-de-jerusalem-vincent-lemire">“Histoire de Jérusalem” avec Vincent Lemire</a> Lemire un historien, et citoyen, à lire, écouter, regarder. En ce temps, un peu de pensée complexe cela est tellement précieux.</p></li>
+<li><p>Chez Paroles d’histoire : <a href="http://parolesdhistoire.fr/index.php/2024/06/22/343-le-front-populaire-au-present-avec-jean-vigreux/">Le Front populaire au présent, avec Jean Vigreux</a> Parce que l’historien ne vit pas hors de la cité.</p></li>
+<li><p>Chez Passion médiéviste : <a href="https://passionmedievistes.fr/super-joute-bretagne-normandie/">Super Joute spécial Bretagne vs Normandie</a>. Je n’avais jamais écouté ces hors-séries du podcast. Le format est plaisant : débattre des grandes figures historiques pour leur donner des points, le ton est volontairement potaches et détendues. Bémol j’ai trouvé ça un peu long.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Humanités numériques</category>
+  <category>Histoire</category>
+  <category>IIIF</category>
+  <category>Sport</category>
+  <guid>https://macgraveur.github.io/mapage/veille/juin2024/</guid>
+  <pubDate>Fri, 31 May 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/juin2024/Prairial.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mai 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/mai2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="lu" class="level2">
+<h2 class="anchored" data-anchor-id="lu">Lu</h2>
+<ul>
+<li><p><a href="https://www.arthurperret.fr/blog/2024-04-30-le-markdown-scientifique-entre-dans-une-nouvelle-ere.html">Lodel 2, Stylo 2 : le Markdown scientifique entre dans une nouvelle ère</a> court premier retour sur les nouvelles versions de Lodel et Stylo par <a href="https://social.sciences.re/@arthurperret">A.Perret</a>. On notera son enthousiasme, et on rappelera surtout que tout à chacun peu se créer un compte pour utiliser <a href="https://stylo.huma-num.fr/">Stylo</a> même s’il n’est pas chercheur.</p></li>
+<li><p><a href="https://www.404media.co/national-archives-bans-employee-use-of-chatgpt/">National Archives Bans Employee Use of ChatGPT</a>, les Archives nationales étasuniennes bloquent l’utilisation de ChatGPT pour protéger les données de l’État. Je n’ai que les premières lignes, on aimerait en lire plus.</p></li>
+<li><p><a href="https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/33005/winand_annaelle_et_al_2024_retours_detours_autour_diffusion_actes_9e_symposium_gira.pdf">Retours et détours autour de la diffusion</a>. On retrouve les actes de nos collègues archivistes canadiens du GIRA. Pas eu le temps de tout lire évidemment mais à la vue du sommaire c’est alléchant. Ma première lecture a été l’article de Désirée Rochat “Bâtir des écosystèmes archivistiques (ou : ce que l’archivistique et le travail communautaire peuvent apprendre l’un de l’autre)”.</p></li>
+<li><p><a href="https://archivistesqc.wordpress.com/2024/04/29/wikimedia/">Projets de diffusion en collaboration avec la fondation Wikimédia</a>. Toujours à Québec, un post de blog sur l’investissement par les archivistes dans les projets “Wiki”. Avantage de cette lecture pour un français, on sort des exemples 100 fois mis en avant. Citation : “les contributions wikimédiennes en tant que moyen de promotion s’apparente moins à une approche commerciale de type marketing que la présence sur les réseaux sociaux, c’est-à-dire qu’une présence sur Wikipédia valorise beaucoup plus l’expertise de l’archiviste et la profondeur des fonds d’un centre ou d’un service d’archives que les publications accrocheuses, mais peu étoffées sur Facebook et Twitter”</p></li>
+<li><p><a href="https://www.revue-ballast.fr/1767-une-belle-greve-de-femmes-a-poullaouen/">1767 : une belle grève de femmes à Poullaouen</a>. Citation : “Ce mouvement, mené exclusivement par des femmes issues d’un milieu populaire au sein d’une entreprise qui est loin d’être économiquement insignifiante, n’est pas ordinaire.”. Cet article (hélas) ne le mentionne pas mais le fonds d’archives de la Compagnie est convervée aux Archives départementales du Finistère (<a href="https://hal.science/hal-04282378/document">voir cet article</a>)</p></li>
+<li><p>Deux articles sur le numérique responsable. Numéra débunke le <a href="https://www.numerama.com/sciences/1744238-le-principal-geste-des-francais-pour-reduire-limpact-du-numerique-ne-sert-vraiment-a-rien.html">“pipi sous la douche version numérique”</a>, pendant que l’ABF nous propose de vraies belles pistes d’<a href="https://bib.vertes.abf.asso.fr/quelles-perspectives-pour-des-politiques-de-numerisation-patrimoniale-ecoresponsables/">amélioration de nos pratiques de numérisation patrimoniale</a>.</p></li>
+</ul>
+</section>
+<section id="vu" class="level2">
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=LTha0QoUZbE&amp;ab_channel=%C3%89colenationaledeschartes-PSL">Femmes, informatique et numérique</a> Valérie Schafer (professeure à l’Université du Luxembourg) a donné en avril dernier une conférence à l’ENC. Retour historique sur la place des femmes dans l’informatique. J’ai noté particulièrement la problématique que peut poser la mise en avant de certaines figures (exceptionnelles) qui ne sont pas représentatives de la réalité globale.</p></li>
+<li><p><a href="https://francearchives.gouv.fr/fr/article/886507178">Le cyclisme : ses pratiques et ses coureurs</a> FranceArchives propose une première exposition basée sur le protocole IIIF en utilisant les images des services partenaires. Bonne idée pour donner envie de développer les usages du IIIF.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level2">
+<h2 class="anchored" data-anchor-id="entendu">Entendu</h2>
+<ul>
+<li><p>Chez Le MUCEM, Les Procès du siècle – Luttes en partage <a href="https://www.mucem.org/programme/postcolonial-neocolonial-decolonial-theories-resiliences-ou-rengaines">« Postcolonial », « néocolonial », « décolonial » : théories, résiliences ou rengaines ?</a>. Une formule bien dynamique de débat organisé par le MUCEM. On voit à travers cet enregistrement que les mouvements sont moins monolythiques que les détracteurs le font croire.</p></li>
+<li><p>Chez le Code à changer, <a href="https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-9-3818194">Quand l’État a voulu devenir une plateforme</a>. Un épisode important, notamment pour un archiviste, afin de remettre du politique dans la réflexion sur la dématérialisation. Une introduction aux travaux de Marie Alauzen (A lire aussi absolument ! ou à <a href="https://hackmd.io/@macgraveur80/mars2024#Entendu">réécouter</a>).</p></li>
+<li><p>Chez LSD <a href="https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/des-memoires-revolutionnaires-perdues-6619879">Des mémoires révolutionnaires perdues</a> qui est le second volet de Pédés réinventer le monde. Un retour la constitution d’archives communautaire, le sens que les participants y donnent. Avec des extraits d’interview des archivistes de <a href="https://www.memoire-sexualites.org/">mémoires des sexualités</a> à Marseille.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Postcolonial</category>
+  <category>Markdown</category>
+  <category>Archivistique</category>
+  <category>IIIF</category>
+  <category>Bretagne</category>
+  <category>Femmes</category>
+  <category>Histoire</category>
+  <category>Dématérialisation</category>
+  <category>IA</category>
+  <category>LGBTQIA+</category>
+  <guid>https://macgraveur.github.io/mapage/veille/mai2024/</guid>
+  <pubDate>Tue, 30 Apr 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/mai2024/Floreal.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Avril 2024</title>
+  <link>https://macgraveur.github.io/mapage/veille/avril2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Un peu plus de variétés pour ce mois d’avril et de belles découvertes pour moi.</p>
+<section id="lu" class="level2">
+<h2 class="anchored" data-anchor-id="lu">Lu</h2>
+<ul>
+<li><p><a href="https://journals.openedition.org/rh19/4295">La République des larmes d’E.Fureix</a> très bel ouvrage d’histoire sur les usages publics des enterrements et des célébrations qui les entourent.</p></li>
+<li><p>Résolution de Conseil de l’Europe sur <a href="https://pace.coe.int/fr/files/33390">Le droit à la liberté d’information: garantir l’accès aux documents historiques</a>. Très intéressante résolution, dans laquelle on peut lire toutes l’importance des enjeux démocratique pour les anciens pays du Bloc de l’Est. En miroir, celle vient questionner un pays comme la France, au passé colonial.</p></li>
+<li><p><a href="https://aoc.media/opinion/2024/04/11/de-lordoliberalisme-a-lordo-communalisme/">De l’ordolibéralisme à l’ordo-communalisme</a>. Article sur les communs qui m’interpelle particulièrement, puisque c’est un thème que j’exploite ces derniers mois. Extrait qui j’espère donnera envie de le lire “À la différence de l’État ordolibéral qui garantit la concurrence libre et non-faussée, un État ordo-communal aurait pour rôle de garantir la coopération libre et solidaire.”</p></li>
+</ul>
+</section>
+<section id="vu" class="level2">
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
+<ul>
+<li><p><a href="https://histoire.bnpparibas/videos/50-ans-de-transformations-du-port-de-marseille-avec-le-youtubeur-guilhem/">Marseille d’un port à l’autre – 1945 à 1992</a>. La thèse de Fabien Bartolotti, docteur en histoire économique a été lauréate du Prix d’Histoire économique AFHé- BNP Paribas 2021. Afin de valoriser ce travail de recherche, une vidéo a été commanditée au youtubeur Guilhem Jean. 26 mn sur l’histoire du port de Marseille, ceci notamment par le prisme des enjeux écologiques. Spoiler : c’était pas mieux “avant”.</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=sbJJDruB3b0&amp;ab_channel=Mano%C3%ABlP%C3%A9nicaud">Les Visages de la Bonne Mère</a> par Manoël Pénicaud qui a notamment été commissaire pour la magnifique exposition “Lieux saints partagés”. Le sillon est ici creusé avec ce documentaire, la Bonne Mère n’appartient qu’aux catholiques.</p></li>
+<li><p><a href="https://fotokino.org/agenda/toute_latitude_poullard_monsaingeon/">Toute latitude — La cartographie, c’est du graphisme</a> très jolie exposition chez Fotokino. Des cartes détournées ou non comme objets d’art. <img src="https://hackmd.io/_uploads/SJq6md0ZA.jpg" class="img-fluid" alt="signal-2024-04-30-153406_003"></p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://hackmd.io/_uploads/Skc67_AbC.jpg" class="img-fluid figure-img"></p>
+<figcaption>signal-2024-04-30-153406_002</figcaption>
+</figure>
+</div>
+</section>
+<section id="entendu" class="level2">
+<h2 class="anchored" data-anchor-id="entendu">Entendu</h2>
+<ul>
+<li><p>Chez La cantine brestoise, <a href="https://www.lacantine-brest.net/54-donnees-ouvertes-abeilles-et-democratie-avec-samuel-goeta/">Données ouvertes, abeilles et démocratie</a>, avec <a href="https://mastodon.social/@samgoeta">Samuel Goëta</a>.</p></li>
+<li><p>Chez Dans l’atelier des historiens, <a href="https://podcast.ausha.co/dans-l-atelier-des-historiens/paul-taesch-par-anatole-le-bras">Paul Taesch par Anatole Le Bras</a>. Nouveau podcast lancé par Science Po Paris. Un historien nous présente une source qui a marqué un basculement dans ses recherches.</p></li>
+<li><p>Chez France Culture <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-les-penn-sardin-ouvrieres-en-greve">Les Penn Sardin, ouvrières en grève</a></p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>Europe</category>
+  <category>OpenData</category>
+  <category>Démocratie</category>
+  <category>Histoire</category>
+  <category>Communs</category>
+  <category>Patrimoine</category>
+  <guid>https://macgraveur.github.io/mapage/veille/avril2024/</guid>
+  <pubDate>Sun, 31 Mar 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/avril2024/Germinal.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

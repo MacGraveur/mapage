@@ -7,6 +7,7 @@ project:
 website:
   title: "Mac Graveur"
   site-url: https://macgraveur.github.io/mapage/
+  description: "la page de Mac Graveur"
   navbar:
     left:
       - href: index.qmd
@@ -30,6 +31,9 @@ website:
       - href: about/index.qmd
         icon: bi-person-bounding-box
         text: Qui suis-je ?
+    right: 
+      - icon: rss
+        href: index.xml
 
 format:
   html:

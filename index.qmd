@@ -1,6 +1,12 @@
 ---
 title: "Accueil"
-feed: true
+listing:
+  contents: veille
+  sort: "date desc"
+  type: default
+  categories: false
+  feed: true
+
 ---
 
 ![Felipe La Rotta, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons](Dvd-burning-cutaway2.JPG){ width="600" height="300" style="display: block; margin: 50 auto" }

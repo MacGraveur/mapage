@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,10 +68,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
-</head>
+<link rel="alternate" type="application/rss+xml" title="Mac Graveur" href="index.xml" data-external="1"></head>
 
 <body class="nav-fixed">
 
@@ -122,6 +182,13 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about/index.html"> <i class="bi bi-person-bounding-box" role="img">
 </i> 
 <span class="menu-text">Qui suis-je ?</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -179,7 +246,611 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1767728298360" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+<div class="thumbnail">
+<p><a href="./veille/index.html" class="no-external"></a></p><a href="./veille/index.html" class="no-external">
+<p class="card-img-top"><img src="veille/decembre2025/Frimaire.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./veille/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/index.html" class="no-external">Lu, Vu, Entendu</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/index.html" class="no-external">Chaque mois je partage ici ma veille à travers un triptyque Lu, Vu, Entendu. Ma veille est largement orientée archives, numérique, et histoire mais parfois vous y trouverez…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./veille/index.html" class="no-external"></a></p><a href="./veille/index.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="SUElMkNBcmNoaXZlcyUyQ0NvbG9uaXNhdGlvbiUyQ0luZnJhc3RydWN0dXJlJTJDQ29tbXVucyUyQ0ltbWlncmF0aW9uJTJDRGF0YSUyQ0NhcnRvZ3JhcGhpZSUyQ0hpc3RvaXJl" data-listing-date-sort="1767567600000" data-listing-file-modified-sort="1767728166852" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
+<div class="thumbnail">
+<p><a href="./veille/decembre2025/index.html" class="no-external"></a></p><a href="./veille/decembre2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/decembre2025/Frimaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/decembre2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/decembre2025/index.html" class="no-external">Décembre 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/decembre2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/decembre2025/index.html" class="no-external">Dernier mois de l’année et quelques réels coup de coeur dans cette veille. Le Réseau tout en haut, et juste ensuite la conversation avec Clara Dealberto chez Sismique.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/decembre2025/index.html" class="no-external">
+<div class="listing-date">
+Jan 5, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="VGVjaG5vY3JpdGlxdWUlMkNUZWNobm9mJUMzJUE5b2RhbGlzbWUlMkNUZWNobm9mYXNjaXNtZQ==" data-listing-date-sort="1766185200000" data-listing-file-modified-sort="1766230132634" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="721">
+<div class="thumbnail">
+<p><a href="./veille/technowhatever/index.html" class="no-external"></a></p><a href="./veille/technowhatever/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/technowhatever/technowhatever.gif" class="thumbnail-image"></p>
+</a><p><a href="./veille/technowhatever/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/technowhatever/index.html" class="no-external">Hors-série Technowhatever</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/technowhatever/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/technowhatever/index.html" class="no-external">Une veille hors-série sur tout ce qui touche au technowhatever. Cette idée a éclos suite à la lecture d’échanges par voix d’articles entre Evgeny Morozov et Cédric Durand au…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/technowhatever/index.html" class="no-external">
+<div class="listing-date">
+Dec 20, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="TWFyc2VpbGxlJTJDSUElMkNBcmNoaXZlcyUyQ01hcnNlaWxsZSUyQ0NvbG9uaXNhdGlvbiUyQ2luZnJhc3RydWN0dXJlJTJDQ2FoaWVycyUyMGNpdG95ZW5zJTJDSUlJRg==" data-listing-date-sort="1764802800000" data-listing-file-modified-sort="1764868068116" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1272">
+<div class="thumbnail">
+<p><a href="./veille/novembre2025/index.html" class="no-external"></a></p><a href="./veille/novembre2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/novembre2025/Brumaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/novembre2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/novembre2025/index.html" class="no-external">Novembre 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/novembre2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/novembre2025/index.html" class="no-external">Publié avec un peu de retard mais avec beaucoup de contenu. Des humanités numériques, du patrimoine, le rôle social et politique des archives. De quoi plaire à beaucoup de…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/novembre2025/index.html" class="no-external">
+<div class="listing-date">
+Dec 4, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="QXJjaGl2ZXMlMkNJQSUyQ01hcnNlaWxsZSUyQ0luZnJhc3RydWN0dXJlJTJDTWFpbnRlbmFuY2UlMkNBcmNoaXZpc3RpcXVlJTJDSGlzdG9pcmUlMkNDb2xvbmlzYXRpb24lMkNQb3N0Y29sb25pYWwlMkNXZWI=" data-listing-date-sort="1759269600000" data-listing-file-modified-sort="1762096691270" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="664">
+<div class="thumbnail">
+<p><a href="./veille/octobre2025/index.html" class="no-external"></a></p><a href="./veille/octobre2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/octobre2025/Vendemiaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/octobre2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/octobre2025/index.html" class="no-external">Octobre 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/octobre2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/octobre2025/index.html" class="no-external">Beaucoup de contenu à vous proposer ce mois-ci. L’actualité a été riche dans mes fils divers mais surtout j’ai pris le temps de consulter les ressources que je mets parfois…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/octobre2025/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="SGlzdG9pcmUlMkNDb2xvbmlzYXRpb24lMkNSJUMzJUE5c2VhdXglMjBzb2NpYXV4JTJDQ2FydG9ncmFwaGllJTJDQ29tbXVucyUyQ09wZW5HTEFNJTJDQ2FoaWVycyUyMGNpdG95ZW5z" data-listing-date-sort="1756677600000" data-listing-file-modified-sort="1759589487425" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="453">
+<div class="thumbnail">
+<p><a href="./veille/septembre2025/index.html" class="no-external"></a></p><a href="./veille/septembre2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/septembre2025/Fructidor.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/septembre2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/septembre2025/index.html" class="no-external">Septembre 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/septembre2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/septembre2025/index.html" class="no-external">Les mois changent et ne se ressemblent pas en termes de veille. Peu de lectures enthousiasmantes ce mois-ci mais de nombreuses choses vues.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/septembre2025/index.html" class="no-external">
+<div class="listing-date">
+Sep 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="U29icmklQzMlQTl0JUMzJUE5JTJDSGlzdG9pcmUlMkNNYXJzZWlsbGUlMkNBcmNoaXZlcyUyQ0lBJTJDUGF0cmltb2luZQ==" data-listing-date-sort="1753999200000" data-listing-file-modified-sort="1759578020857" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="804">
+<div class="thumbnail">
+<p><a href="./veille/Ete2025/index.html" class="no-external"></a></p><a href="./veille/Ete2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/Ete2025/Thermidor.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/Ete2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/Ete2025/index.html" class="no-external">Été 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/Ete2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/Ete2025/index.html" class="no-external">Une livraison un peu spéciale suite à l’été. Tout d’abord dans la section “Lu” vous trouverez de nombreuses ressources sur le patrimoine marseillais et particulièrement en…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/Ete2025/index.html" class="no-external">
+<div class="listing-date">
+Aug 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="SGlzdG9pcmUlMkNSJUMzJUE5c2VhdXglMjBzb2NpYXV4JTJDU291dmVyYWluZXQlQzMlQTklMkNOdW0lQzMlQTlyaXF1ZSUyQ0QlQzMlQTltYXQlQzMlQTlyaWFsaXNhdGlvbg==" data-listing-date-sort="1748728800000" data-listing-file-modified-sort="1751305706409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="408">
+<div class="thumbnail">
+<p><a href="./veille/juin2025/index.html" class="no-external"></a></p><a href="./veille/juin2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/juin2025/Prairial.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/juin2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/juin2025/index.html" class="no-external">Juin 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/juin2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/juin2025/index.html" class="no-external">Un mois de juin assez dense, j’ai même fait le choix de retirer quelques lectures pour rester digeste. Bonne lecture et rendez-vous à la rentrée.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/juin2025/index.html" class="no-external">
+<div class="listing-date">
+Jun 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="QXJjaGl2ZXMlMkNXaWtpcCVDMyVBOWRpYSUyQ0hpc3RvaXJlJTJDT3BlbkdMQU0=" data-listing-date-sort="1746050400000" data-listing-file-modified-sort="1748881673209" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="263">
+<div class="thumbnail">
+<p><a href="./veille/mai2025/index.html" class="no-external"></a></p><a href="./veille/mai2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/mai2025/Floreal.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/mai2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/mai2025/index.html" class="no-external">Mai 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/mai2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/mai2025/index.html" class="no-external">C’est donc le premier mois de veille publié directement sur une page hébergée via mon GitHub. Ceci explique un contenu un peu plus léger.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/mai2025/index.html" class="no-external">
+<div class="listing-date">
+May 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="UHIlQzMlQTlzZXJ2YXRpb24lMkNQYXRyaW1vaW5lJTJDQ29sb25pc2F0aW9uJTJDQ2FydG9ncmFwaGllJTJDUmlDJTJDSGlzdG9pcmU=" data-listing-date-sort="1743458400000" data-listing-file-modified-sort="1747585168760" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
+<div class="thumbnail">
+<p><a href="./veille/avril2025/index.html" class="no-external"></a></p><a href="./veille/avril2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/avril2025/Germinal.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/avril2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/avril2025/index.html" class="no-external">Avril 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/avril2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/avril2025/index.html" class="no-external">Un mois un peu bousculé, avec une veille en fait très concentré sur la première quinzaine. A la relecture, je me rends compte qu’on y trouve beaucoup d’oeuvres littéraires…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/avril2025/index.html" class="no-external">
+<div class="listing-date">
+Apr 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="V2lraXAlQzMlQTlkaWElMkNXZWIlMkNNYWludGVuYW5jZSUyQ0lBJTJDQ29sb25pc2F0aW9uJTJDSGlzdG9pcmUlMkNJbmRleGF0aW9u" data-listing-date-sort="1740783600000" data-listing-file-modified-sort="1747585168774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div class="thumbnail">
+<p><a href="./veille/mars2025/index.html" class="no-external"></a></p><a href="./veille/mars2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/mars2025/ventose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/mars2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/mars2025/index.html" class="no-external">Mars 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/mars2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/mars2025/index.html" class="no-external">Malgré #AAFRennes2025 qui m’a pas mal mobilisé, au moins mentalement, voici la veille de ce mois. Avec dans le “vu” deux compte-rendus de conférences. J’espère pouvoir…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/mars2025/index.html" class="no-external">
+<div class="listing-date">
+Mar 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="QXJjaGl2ZXMlMkNJQSUyQ0NvbG9uaXNhdGlvbiUyQ1RydW1wJTJDTkFSQSUyQ0RhdGElMkNSREYlMkNSaUMlMkNXZWJTZW0lMkNGJUMzJUE5bWluaXNtZSUyQ1NwYXJscSUyQ0luZnJhc3RydWN0dXJl" data-listing-date-sort="1738364400000" data-listing-file-modified-sort="1747585168763" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="523">
+<div class="thumbnail">
+<p><a href="./veille/fevrier2025/index.html" class="no-external"></a></p><a href="./veille/fevrier2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/fevrier2025/Pluviose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/fevrier2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/fevrier2025/index.html" class="no-external">Février 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/fevrier2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/fevrier2025/index.html" class="no-external">Une fois fait le bilan je vois qu’il y a beaucoup d’IA dans ma veille, mais aussi hélas un gros sujet sur le nouveau mandat Trump et ses attaques contre les archives.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/fevrier2025/index.html" class="no-external">
+<div class="listing-date">
+Feb 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="QXJjaGl2ZXMlMkNJQSUyQ0NvbG9uaXNhdGlvbiUyQ0FyY2hpdGVjdHVyZSUyQ1Nob2FoJTJDT3AlQzMlQTlyYSUyQ1dpa2lwJUMzJUE5ZGlh" data-listing-date-sort="1735686000000" data-listing-file-modified-sort="1747585168766" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
+<div class="thumbnail">
+<p><a href="./veille/janvier2025/index.html" class="no-external"></a></p><a href="./veille/janvier2025/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/janvier2025/Nivose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/janvier2025/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/janvier2025/index.html" class="no-external">Janvier 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/janvier2025/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/janvier2025/index.html" class="no-external">On attaque une nouvelle année avec toujours des archives, du numérique comme ingrédiants de base.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/janvier2025/index.html" class="no-external">
+<div class="listing-date">
+Jan 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="QXJjaGl2ZXMlMkNDYWhpZXJzJTIwY2l0b3llbnMlMkNDb2xvbmlzYXRpb24lMkNOb21hZGVzJTJDTWFpbnRlbmFuY2UlMkNEJUMzJUE5bWF0JUMzJUE5cmlhbGlzYXRpb24lMkNJSUlG" data-listing-date-sort="1733007600000" data-listing-file-modified-sort="1747585168761" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="432">
+<div class="thumbnail">
+<p><a href="./veille/decembre2024/index.html" class="no-external"></a></p><a href="./veille/decembre2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/decembre2024/Frimaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/decembre2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/decembre2024/index.html" class="no-external">Décembre 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/decembre2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/decembre2024/index.html" class="no-external">Pérenniser ma numérique éphémérité. Ploum vous distille quelques conseils sur la pérennisation de vos traces sur le Web et notamment les réseaux sociaux.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/decembre2024/index.html" class="no-external">
+<div class="listing-date">
+Dec 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="SGlzdG9pcmUlMkNBcmNoaXZlcyUyQ0Nsb3VkJTJDSGFuZGljYXAlMkNTcG9ydCUyQ0ltbWlncmF0aW9uJTJDRCVDMyVBOWNlbnRyYWxpc2F0aW9uJTJDSW5kdXN0cmllJTJDSUE=" data-listing-date-sort="1730415600000" data-listing-file-modified-sort="1747585168776" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="thumbnail">
+<p><a href="./veille/novembre2024/index.html" class="no-external"></a></p><a href="./veille/novembre2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/novembre2024/Brumaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/novembre2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/novembre2024/index.html" class="no-external">Novembre 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/novembre2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/novembre2024/index.html" class="no-external">Une livraison très archives et très Marseille. Et toujours du numérique bien entendu.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/novembre2024/index.html" class="no-external">
+<div class="listing-date">
+Nov 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="QXJjaGl2ZXMlMkNJQSUyQ0lJSUYlMkNIaXN0b2lyZSUyQ0FyY2hpdmlzdGlxdWU=" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1747585168778" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="424">
+<div class="thumbnail">
+<p><a href="./veille/octobre2024/index.html" class="no-external"></a></p><a href="./veille/octobre2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/octobre2024/Vendemiaire.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/octobre2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/octobre2024/index.html" class="no-external">Octobre 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/octobre2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/octobre2024/index.html" class="no-external">Un mois d’octobre assez dense, ce qui est très bien pour occuper vos soirées hivernales.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/octobre2024/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-categories="SGlzdG9pcmUlMkNBcmNoaXZlcyUyQ0lBJTJDRm9vdGJhbGwlMkNDb2xvbmlzYXRpb24lMkNMaWIlQzMlQTlyYXRpb24lMkNQYXRyaW1vaW5lJTJDR2F6YSUyQ09wZW5EYXRh" data-listing-date-sort="1725141600000" data-listing-file-modified-sort="1747585168779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
+<div class="thumbnail">
+<p><a href="./veille/septembre2024/index.html" class="no-external"></a></p><a href="./veille/septembre2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/septembre2024/Fructidor.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/septembre2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/septembre2024/index.html" class="no-external">Septembre 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/septembre2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/septembre2024/index.html" class="no-external">Un mois de septembre très marqué par les productions autour des commémorations du 80e anniversaire de la Libération.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/septembre2024/index.html" class="no-external">
+<div class="listing-date">
+Sep 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-categories="QXJjaGl2ZXMlMkNJQSUyQ1dpa2lkYXRhJTJDSGlzdG9pcmUlMkNOdW0lQzMlQTlyaXNhdGlvbiUyQ1Nwb3J0" data-listing-date-sort="1719784800000" data-listing-file-modified-sort="1747585168747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="369">
+<div class="thumbnail">
+<p><a href="./veille/Ete2024/index.html" class="no-external"></a></p><a href="./veille/Ete2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/Ete2024/Thermidor.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/Ete2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/Ete2024/index.html" class="no-external">Eté 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/Ete2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/Ete2024/index.html" class="no-external">C’était annoncé, une coupure de publication pendant l’été pour mieux se retrouver à la rentrée.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/Ete2024/index.html" class="no-external">
+<div class="listing-date">
+Jul 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-categories="SHVtYW5pdCVDMyVBOXMlMjBudW0lQzMlQTlyaXF1ZXMlMkNIaXN0b2lyZSUyQ0lJSUYlMkNTcG9ydA==" data-listing-date-sort="1717192800000" data-listing-file-modified-sort="1747585168769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="228">
+<div class="thumbnail">
+<p><a href="./veille/juin2024/index.html" class="no-external"></a></p><a href="./veille/juin2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/juin2024/Prairial.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/juin2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/juin2024/index.html" class="no-external">Juin 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/juin2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/juin2024/index.html" class="no-external">Mois de juin un peu compliqué en termes de veille, et notamment avec une section vu… non vu. On se retrouve certainement en septembre pour livaison de la veille estivale.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/juin2024/index.html" class="no-external">
+<div class="listing-date">
+Jun 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-categories="UG9zdGNvbG9uaWFsJTJDTWFya2Rvd24lMkNBcmNoaXZpc3RpcXVlJTJDSUlJRiUyQ0JyZXRhZ25lJTJDRmVtbWVzJTJDSGlzdG9pcmUlMkNEJUMzJUE5bWF0JUMzJUE5cmlhbGlzYXRpb24lMkNJQSUyQ0xHQlRRSUElMkI=" data-listing-date-sort="1714514400000" data-listing-file-modified-sort="1747585168771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="570">
+<div class="thumbnail">
+<p><a href="./veille/mai2024/index.html" class="no-external"></a></p><a href="./veille/mai2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/mai2024/Floreal.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/mai2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/mai2024/index.html" class="no-external">Mai 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/mai2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/mai2024/index.html" class="no-external">Lodel 2, Stylo 2 : le Markdown scientifique entre dans une nouvelle ère court premier retour sur les nouvelles versions de Lodel et Stylo par A.Perret. On notera son…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/mai2024/index.html" class="no-external">
+<div class="listing-date">
+May 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="20" data-categories="QXJjaGl2ZXMlMkNFdXJvcGUlMkNPcGVuRGF0YSUyQ0QlQzMlQTltb2NyYXRpZSUyQ0hpc3RvaXJlJTJDQ29tbXVucyUyQ1BhdHJpbW9pbmU=" data-listing-date-sort="1711922400000" data-listing-file-modified-sort="1747585168755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="322">
+<div class="thumbnail">
+<p><a href="./veille/avril2024/index.html" class="no-external"></a></p><a href="./veille/avril2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/avril2024/Germinal.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/avril2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/avril2024/index.html" class="no-external">Avril 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/avril2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/avril2024/index.html" class="no-external">Un peu plus de variétés pour ce mois d’avril et de belles découvertes pour moi.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/avril2024/index.html" class="no-external">
+<div class="listing-date">
+Apr 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-categories="RCVDMyVBOW1hdCVDMyVBOXJpYWxpc2F0aW9uJTJDQXJjaGl2ZXMlMkNDYWhpZXJzJTIwY2l0b3llbnMlMkNNdXNpcXVlJTJDQWxnJUMzJUE5cmllJTJDTnVtJUMzJUE5cmlzYXRpb24lMkNHZW5yZSUyQ1VyYmV4JTJDSXNsYW0lMkNIaXN0b2lyZSUyQ0VzY2xhdmFnZQ==" data-listing-date-sort="1709247600000" data-listing-file-modified-sort="1747585168771" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="418">
+<div class="thumbnail">
+<p><a href="./veille/mars2024/index.html" class="no-external"></a></p><a href="./veille/mars2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/mars2024/ventose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/mars2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/mars2024/index.html" class="no-external">Mars 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/mars2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/mars2024/index.html" class="no-external">Une livraison de mars un peu plus épaisse et surtout avec un peu plus de commentaires de ma part. Cette publication va trouver son format au fil du temps.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/mars2024/index.html" class="no-external">
+<div class="listing-date">
+Mar 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="22" data-categories="QXJjaGl2ZXMlMkNOdW0lQzMlQTlyaXF1ZSUyQ0RhdGElMkNPcGVuRGF0YSUyQ0hpc3RvaXJlJTJDQ29sb25pc2F0aW9uJTJDSUElMkNPcGVuR0xBTSUyQ09wZW5Db250ZW50JTJDV2lraXAlQzMlQTlkaWElMkNFc2NsYXZhZ2lzbWUlMkNNYXJzZWlsbGU=" data-listing-date-sort="1706742000000" data-listing-file-modified-sort="1747585168762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="565">
+<div class="thumbnail">
+<p><a href="./veille/fevrier2024/index.html" class="no-external"></a></p><a href="./veille/fevrier2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/fevrier2024/Pluviose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/fevrier2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/fevrier2024/index.html" class="no-external">Février 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/fevrier2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/fevrier2024/index.html" class="no-external">Deuxième volet de cette édition mensuelle. Bonne lecture.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/fevrier2024/index.html" class="no-external">
+<div class="listing-date">
+Feb 1, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="23" data-categories="QXJjaGl2ZXMlMkNOdW0lQzMlQTlyaXF1ZSUyQ0RhdGElMkNPcGVuRGF0YSUyQ0hpc3RvaXJlJTJDQ29sb25pc2F0aW9uJTJDSUE=" data-listing-date-sort="1704063600000" data-listing-file-modified-sort="1747585168765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="401">
+<div class="thumbnail">
+<p><a href="./veille/janvier2024/index.html" class="no-external"></a></p><a href="./veille/janvier2024/index.html" class="no-external">
+<p><img loading="lazy" src="./veille/janvier2024/Nivose.jpg" class="thumbnail-image"></p>
+</a><p><a href="./veille/janvier2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./veille/janvier2024/index.html" class="no-external">Janvier 2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./veille/janvier2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./veille/janvier2024/index.html" class="no-external">Inauguration pour l’année 2024 d’une publication mensuelle de ce que j’ai pu croiser et qui a éveillé mon intérêt. Ceci à travers des livres, articles, podcasts, webinaires…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./veille/janvier2024/index.html" class="no-external">
+<div class="listing-date">
+Jan 1, 2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

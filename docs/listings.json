@@ -38,5 +38,34 @@
       "/blocnotes/mauvaisereputation/index.html",
       "/blocnotes/cloud_archives/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/veille/index.html",
+      "/veille/decembre2025/index.html",
+      "/veille/technowhatever/index.html",
+      "/veille/novembre2025/index.html",
+      "/veille/octobre2025/index.html",
+      "/veille/septembre2025/index.html",
+      "/veille/Ete2025/index.html",
+      "/veille/juin2025/index.html",
+      "/veille/mai2025/index.html",
+      "/veille/avril2025/index.html",
+      "/veille/mars2025/index.html",
+      "/veille/fevrier2025/index.html",
+      "/veille/janvier2025/index.html",
+      "/veille/decembre2024/index.html",
+      "/veille/novembre2024/index.html",
+      "/veille/octobre2024/index.html",
+      "/veille/septembre2024/index.html",
+      "/veille/Ete2024/index.html",
+      "/veille/juin2024/index.html",
+      "/veille/mai2024/index.html",
+      "/veille/avril2024/index.html",
+      "/veille/mars2024/index.html",
+      "/veille/fevrier2024/index.html",
+      "/veille/janvier2024/index.html"
+    ]
   }
 ]
