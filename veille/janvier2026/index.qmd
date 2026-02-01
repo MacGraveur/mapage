@@ -8,7 +8,7 @@ categories:
 - Cahiers citoyens
 - Gaza
 
-date : 01-02-2026
+date : 02-01-2026
 title: Janvier 2026
 image: Nivose.jpg
 ---
