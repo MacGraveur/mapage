@@ -1,0 +1,53 @@
+---
+categories:
+- Archives 
+- IA 
+- Data 
+- Infrastructure
+- Cahiers citoyens
+- Cloud
+- Histoire
+- Marseille
+- Shoah
+- Open Data
+date : 03-01-2026
+title: Février 2026
+image: Pluviose.jpg
+---
+
+Ce mois-ci on trouve du numérique comme patrimoine ou comme structure de notre société. Mais aussi de l'histoire et notamment douloureuses que cela soit pendant les gueurres de religion ou la Shoah.
+
+## Lu
+
+* [Cahiers de doléances : du Conseil national de la résistance aux « gilets jaunes »](https://aoc.media/analyse/2026/01/25/cahiers-de-doleances-du-conseil-national-de-la-resistance-aux-gilets-jaunes/)
+
+> Bien que les cahiers de 2018 puis la plupart des chercheurs n’aient aucunement mentionné le précédent de 1945, la référence commune à 1789, propre à signifier la force des attentes, autorise une comparaison.
+
+* [La première bibliothèque de carottes glaciaires en Antarctique pour protéger la mémoire climatique de l’humanité](https://theconversation.com/la-premiere-bibliotheque-de-carottes-glaciaires-en-antarctique-pour-proteger-la-memoire-climatique-de-lhumanite-273377)
+
+> À partir de là [_2040_], la fonte des glaciers se réduira. Les chiffres vont baisser, non pas parce qu’on aura arrêté le réchauffement climatique, mais parce que, un par un, ces glaciers auront disparu, et il restera de moins en moins de glaciers qui fondent. Donc, vers 2040, on va atteindre un pic de fonte des glaciers, ce qui détruira au passage les archives environnementales prestigieuses et précieuses qu’ils représentent.
+
+* [Des archives comme autant de romans policiers](https://actu.epfl.ch/news/des-archives-comme-autant-de-romans-policiers/)
+
+> Lire les archives, c’est comme plonger dans un roman policier, poursuit-elle. « Ce sont des traces et témoignages d’événements passés, et autant d’indices d’histoires, que l’on peut compléter en les mettant bout à bout. »
+
+## Vu
+
+* [Contre la « tentation de la forteresse », des archives redonnent un visage aux travailleurs immigrés oubliés](https://www.mediapart.fr/studio/documentaires/culture-et-idees/contre-la-tentation-de-la-forteresse-des-archives-redonnent-un-visage-aux-travailleurs-imm)
+
+> À la faveur de photos découvertes dans les archives du fonds photographique du département des déplacements et de la voirie de Paris, elle enquête sur ces ouvriers qui ont contribué à la construction du boulevard périphérique parisien. Le chantier a duré dix-sept années, de 1956 à 1973, des années pendant lesquelles ont lieu la guerre d’Algérie et la décolonisation. 
+
+* [Marseille vue par les Detaille - 164 ans de photos](https://musees.marseille.fr/marseille-vue-par-les-detaille-164-ans-de-photos). Dans le cadre du bicentenaire de l'invention de la photographie, la ville de Marseille propose un exposition des fonds de l'atelier Detaille, récemment acquis. Si les photos sont parfois très belles, la curation de l'exposition n'est pas forcèment très pertinente. On ne trouve pas vraiment de fil directeur, de propos musuéal.
+
+* [Les guerres civiles nous ont-elles civilisés ? Les idées larges](https://www.arte.tv/fr/videos/122772-010-A/les-guerres-civiles-nous-ont-elles-civilises/) avec _Jérémie Foa_
+
+> L’une des choses que l’on dit aux enfants, c’est qu’il ne faut pas tricher et qu’il ne faut pas mentir. Mais ça, c’est en temps normal, en temps de paix. Dans le monde incertain des guerres civiles, on a tout intérêt à la feinte et à la dissimulation si on veut avoir une chance de s’en sortir.
+
+
+## Entendu
+
+* Chez Le Book Club, [À la recherche de la bibliothèque perdue, avec Vanessa de Senarclens](https://www.radiofrance.fr/franceculture/podcasts/le-book-club/a-la-recherche-de-la-bibliotheque-perdue-avec-vanessa-de-senarclens-3659633)
+
+* Chez Projets libres, Élisabeth Ville et Félix Veith, qui sont co-entrepreneur du RNB, présentent leur projet. [[Open Data] Le référentiel national des bâtiments (RNB) – la création une base de données nationale.](https://www.projets-libres.org/podcast/s4e9-open-data-contruire-base-donnees-rnb/)
+
+* Chez Next - Entre la chaise et le clavier, Mathilde Saliou nous propose un volet sur [la matérialité du numérique en accueillant le collectif Le Nuage était sous nos pieds](https://next.ink/podcast/eclc-5-interroger-la-materialite-numerique-avec-le-nuage-etait-sous-nos-pieds/) (Marseille).
