@@ -10,7 +10,54 @@
 <atom:link href="https://macgraveur.github.io/mapage/index.xml" rel="self" type="application/rss+xml"/>
 <description>la page de Mac Graveur</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sat, 28 Feb 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mars 2026</title>
+  <link>https://macgraveur.github.io/mapage/veille/mars2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Peu de temps ce mois-ci pour ma veille, on se limite donc au minimum. J’espère que vous l’apprécierez quand même.</p>
+<section id="lu" class="level3">
+<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<ul>
+<li><p><a href="https://www.mediapart.fr/journal/culture-et-idees/110326/boulogne-billancourt-romeo-mivekannin-inverse-les-archives-coloniales-francaises">À Boulogne-Billancourt, Roméo Mivekannin « inverse » les archives coloniales françaises</a>. Un artiste expose dans les jardins du musée Albert Kahn des oeuvres venant questionner le passé colonial.</p></li>
+<li><p><a href="https://www.lamarseillaise.fr/culture/kid-francis-la-boxe-dans-les-flots-de-l-histoire-en-bd-EP19430523">Kid Francis, la boxe dans les flots de l’histoire en BD</a>, découverte à travers l’annonce de cette BD d’un boxeur marseillais, proche du milieu mafieux et collaborationniste.</p></li>
+<li><p><a href="https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh">Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation</a>, petite lecture très gestion d’archives, et vous noterez que la CNIL pense comme souvent à donner des indications pour l’archivage intermédiaire.</p></li>
+</ul>
+</section>
+<section id="vu" class="level3">
+<h3 class="anchored" data-anchor-id="vu">VU</h3>
+<ul>
+<li><p><a href="https://videos.assemblee-nationale.fr/video.18435565_69b00684b06ed">Dépendances structurelles et vulnérabilités dans le secteur du numérique en France : M. Henri Verdier</a> interrogé par la commission parlementaire.</p></li>
+<li><p><a href="https://vimeo.com/1094028292">Mange tes maux</a> Créations artistique d’Ari Hamot utilisant des recherches généalogiques d’une descendante de marchand d’esclave havrais.</p></li>
+<li><p><a href="https://www.arte.tv/fr/videos/122772-010-A/les-guerres-civiles-nous-ont-elles-civilises/">Les guerres civiles nous ont-elles civilisés ?</a> échange relativement court avec l’historien Jérémie Foa autour de son dernier ouvrage “Suivivre”.</p></li>
+</ul>
+</section>
+<section id="entendu" class="level3">
+<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
+<ul>
+<li><p>Chez Culture Monde, <a href="https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/a-tombouctou-la-fabrique-d-un-patrimoine-commun-6887405">À Tombouctou, la fabrique d’un patrimoine commun</a>, avec Mathilde Leloup. Le patrimoine sous plusieurs formes : écrits, bâtiments et pourquoi les choix de reconstructions doivent s’appuyer sur les populations concernées.</p></li>
+<li><p>Chez Propagations, <a href="https://shows.acast.com/propagations/episodes/de-wikileaks-aux-epstein-files-plongee-dans-le-renseignement">De Wikileaks aux Epstein files : plongée dans le renseignement en sources ouvertes</a> avec Antoine de Gunzbourg qui nous présente les principes de l’OSINT, et donc nous parle un peu d’archives.</p></li>
+<li><p>Chez Chemins d’histoire, <a href="https://cheminsdhistoire.fr/emission245/">Etre célibataire dans les Etats-Unis du XXe siècle</a> avec Romain Huret. Une plongée dans l’intime à travers les archives.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>Colonisation</category>
+  <category>Marseille</category>
+  <category>Patrimoine</category>
+  <category>Postcolonial</category>
+  <category>Histoire</category>
+  <guid>https://macgraveur.github.io/mapage/veille/mars2026/</guid>
+  <pubDate>Sat, 04 Apr 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/mars2026/ventose.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Février 2026</title>
   <link>https://macgraveur.github.io/mapage/veille/fevrier2026/</link>
@@ -42,7 +89,7 @@
 </blockquote>
 </section>
 <section id="vu" class="level2">
-<h2 class="anchored" data-anchor-id="vu">VU</h2>
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
 <ul>
 <li><a href="https://www.mediapart.fr/studio/documentaires/culture-et-idees/contre-la-tentation-de-la-forteresse-des-archives-redonnent-un-visage-aux-travailleurs-imm">Contre la « tentation de la forteresse », des archives redonnent un visage aux travailleurs immigrés oubliés</a></li>
 </ul>
@@ -78,6 +125,7 @@
   <category>Histoire</category>
   <category>Marseille</category>
   <category>Shoah</category>
+  <category>Open Data</category>
   <guid>https://macgraveur.github.io/mapage/veille/fevrier2026/</guid>
   <pubDate>Sat, 28 Feb 2026 23:00:00 GMT</pubDate>
   <media:content url="https://macgraveur.github.io/mapage/veille/fevrier2026/Pluviose.jpg" medium="image" type="image/jpeg"/>
@@ -1258,49 +1306,6 @@
   <guid>https://macgraveur.github.io/mapage/veille/Ete2024/</guid>
   <pubDate>Sun, 30 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://macgraveur.github.io/mapage/veille/Ete2024/Thermidor.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Juin 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/juin2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Mois de juin un peu compliqué en termes de veille, et notamment avec une section vu… non vu. On se retrouve certainement en septembre pour livaison de la veille estivale.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://orientxxi.info/lu-vu-entendu/toulouse-refuge-des-archives-filmiques-palestiniennes,7359">Toulouse, refuge des archives filmiques palestiniennes</a> &gt; « Le projet était incroyable, elle a passé toute une partie de sa vie à chercher des copies de films, on ne pouvait pas la laisser seule avec ça… »</p></li>
-<li><p><a href="https://literarymachin.es/iiif-tropy-canopy/">Building a simple IIIF digital library with Tropy, Tropiiify and Canopy</a> Émerge des connecteurs entre différents outils pour profiter au maximum des bénéfices du IIIF.</p></li>
-<li><p><a href="https://tepas.mmsh.fr/notices_tepas/fiche-0043/">Le pré de foire à Sisteron</a> Un exemple de notice parmi d’autres proposées par TEPAS sur le sport dans la Région PACA, de saison en année olympique.</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li>Rien pour ce mois-ci</li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez Quoi de neuf en histoire ? : <a href="https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-79-histoire-de-jerusalem-vincent-lemire">“Histoire de Jérusalem” avec Vincent Lemire</a> Lemire un historien, et citoyen, à lire, écouter, regarder. En ce temps, un peu de pensée complexe cela est tellement précieux.</p></li>
-<li><p>Chez Paroles d’histoire : <a href="http://parolesdhistoire.fr/index.php/2024/06/22/343-le-front-populaire-au-present-avec-jean-vigreux/">Le Front populaire au présent, avec Jean Vigreux</a> Parce que l’historien ne vit pas hors de la cité.</p></li>
-<li><p>Chez Passion médiéviste : <a href="https://passionmedievistes.fr/super-joute-bretagne-normandie/">Super Joute spécial Bretagne vs Normandie</a>. Je n’avais jamais écouté ces hors-séries du podcast. Le format est plaisant : débattre des grandes figures historiques pour leur donner des points, le ton est volontairement potaches et détendues. Bémol j’ai trouvé ça un peu long.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Humanités numériques</category>
-  <category>Histoire</category>
-  <category>IIIF</category>
-  <category>Sport</category>
-  <guid>https://macgraveur.github.io/mapage/veille/juin2024/</guid>
-  <pubDate>Fri, 31 May 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/juin2024/Prairial.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

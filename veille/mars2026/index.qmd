@@ -1,0 +1,38 @@
+---
+categories:
+- Archives
+- Colonisation
+- Marseille
+- Patrimoine
+- Postcolonial
+- Histoire
+date : 04-05-2026
+title: Mars 2026
+image: ventose.jpg
+---
+
+Peu de temps ce mois-ci pour ma veille, on se limite donc au minimum. J'espère que vous l'apprécierez quand même.
+
+### Lu
+
+* [À Boulogne-Billancourt, Roméo Mivekannin « inverse » les archives coloniales françaises](https://www.mediapart.fr/journal/culture-et-idees/110326/boulogne-billancourt-romeo-mivekannin-inverse-les-archives-coloniales-francaises). Un artiste expose dans les jardins du musée Albert Kahn des oeuvres venant questionner le passé colonial.
+
+* [Kid Francis, la boxe dans les flots de l’histoire en BD](https://www.lamarseillaise.fr/culture/kid-francis-la-boxe-dans-les-flots-de-l-histoire-en-bd-EP19430523), découverte à travers l'annonce de cette BD d'un boxeur marseillais, proche du milieu mafieux et collaborationniste. 
+
+* [Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation](https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh), petite lecture très gestion d'archives, et vous noterez que la CNIL pense comme souvent à donner des indications pour l'archivage intermédiaire.
+
+### VU
+
+* [Dépendances structurelles et vulnérabilités dans le secteur du numérique en France : M. Henri Verdier](https://videos.assemblee-nationale.fr/video.18435565_69b00684b06ed) interrogé par la commission parlementaire.
+
+* [Mange tes maux](https://vimeo.com/1094028292) Créations artistique d'Ari Hamot utilisant des recherches généalogiques d'une descendante de marchand d'esclave havrais.
+
+* [Les guerres civiles nous ont-elles civilisés ?](https://www.arte.tv/fr/videos/122772-010-A/les-guerres-civiles-nous-ont-elles-civilises/) échange relativement court avec l'historien Jérémie Foa autour de son dernier ouvrage "Suivivre".
+
+### Entendu
+
+* Chez Culture Monde, [À Tombouctou, la fabrique d’un patrimoine commun](https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/a-tombouctou-la-fabrique-d-un-patrimoine-commun-6887405), avec Mathilde Leloup. Le patrimoine sous plusieurs formes : écrits, bâtiments et pourquoi les choix de reconstructions doivent s'appuyer sur les populations concernées.
+
+* Chez Propagations, [De Wikileaks aux Epstein files : plongée dans le renseignement en sources ouvertes](https://shows.acast.com/propagations/episodes/de-wikileaks-aux-epstein-files-plongee-dans-le-renseignement) avec Antoine de Gunzbourg qui nous présente les principes de l'OSINT, et donc nous parle un peu d'archives.
+
+* Chez Chemins d'histoire, [Etre célibataire dans les Etats-Unis du XXe siècle](https://cheminsdhistoire.fr/emission245/) avec Romain Huret. Une plongée dans l'intime à travers les archives.
