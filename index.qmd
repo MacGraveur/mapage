@@ -1,7 +1,9 @@
 ---
 title: "Accueil"
 listing:
-  contents: veille
+  contents: 
+  - veille
+  - blocnotes
   sort: "date desc"
   type: default
   categories: false

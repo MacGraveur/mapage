@@ -1,0 +1,83 @@
+---
+title: "Pourquoi je suis mal à l'aise avec l'utilisation de l'IAG, chez les archivistes"
+date: 04-16-2026
+author: Julien Benedetti
+categories:
+- IA
+- archives
+image: sw.png
+---
+
+### Un constat
+
+Ceci est un billet d'humeur, vous le trouverez donc sans aucun doute incomplet ou approximatif sur plusieurs points. J'ai tout de même décidé de le publier car sinon il serait rester en mode brouillon, et puis rien ne m'interdit dans le futur de l'amender ou l'enrichir. 
+
+Il n'a pour volonté que de partager un sentiment. Le point de départ est une suite de rencontres professionnellles récentes, et d'échanges de pairs à pairs. Il est aussi évidemment le résultat de lectures sur le numérique et le rapport à la technique. Je liste d'ailleurs quelques références qui me semblent importantes à la fin du texte.
+
+L'idée n'est pas d'avoir un propos remettant en cause les usages de la technologie et plus précisèment du numérique. Il s'agit plutôt d'enrichir nos pratiques à partir de réflexions socio-techniques, comme nous avons tenté de le faire lors du [Forum des archivistes avec Anne-Laure Donzel](https://aldonzel.github.io/intervention-forum-AAF25/).
+
+Les propos que je peux lire ou entendre dans la profession m'ont fait grandement penser à ce que j'ai connu il y a globalement deux décennies autour de l'archivage électronique. On oscille entre attirance et répulsion. Au mieux je peux entendre une forme de fatalisme "de toute façon nous n'avons pas le choix". Hélas ce qui domine est un discours sur le souhait de faire faire à l'IA nombres de tâches à notre place : 
+* évaluer les archives à collecter ? Réponse l'IAG,
+* répondre aux usagers ? l'IAG, 
+* décrire les archives ? l'IAG encore et toujours. 
+
+Il y a vingt ans les archivistes pensaient être remplacés par des informatiens, où la collecte des archives numériques seraient totalement automatisée. Je pense que l'on peut faire le bilan les scénarios extrêmes d'un remplacement des archivistes par des informaticiens ou des machines ne se sont pas réalisés.
+
+### Des agacements
+
+L'un des points qui me choque le plus est la capacité que la population en général a de naturaliser cette technologie. Comme si elle avait toujours existé, comme si elle était la réponse à tous les sujets. Et je le suis d'autant plus pour les archivistes, profession par essence formée à la critique de l'information. 
+
+Ceux qui me suivent, savent que je répète et même radote que [#ArchivesAreNotNeutral](https://framapiaf.org/deck/tags/ArchivesAreNotNeutral). Je pense sincèrement que nos actes et choix d'archivistes sont politiques. Je persiste dans la même veine, choisir ou non d'utiliser des IAG est un choix politique. Le présenter comme autre me semble au mieux une illusion. Ces outils sont créés et maintenus par des humains et à ce titre ne sont pas neutres. Ils sont le résultat de choix et aboutissent à des traitements algorithmiques complexes. Qui parmi les archivistes pensent sincèrement être en capacité de comprendre et de faire une critique méthodologique de ces outils ?
+
+Autre point que friction, les travaux sollicitant l'utilisation de LLM tournent beaucoup en archives autour de chantier de reconnaissance d'écriture manuscrite (HTR). Alors que les archivistes ont une longue réputation de profession tatillonne pour le dire poliment, je vois une bascule très rapide à l'acceptation d'un résultat peu qualitatif mais obtenu rapidement via une IAG. On **doit** accepter qu'une information est globalement correcte, ou vraisemblable. Ceci étant pire que la notion de faux, brillament traité dans l'[exposition](https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours) des Archives nationales. En effet, pour nos usagers les informations provenants de service d'archives apportent (au moins symboliquement) un haut degré de confiance, que répondre quand nous acceptons de nous conformer à un traitement global approximatif ? Mais en le basant sur la croyance forte que plus tard une nouvelle IAG corrigera ce que la première n'a pas réussi à faire correctement. Comme le dise les Shadoks, "Plus ça rate, plus on a de chances que ça marche".
+
+Au sujet des chantiers d'HTR, j'en profite pour pointer la situation de quasi monopole d'une société, donc de ses modèles, outils et méthodologies. Au-delà d'un souci éthique quand on est acheteur public, je pense qu'il est plus que problématique que l'approche sur les traitements HTR soient uniques. Mais les coûts seraient faibles alors nous devons nous en rejouir (_sic_).
+
+Nous pourrions aussi questionner le rapport de genre à cette technologie : comment expliquer que dans une profession largement féminisée 90 % des intervenants dans une journée d'étude ayant pour thème les archives et l'IA soient des hommes ? Et que cela n'est pas du tout le cas pour une journée sur la participation dans les archives ?
+
+Un autre problème que devrait nous poser les LLM est le non respect du droit de la propriété intellectuelle. Un article récent sur [Hugingface](https://www.mediapart.fr/journal/economie-et-social/060426/pilier-de-l-intelligence-artificielle-hugging-face-diffuse-des-centaines-de-milliers-de-docume) devrait nous alerter. Je ne ferai pas l'historique du lien des archivistes avec la perception de redevance, y compris sur du domaine public, mais cela questionne donc sur le double standard. Les archivistes ont, parfois contre le Droit, voulu prélever des redevances mais s'accodomodent d'outils pillant des oeuvres couvertes par des droits.
+
+Les archives et le domaine patrimonial sont, de plus, eux-mêmes les victimes de cette captation de ressources. 
+
+Quelques exemples : 
+
+* FranceArchives et Gallica voient leur portail mis à mal par des robots venants récupérer des données pour nourrir des modèles d'IA.
+* A l'inverse, le dépôt légal du Web de la BnF trouve de plus en plus de sites mettant en place des restrictions de récupération de données car ils se protègent des IA.
+* Des archivistes sont saisis de demandes d'accès par des lecteurs donnant de fausses références, hallucinées (selon le terme dédié) par des IA.
+
+### Une réflexion sur ma pratique
+
+A titre individuel, j'ai de plus en plus l'envie de revendiquer un travail sur la donnée de façon artisanale, en prenant le temps. Je ne suis pas devenu archiviste, et encore moins agent public, pour répondre à des injonctions à la vitesse et à l'intégration, à tout prix, d'une nouvelle technologie sans la discuter. C'est aussi le sens de cette page personnelle et notamment de la veille mensuelle que je diffuse. Elle m'a permis, avec l'aide d'Anne-Laure Donzel, d'avoir un lieu d'expression autonome sur le web. [Une lecture en cours](https://www.editionsladecouverte.fr/l_oeil_de_l_etat-9782348057359) m'a fait découvrir le concept de _[la mètis](https://fr.wikipedia.org/wiki/M%C3%A8tis_(Gr%C3%A8ce_antique))_. Ceci m'a interpellé car cela s'ancre dans l'idée de l'importance du savoir-faire et de l'expérience face à une vision uniquement théorique d'un sujet.
+
+Je ne vais pas non plus nier d'avoir eu, il y a un an ou deux, fait usages d'IAG pour faire un peu de _vibe coding_. Mais un échange avec un datascientist m'a amené à y renoncer, ceci au moins dans un premier temps. Il m'a fait réaliser que cette pratique était une volonté de toute puissance, de non acception de la frustration et de renoncement à l'effort d'apprentissage, comme un enfant. A l'occasion de la rédaction de ce billet il me pointe cet [article](https://arxiv.org/abs/2604.04721) qui se rajoute à ma pile à lire ! L'utilisation de cette technologie n'intéresse à priori que des archivistes ayant déjà un vernis en langage de programmation, mais ces profils sont rares et souvent isolés. L'aide d'une IA pour ne pas rester bloquer ou pour faire une sorte d'apprentissage tutoré peut se justifier, mais encore faut-il avoir la connaissance pour critiquer le résultat.
+
+Je suis un animal social, et j'ai toujours appris en échangeant avec d'autres personnes. C'est même ce qui est le plus plaisant dans l'apprentissage pour moi. Je vous incite très fortement à lire [cette tribune d'une développeuse](https://tut-tuuut.github.io/2026/03/27/des-verbes.html) sur les besoins de rapports humains dans le numérique.
+
+On voit chaque jour dans nos services à quel point la moindre appropriation d'un nouvel outil est complexe. Il en est de même quand on cherche à persuader des collègues d'améliorer la qualité des données pour permettre de nouveaux usages. Cela m'agaçe d'autant plus que nous sommes collectivement béat devant un automate répondant vite mais mal. Je garde espoir tout de même quand je vois des initiatives d'ateliers ou d'expérimentations, certes souvent modestes, dans des services d'archives. Mon sentiment vis-à-vis des IAG est conforté par le regard critique porté par des archivistes investis de longues dates dans le numérique et la manipulation de données.
+
+Ce qui m'intéresse aujourd'hui sont plus les *usages discrets*, pour paraphraser Muller et Clavert, des archivistes. Le séminaire de Céline Guyon, Édouard Vasseur et Mathilde Sergent Mirebault peut beaucoup apporter à la réflexion au sein de notre profession.
+
+Je profite donc de ce texte pour remercier : Anne-Laure, Maïwenn, Jordi, Céline, Caroline, Christelle, Agnès, Bertrand, Mathieu. Qu'ils en soient conscients ou non nos échanges me sont précieux.
+
+### Quelques références de lecture
+
+* Caroline Muller et Frédéric Clavert, [Écrire l'histoire Gestes et expériences à l'ère numérique](https://www.dunod.com/histoire-geographie-et-sciences-politiques/ecrire-histoire-gestes-et-experiences-ere-numerique)
+* Marcello Vitali-Rosati, [Éloge du bug](https://www.editionsladecouverte.fr/eloge_du_bug-9782355222238)
+* Jérôme Denis et David Pontille, [Le soin des choses](https://www.editionsladecouverte.fr/le_soin_des_choses-9782348064838)
+* Cory Doctorow, [le rapt d'Internet](https://cfeditions.com/rapt-internet/)
+* Hubert Guillaud, [Pourquoi le déploiement de projet échoue-t-il ?](https://danslesalgorithmes.net/stream/pourquoi-le-deploiement-de-projet-echoue-t-il/)
+
+### Lieux récents d'échanges et de rencontres
+
+* [Rencontres annuelles de la section des archivistes départementaux](https://www.archivistes.org/agenda/rencontres-annuelles-de-la-section-des-archivistes-departementaux/)
+* [Autour des archives à l’ère numérique, quel renouvellement des gestes et des usages ?](https://www.linkedin.com/pulse/autour-des-archives-%C3%A0-l%C3%A8re-num%C3%A9rique-quel-gestes-et-louis-sy2af/)
+* [Projet SocFace - Journée d’étude](https://francearchives.gouv.fr/fr/actualite/1136744969)
+* L'archivistique à l'épreuve de l'informatisation de la société, saison 1
+
+### Les sujets qui auraient pu être dans ce billet 
+
+* L'amnésie de l'utilisation ancienne de l'informatique dans l'archivistique
+* L'investissement nécessaire dans la formation sur des outils de traitement de données, du plus simple au plus expert
+* L'importance des outils libres
+* L'impact environnemental et humain de la conception et utilisation des IAG
+* La production de données de mauvaise qualité en masse qu'il faudra retraiter un jour

@@ -10,7 +10,88 @@
 <atom:link href="https://macgraveur.github.io/mapage/index.xml" rel="self" type="application/rss+xml"/>
 <description>la page de Mac Graveur</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sat, 04 Apr 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Apr 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Pourquoi je suis mal à l’aise avec l’utilisation de l’IAG, chez les archivistes</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/noiag/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="un-constat" class="level3">
+<h3 class="anchored" data-anchor-id="un-constat">Un constat</h3>
+<p>Ceci est un billet d’humeur, vous le trouverez donc sans aucun doute incomplet ou approximatif sur plusieurs points. J’ai tout de même décidé de le publier car sinon il serait rester en mode brouillon, et puis rien ne m’interdit dans le futur de l’amender ou l’enrichir.</p>
+<p>Il n’a pour volonté que de partager un sentiment. Le point de départ est une suite de rencontres professionnellles récentes, et d’échanges de pairs à pairs. Il est aussi évidemment le résultat de lectures sur le numérique et le rapport à la technique. Je liste d’ailleurs quelques références qui me semblent importantes à la fin du texte.</p>
+<p>L’idée n’est pas d’avoir un propos remettant en cause les usages de la technologie et plus précisèment du numérique. Il s’agit plutôt d’enrichir nos pratiques à partir de réflexions socio-techniques, comme nous avons tenté de le faire lors du <a href="https://aldonzel.github.io/intervention-forum-AAF25/">Forum des archivistes avec Anne-Laure Donzel</a>.</p>
+<p>Les propos que je peux lire ou entendre dans la profession m’ont fait grandement penser à ce que j’ai connu il y a globalement deux décennies autour de l’archivage électronique. On oscille entre attirance et répulsion. Au mieux je peux entendre une forme de fatalisme “de toute façon nous n’avons pas le choix”. Hélas ce qui domine est un discours sur le souhait de faire faire à l’IA nombres de tâches à notre place : * évaluer les archives à collecter ? Réponse l’IAG, * répondre aux usagers ? l’IAG, * décrire les archives ? l’IAG encore et toujours.</p>
+<p>Il y a vingt ans les archivistes pensaient être remplacés par des informatiens, où la collecte des archives numériques seraient totalement automatisée. Je pense que l’on peut faire le bilan les scénarios extrêmes d’un remplacement des archivistes par des informaticiens ou des machines ne se sont pas réalisés.</p>
+</section>
+<section id="des-agacements" class="level3">
+<h3 class="anchored" data-anchor-id="des-agacements">Des agacements</h3>
+<p>L’un des points qui me choque le plus est la capacité que la population en général a de naturaliser cette technologie. Comme si elle avait toujours existé, comme si elle était la réponse à tous les sujets. Et je le suis d’autant plus pour les archivistes, profession par essence formée à la critique de l’information.</p>
+<p>Ceux qui me suivent, savent que je répète et même radote que <a href="https://framapiaf.org/deck/tags/ArchivesAreNotNeutral">#ArchivesAreNotNeutral</a>. Je pense sincèrement que nos actes et choix d’archivistes sont politiques. Je persiste dans la même veine, choisir ou non d’utiliser des IAG est un choix politique. Le présenter comme autre me semble au mieux une illusion. Ces outils sont créés et maintenus par des humains et à ce titre ne sont pas neutres. Ils sont le résultat de choix et aboutissent à des traitements algorithmiques complexes. Qui parmi les archivistes pensent sincèrement être en capacité de comprendre et de faire une critique méthodologique de ces outils ?</p>
+<p>Autre point que friction, les travaux sollicitant l’utilisation de LLM tournent beaucoup en archives autour de chantier de reconnaissance d’écriture manuscrite (HTR). Alors que les archivistes ont une longue réputation de profession tatillonne pour le dire poliment, je vois une bascule très rapide à l’acceptation d’un résultat peu qualitatif mais obtenu rapidement via une IAG. On <strong>doit</strong> accepter qu’une information est globalement correcte, ou vraisemblable. Ceci étant pire que la notion de faux, brillament traité dans l’<a href="https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours">exposition</a> des Archives nationales. En effet, pour nos usagers les informations provenants de service d’archives apportent (au moins symboliquement) un haut degré de confiance, que répondre quand nous acceptons de nous conformer à un traitement global approximatif ? Mais en le basant sur la croyance forte que plus tard une nouvelle IAG corrigera ce que la première n’a pas réussi à faire correctement. Comme le dise les Shadoks, “Plus ça rate, plus on a de chances que ça marche”.</p>
+<p>Au sujet des chantiers d’HTR, j’en profite pour pointer la situation de quasi monopole d’une société, donc de ses modèles, outils et méthodologies. Au-delà d’un souci éthique quand on est acheteur public, je pense qu’il est plus que problématique que l’approche sur les traitements HTR soient uniques. Mais les coûts seraient faibles alors nous devons nous en rejouir (<em>sic</em>).</p>
+<p>Nous pourrions aussi questionner le rapport de genre à cette technologie : comment expliquer que dans une profession largement féminisée 90 % des intervenants dans une journée d’étude ayant pour thème les archives et l’IA soient des hommes ? Et que cela n’est pas du tout le cas pour une journée sur la participation dans les archives ?</p>
+<p>Un autre problème que devrait nous poser les LLM est le non respect du droit de la propriété intellectuelle. Un article récent sur <a href="https://www.mediapart.fr/journal/economie-et-social/060426/pilier-de-l-intelligence-artificielle-hugging-face-diffuse-des-centaines-de-milliers-de-docume">Hugingface</a> devrait nous alerter. Je ne ferai pas l’historique du lien des archivistes avec la perception de redevance, y compris sur du domaine public, mais cela questionne donc sur le double standard. Les archivistes ont, parfois contre le Droit, voulu prélever des redevances mais s’accodomodent d’outils pillant des oeuvres couvertes par des droits.</p>
+<p>Les archives et le domaine patrimonial sont, de plus, eux-mêmes les victimes de cette captation de ressources.</p>
+<p>Quelques exemples :</p>
+<ul>
+<li>FranceArchives et Gallica voient leur portail mis à mal par des robots venants récupérer des données pour nourrir des modèles d’IA.</li>
+<li>A l’inverse, le dépôt légal du Web de la BnF trouve de plus en plus de sites mettant en place des restrictions de récupération de données car ils se protègent des IA.</li>
+<li>Des archivistes sont saisis de demandes d’accès par des lecteurs donnant de fausses références, hallucinées (selon le terme dédié) par des IA.</li>
+</ul>
+</section>
+<section id="une-réflexion-sur-ma-pratique" class="level3">
+<h3 class="anchored" data-anchor-id="une-réflexion-sur-ma-pratique">Une réflexion sur ma pratique</h3>
+<p>A titre individuel, j’ai de plus en plus l’envie de revendiquer un travail sur la donnée de façon artisanale, en prenant le temps. Je ne suis pas devenu archiviste, et encore moins agent public, pour répondre à des injonctions à la vitesse et à l’intégration, à tout prix, d’une nouvelle technologie sans la discuter. C’est aussi le sens de cette page personnelle et notamment de la veille mensuelle que je diffuse. Elle m’a permis, avec l’aide d’Anne-Laure Donzel, d’avoir un lieu d’expression autonome sur le web. <a href="https://www.editionsladecouverte.fr/l_oeil_de_l_etat-9782348057359">Une lecture en cours</a> m’a fait découvrir le concept de <em><a href="https://fr.wikipedia.org/wiki/M%C3%A8tis_(Gr%C3%A8ce_antique)">la mètis</a></em>. Ceci m’a interpellé car cela s’ancre dans l’idée de l’importance du savoir-faire et de l’expérience face à une vision uniquement théorique d’un sujet.</p>
+<p>Je ne vais pas non plus nier d’avoir eu, il y a un an ou deux, fait usages d’IAG pour faire un peu de <em>vibe coding</em>. Mais un échange avec un datascientist m’a amené à y renoncer, ceci au moins dans un premier temps. Il m’a fait réaliser que cette pratique était une volonté de toute puissance, de non acception de la frustration et de renoncement à l’effort d’apprentissage, comme un enfant. A l’occasion de la rédaction de ce billet il me pointe cet <a href="https://arxiv.org/abs/2604.04721">article</a> qui se rajoute à ma pile à lire ! L’utilisation de cette technologie n’intéresse à priori que des archivistes ayant déjà un vernis en langage de programmation, mais ces profils sont rares et souvent isolés. L’aide d’une IA pour ne pas rester bloquer ou pour faire une sorte d’apprentissage tutoré peut se justifier, mais encore faut-il avoir la connaissance pour critiquer le résultat.</p>
+<p>Je suis un animal social, et j’ai toujours appris en échangeant avec d’autres personnes. C’est même ce qui est le plus plaisant dans l’apprentissage pour moi. Je vous incite très fortement à lire <a href="https://tut-tuuut.github.io/2026/03/27/des-verbes.html">cette tribune d’une développeuse</a> sur les besoins de rapports humains dans le numérique.</p>
+<p>On voit chaque jour dans nos services à quel point la moindre appropriation d’un nouvel outil est complexe. Il en est de même quand on cherche à persuader des collègues d’améliorer la qualité des données pour permettre de nouveaux usages. Cela m’agaçe d’autant plus que nous sommes collectivement béat devant un automate répondant vite mais mal. Je garde espoir tout de même quand je vois des initiatives d’ateliers ou d’expérimentations, certes souvent modestes, dans des services d’archives. Mon sentiment vis-à-vis des IAG est conforté par le regard critique porté par des archivistes investis de longues dates dans le numérique et la manipulation de données.</p>
+<p>Ce qui m’intéresse aujourd’hui sont plus les <em>usages discrets</em>, pour paraphraser Muller et Clavert, des archivistes. Le séminaire de Céline Guyon, Édouard Vasseur et Mathilde Sergent Mirebault peut beaucoup apporter à la réflexion au sein de notre profession.</p>
+<p>Je profite donc de ce texte pour remercier : Anne-Laure, Maïwenn, Jordi, Céline, Caroline, Christelle, Agnès, Bertrand, Mathieu. Qu’ils en soient conscients ou non nos échanges me sont précieux.</p>
+</section>
+<section id="quelques-références-de-lecture" class="level3">
+<h3 class="anchored" data-anchor-id="quelques-références-de-lecture">Quelques références de lecture</h3>
+<ul>
+<li>Caroline Muller et Frédéric Clavert, <a href="https://www.dunod.com/histoire-geographie-et-sciences-politiques/ecrire-histoire-gestes-et-experiences-ere-numerique">Écrire l’histoire Gestes et expériences à l’ère numérique</a></li>
+<li>Marcello Vitali-Rosati, <a href="https://www.editionsladecouverte.fr/eloge_du_bug-9782355222238">Éloge du bug</a></li>
+<li>Jérôme Denis et David Pontille, <a href="https://www.editionsladecouverte.fr/le_soin_des_choses-9782348064838">Le soin des choses</a></li>
+<li>Cory Doctorow, <a href="https://cfeditions.com/rapt-internet/">le rapt d’Internet</a></li>
+<li>Hubert Guillaud, <a href="https://danslesalgorithmes.net/stream/pourquoi-le-deploiement-de-projet-echoue-t-il/">Pourquoi le déploiement de projet échoue-t-il ?</a></li>
+</ul>
+</section>
+<section id="lieux-récents-déchanges-et-de-rencontres" class="level3">
+<h3 class="anchored" data-anchor-id="lieux-récents-déchanges-et-de-rencontres">Lieux récents d’échanges et de rencontres</h3>
+<ul>
+<li><a href="https://www.archivistes.org/agenda/rencontres-annuelles-de-la-section-des-archivistes-departementaux/">Rencontres annuelles de la section des archivistes départementaux</a></li>
+<li><a href="https://www.linkedin.com/pulse/autour-des-archives-%C3%A0-l%C3%A8re-num%C3%A9rique-quel-gestes-et-louis-sy2af/">Autour des archives à l’ère numérique, quel renouvellement des gestes et des usages ?</a></li>
+<li><a href="https://francearchives.gouv.fr/fr/actualite/1136744969">Projet SocFace - Journée d’étude</a></li>
+<li>L’archivistique à l’épreuve de l’informatisation de la société, saison 1</li>
+</ul>
+</section>
+<section id="les-sujets-qui-auraient-pu-être-dans-ce-billet" class="level3">
+<h3 class="anchored" data-anchor-id="les-sujets-qui-auraient-pu-être-dans-ce-billet">Les sujets qui auraient pu être dans ce billet</h3>
+<ul>
+<li>L’amnésie de l’utilisation ancienne de l’informatique dans l’archivistique</li>
+<li>L’investissement nécessaire dans la formation sur des outils de traitement de données, du plus simple au plus expert</li>
+<li>L’importance des outils libres</li>
+<li>L’impact environnemental et humain de la conception et utilisation des IAG</li>
+<li>La production de données de mauvaise qualité en masse qu’il faudra retraiter un jour</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>IA</category>
+  <category>archives</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/noiag/</guid>
+  <pubDate>Wed, 15 Apr 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/noiag/sw.png" medium="image" type="image/png" height="139" width="144"/>
+</item>
 <item>
   <title>Mars 2026</title>
   <link>https://macgraveur.github.io/mapage/veille/mars2026/</link>
@@ -508,6 +589,188 @@
   <media:content url="https://macgraveur.github.io/mapage/veille/novembre2025/Brumaire.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Aux marges de la société, sorcières, criminelles, femmes hystériques : des femmes déviantes ?</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/criminelles/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Table ronde <em>Femmes criminelles</em> animée par <strong>Karine Lambert</strong>, avec <strong>Geniève Morel</strong>, <strong>Sylvie Orsoni</strong> et <strong>Frédéric Chauvaud</strong>, et organisée par les Archives départementales des Bouches-du-Rhône.</p>
+<p>Le programme de la journée est disponible <a href="https://www.archives13.fr/actualites/aux-marges-de-la-societe-sorcieres-criminelles-femmes-hysteriques-des-femmes-deviantes-150/n:168">ici</a></p>
+<p><img src="https://macgraveur.github.io/mapage/blocnotes/criminelles/fonds.jpg" class="img-fluid"></p>
+<ul>
+<li>Les femmes criminelles sont tour à tour vu comme des monstres ou des victimes de la société. Quels sont les mécanismes qui ont amené à ces stérotypes ?</li>
+</ul>
+<p>S.Orsoni a travaillé sur les avorteuses et les avortés pendant l’entre-deux guerres. Ces femmes font parti d’une sorte de banalité de la société. Les avorteuses sont porteuses d’un savoir utile à la société, bien que commettant un crime comme la société et la nature.</p>
+<p>Pour F.Chauvaud l’intérêt des hommes se portent sur les cas extraordinaires, et non sur la délinquance du quotidien. Il y a aussi une recherche de sensasionnalisme cherché par les chroniqueurs judiciaires pour multiplier les ventes et les abonnés.</p>
+<p>G.Morel a travaillé comme psychanalyste au sein d’unité spéciale d’accueil de criminelles. Cette expérience a donné lieu a un livre, qu’elle a croisé avec les images véhiculées dans les films. La société a l’images de la femme fatale versus la mère dénaturée. Dans le cinéma, elle cite particulièrement l’oeuvre de Chabrol qui a réalisé six films sur des femmes tueuses.</p>
+<ul>
+<li>Les femmes incarcérées représentent environ 3 % de la population carcérale. Est-ce une réalité des actes ou un traitement différencié de la police et de la justice ?</li>
+</ul>
+<p>FC : Jusqu’au milieu du XIXe il y a une minimisation par la puissance publique des arrestations de femmes, malgré leur présence dans des procès-verbaux d’actes délictueux. C’est aussi le cas dans les révoltes frumentaires, alors que celles-ci sont très présentes dans les manisfestations. La sous-réprésentation en prison dans les périodes récentes sont une question pertinente mais à laquelle nous n’avons pas de réponses staisfaisantes.</p>
+<p>GM : les femmes tuent six fois moins que les hommes. Il y a eu une croyance chez Durkheim ou des féministes qu’en allant vers une plus grande égalité, l’écart de criminalité s’équilibrerai entre hommes et femmes ce qui n’est pas le cas.</p>
+<p>Les types de crimes, comme les moyens utilisés sont très variés. Pour autant, les armes utilisées sont plutôt celles du quotidien, comme le couteau. Il en est de même pour les mobiles même si les crimes dits faussements “passionnels” font les grands titres dans les journaux. Durant l’Ancien régime le principal crime est l’infanticide, alors qu’en fait il y a autant d’actes d’hommes que de femmes. Il ne semble pas y avoir d’éléments genrés en termes de crimes.</p>
+<ul>
+<li>Les femmes, et surtout les mères, ont-elles un traitement particulier de la justice ?</li>
+</ul>
+<p>Pendant longtemps les jugements en Cours d’assise se jouent beaucoup sur l’apparence. Donc une femme va avoir intérêt à se présenter en veuve, en mère, correspondant aux canons sociaux attendus. La distinction est beaucoup marquée par la dimension sociale et d’appartenance de classe.</p>
+<p>Pour ce qui concerne l’avortement particulièrement les avorteuses ont peu d’arguments à faire valoir pour avoir une certaine indulgence, notamment dû au fait qu’elles sont payées pour leurs actes. Pour les avortées, celles plaidant la panique, l’affolement face à la situation sont moins condamnées. Dans ces cas aussi il y a de toute évidence une justice de classe, seules celles d’extraction populaire se voient condamnées.</p>
+<p>Concernant les infanticides les jugements sont très liés au traitement plus global de la folie, de ce qu’on estime de l’irresponsabilité ou non. Les condamnations sont plus nombreuses sur une période récente, là où n’aboutissait rarement en procès auparavent.</p>
+<ul>
+<li>Les archives conservées sur les femmes criminelles, sont le fait d’hommes. Comment penser ces crimes de femmes avec un justice d’hommes ?</li>
+</ul>
+<p>A partir des années on voit tout de même apparaître des avocates bien que celles-ci sont méprisées de leurs collègues hommes. Effectivement tous les professionnels mobilisés (juges, experts, policiers, greffiers) sont des hommes. Le public a aussi une importance capitale dans le rendu des jugements.</p>
+<p>Jusqu’en 1923, les jugements pour avortement se déroulent en assise et sont l’objet pour la plupart d’un non lieu. Ceci car il est complexe de démontrer la matérialité du fait que la femme était enceinte. Ensuite, dans les jugements correctionnels les condamnations se multiplient.</p>
+<ul>
+<li>Est-ce qu’une figure rencontrée dans votre travaux vous ont particulièrement marquée ?</li>
+</ul>
+<p>S.Orsoni n’a pas retenu une femme en particulier mais plutôt un profil. Celui de femmes non pas avortées par nécessité économiques mais par volonté de liberté notamment dans leur vie sexuelle.</p>
+<p>F.Chauvaud a un sourvenir fort des archives de l’affaire des soeurs Papin et surtout du rapport du greffier aux documents, notamment les phographies du crime qui l’a marqué très fortement. Ce crime est exceptionnel du point de vue du légiste qui n’a pu trouver aucun autre crime ayant fait appel à une énucléation.</p>
+<p>G.Morel était apaisée lors des entretiens avec des criminels, car il y a un rapport à la personne qui rend compte de son crime. C’est le passage à l’écrit pour les rapports qui fait apparaître la violence du crime.</p>
+
+
+
+ ]]></description>
+  <category>femmes</category>
+  <category>histoire</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/criminelles/</guid>
+  <pubDate>Fri, 07 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/criminelles/2_u_2_1798.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Nouveaux venus dans le paysage des archives publiques : Monaco et IA</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/AAF_PACA_IA/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="la-création-des-archives-nationales-de-la-principauté-de-monaco-en-2025" class="level2">
+<h2 class="anchored" data-anchor-id="la-création-des-archives-nationales-de-la-principauté-de-monaco-en-2025">La création des Archives nationales de la principauté de Monaco en 2025</h2>
+<p><em>Michaël Bloche, Directeur des Archives nationales de la Principauté de Monaco</em></p>
+<p>Ce service fait suite à une mission de préfiguration crée en 2021. Celle-ci était précédé par un service des archives princiaires. Le service des archives princiaires est fondée en 1911, il faudra attendre le milieu des années 60 pour voir la mise en place un service des archives du gouvernement. Le mise en oeuvre de ce service de préarchivage bénéficie de l’apport du service technique de la DAF, et notamment d’un rapport de préconisations de Michel Duchein.</p>
+<p>L’ordonnance cadrant les missions du service, et les notes indiquants ces moyens sont pris entre 1967 et 1968. Le service est confié à Mme Marguerite Zilliox. Hélas à son départ deux ans plus tard, le service est fermé par absence de personnel. Le dossier de création et de moyens est le sujet de tension politique entre le palais et le conseil national.</p>
+<p>La création d’un service central est même l’objet d’article de presse très sévère : “servivce intutile”, “service parasite”…</p>
+<p>Le gouvernement de Monaco a envisagé d’engager un archiviste français, et a notamment refusé le profil d’Yves Pérotin, manquant ainsi pour M.Bloque “l’affaire du siècle du point de vue des archives”. Il est envisagé d’envoyer un monegasque en stage auprès des Archives départementales des Bouches-du-Rhône mais M.Villard décline et oriente Monaco vers les Archives des Alpes-Maritimes. Ernest HildesHeimer y interviendra à temps partiel au début des années 70. En s’appuyant sur les recommandations de Duchein, des locaux d’archives conforment aux normes de conservation est construit. Hélas dès le début des années 80 les locaux d’archives sont largement amputés pour faire de la place aux nouveaux services informatiques.</p>
+<p>Du milieu des années 80 à au début des années 2000, plusieurs études et projets pour établir dans de nouveaux locaux le service restent lettres mortes.</p>
+<p>Il faudrau attendre 2011 pour voir la publication d’une ordonnance fondant la création d’un service central pour la conservation des archives définitives du Gouvernement princie (SCADA)r, ainsi que d’une commission consutative des archives de l’État. Suivra en 2021 la création d’une mission de préfiguration des Archives nationales, qui une tutelle que le SCADA. Ce nouveau service est un basculement car il intégre la notion patrimoniale.</p>
+<p>2025 voit l’aboutissement de cette mission avec :</p>
+<ul>
+<li>de nouveaux locaux,</li>
+<li>un site internetv,</li>
+<li>une équipe renforcée avec 13 agents.</li>
+</ul>
+<p>Ce service s’articule avec les autres services d’archives :</p>
+<ul>
+<li>archives du palais princier,</li>
+<li>archives communales,</li>
+<li>institutut audiovisuel,</li>
+<li>services d’entrés parapubliques et privées.</li>
+</ul>
+</section>
+<section id="lia-au-delà-du-buzz" class="level2">
+<h2 class="anchored" data-anchor-id="lia-au-delà-du-buzz">L’IA au-delà du buzz</h2>
+<p><em>Georges Rodrigues, Directeur des systèmes d’information Ville d’Avignon</em></p>
+<p>Est-ce que l’IA me répond quelque chose de juste ? Probablement. Les IAG répondent sur la base de probabilité statisitque. Sachant que la réponse peut évoluer si on améliore le contexte de la demande.</p>
+<p>Les prompts et leur qualité et précision sont donc capitales pour avoir la meilleure réponse possible, même si celle-ci reste toujours probabiliste.</p>
+<p>Les IA généraliste peuvent être adaptées par le Fine Tunig (spécialisation de l’IA à un sujet), ou le RAG (réponse basé sur un corpus fermé).</p>
+<p>Dans le monde professionnel, 31 % des français sont inquiets contre 15 % dans le monde. Même si on voit déjà quelques entreprises réduires leurs effectif il est impossible de prédire l’impact réel à plusieurs décennies. 55 % des salariés sans en informer ses supérieurs hiérarchiques.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://macgraveur.github.io/mapage/blocnotes/AAF_PACA_IA/IMG_2495.jpg" class="img-fluid figure-img"></p>
+<figcaption>figure 1</figcaption>
+</figure>
+</div>
+<p>La ville d’Avignon a déjà plusieurs usages de l’IA mais dans le cadre d’une charte.</p>
+</section>
+<section id="lia-au-service-des-projets-industriels" class="level2">
+<h2 class="anchored" data-anchor-id="lia-au-service-des-projets-industriels">L’IA au service des projets industriels</h2>
+<p><em>Valérie Kauffmann, EDF DIPDE</em></p>
+<p>EDF a mené une expérimentation sur la recherche dans ses plans techniques (2D ou 3D). L’idée est de gagner du temps dans la recherche de la documention, srutout que celle-ci est très vaste. Ceci dans le but de permettre aux ingénieurs d’être plus concentrés sur leurs missions d’ingénieurie. Le projet est encore en expérimentation, il n’y a pas de passage à l’échelle industrielle car cela nécessiterai de déposer les documents sur des clouds américains.</p>
+</section>
+<section id="explorer-le-contenu-des-messageries-électroniques-avec-les-llm" class="level2">
+<h2 class="anchored" data-anchor-id="explorer-le-contenu-des-messageries-électroniques-avec-les-llm">Explorer le contenu des messageries électroniques avec les LLM</h2>
+<p><em>Céline Guyon, Olkoa et ENSSIB</em></p>
+<p>Il s’agit d’un projet en mode R&amp;D de deploiement d’un RAG pour explorer les boites mails. Ce projet a été mené en collaboration avec l’école la Plateforme, qui forme au numérique et notamment des datascientist.</p>
+<p>Plusieurs questions se posent au sujet des messageries : quel niveau de description ? quel est le producteur et sa nature ? quelles DUA appliqués ? quelles éliminations possibles ? problématique de la conformité en fonction des usages professionnels et personnels ? Les messageries posent aussi des défis sur les aspects techniques.</p>
+<p>Enfin, il y a un probléme sur l’accès à ces messageries. A ce jour ce qui se fait le plus est de recharger le container pst dans un outil de messagerie.</p>
+<p>Une messagerie n’est que rarement l’objet d’une pratique standarisée, mais relève plutôt du choix d’organisation personnelles. C.Guyon souligne l’absence de prise en compte de l’accès au profit de la préservation.</p>
+<p>Les messageries ont été identifiées comme étant un bon candidat à une exploration avec une LLM. La messagerie est un artefact archivistique, comment une IA pouvait donner à voir cet artafact, les relations, l’organisation, les échanges. Le but était d’aller plus loin qu’une simple recherche par mot-clefs.</p>
+<p>Le projet a été mené via 3 sprint d’un mois avec des alternants de la plateforme. Le projet est documenté sur Github mais n’a pas vocation à devenir un produit ou un outil. Il reste un objet exploratoire.</p>
+<p>Plusieurs ambitions : explorer les contenus des mails dans une logique sémantique, intérargir via un chabot pour interroger le contenu.</p>
+<p>La première chose qui a été fait, n’est pas un traitement par une IA mais une analyse de réseau représentant les interactions. La coeur du projet se porte sur la recherche sémantique.</p>
+<p>Il faut dans un premier temps faire du_clustering_ pour vectoriser les courriels. Se découpage donne des morceaux <em>chunks</em>, ce découpage dépend des modèles utilisés. Ensuite, il faut passer un modèle d’<em>embeddings</em> qui abouti a une vectorisation des morceaux. Le tout crée un espace latent qui positionne donc chaque <em>chunks</em> leur proximité ou éloignement correspond à leur proximité ou éloignement sémantique.</p>
+<p>On peut ensuite faire émerger des <em>clusters</em> c’est à dire de thèmes. Il faut trouver un équilibre dans le nombre de <em>clusters</em> généré.</p>
+<p>Autre étape mise en place, l’utilisation d’un RAG. Le LLM a été entraîné sur d’autres contenus mais de répond qu’en fonction du corpus fourni. Ce choix permet des traitements en local et donc en protection des données analysées. Grâce à ce RAG un chatbot peut être interrogé qui va répondre en indiquant sur quels mails sont appuyés ses réponses.</p>
+<p>Faire de l’archivistique au temps des algorithmes ? L’IA a permis d’intervenir là où la main et l’oeil de l’archiviste ne le pouvait plus. Les traitements en vecteurs n’est pas accessible à l’humain. La médiation computationelle donne à voir la logique de structuration d’un corpus de documents et les relations des documents entre eux.</p>
+</section>
+<section id="lettres-en-lumières-une-ia-pour-transcrire-automatiquement-les-archives-du-xviiie-siècle" class="level2">
+<h2 class="anchored" data-anchor-id="lettres-en-lumières-une-ia-pour-transcrire-automatiquement-les-archives-du-xviiie-siècle">Lettres en Lumières : une IA pour transcrire automatiquement les archives du XVIIIe siècle</h2>
+<p><em>Édouard Bouyé, Directeur des Archives de la Côte-d’Or</em></p>
+<p>Le projet a été lancé un peu par le fait d’un hasard d’une rencontre avec un chercheur en IA. Ceci a abouti à l’accueil d’un étudiant (dans un premier temps en stage) en thèse pour 3 ans.</p>
+<p>Le modèle est entraîné à partir de transcription de bénévoles, puis avec une correction est effectuée par un membre des AD. Il faut savoir accompagner les bénévoles et en prendre soin.</p>
+<p>La plate-forme de contribution est basée sur le IIIF. Il est possible d’importer via un manifest IIIF des lots d’images (jusqu’à 5) pour faire le traitement via l’IA.</p>
+<p>Les AD de Côte-d’Or sont à la recherche de partenaires pour poursuivre le projet.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>IA</category>
+  <category>archives</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/AAF_PACA_IA/</guid>
+  <pubDate>Wed, 05 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/AAF_PACA_IA/images.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
+  <title>Des données personnelles à la mémoire collective : quels enjeux éthiques pour la conservation du patrimoine numérique ?</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/air/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Compte-rendu d’une table ronde ayant eu lieu lors de <a href="https://www.cnil.fr/fr/air2025">air2025 : Intimité des disparus, mémoire des vivants</a></p>
+<p>Cette table ronde élargira la réflexion à la mémoire collective, de la conservation du numérique à la constitution d’un patrimoine commun, et elle permettra d’aborder les questions posées par les données personnelles dans ce contexte. Les intervenants questionneront également l’impact des nouvelles technologies, notamment des systèmes d’IA, pour la conservation et le travail des historiens.</p>
+<section id="les-intervenants" class="level2">
+<h2 class="anchored" data-anchor-id="les-intervenants">Les intervenants</h2>
+<p>Modératrice : <strong>Laurence FRANCESCHINI</strong>, conseillère d’État et membre du Collège de la CNIL.</p>
+<ul>
+<li><strong>Jean-Charles BÉDAGUE</strong>, sous-directeur du pilotage, de la communication et de la valorisation des archives, Service interministériel des Archives de France, Direction générale des patrimoines et de l’architecture, Ministère de la Culture. &nbsp;</li>
+<li><strong>Emmanuelle BERMES</strong>, archiviste paléographe et conservatrice générale des bibliothèques. Elle est l’autrice de <em>De l’écran à l’émotion - Quand le numérique devient patrimoine</em>&nbsp;(École nationale des Chartes - PSL, 2024). &nbsp;</li>
+<li><strong>Alexandre FAYE</strong>, conservateur à la Bibliothèque nationale de France (BnF) au sein du service du Dépôt légal numérique, spécialiste des archives web. Depuis 2020, il accompagne les projets de recherche dans leur usage de cette nouvelle source documentaire et est à l’initiative du projet <em>Skybox&nbsp;: skyblogs à ciel ouvert</em>. &nbsp;</li>
+<li><strong>Caroline MULLER</strong>, Historienne du XIXe siècle, est spécialiste des archives personnelles et de l’intime. Elle mène une réflexion critique sur les enjeux éthiques et méthodologiques du travail avec des archives, en particulier en contexte numérique. En septembre 2025, elle publie&nbsp;: <em>Écrire l’histoire. Gestes et expériences à l’ère numérique</em> (Armand Colin).</li>
+</ul>
+</section>
+<section id="les-échanges" class="level2">
+<h2 class="anchored" data-anchor-id="les-échanges">Les échanges</h2>
+<ul>
+<li><p>E.Bermès dans son ouvrage sur le patrimoine numérique a eu à revenir plus largement sur la définition du patrimoine. Définition qui a évolué dans le temps. Dans les années 80 est apparu l’idée d’un patrimoine bien plus large, comme par exemple sur les lieux de mémoires (P.Nora). Dans les années 2000, l’UNESCO fait éclore la définition du patrimoine immatériel mais aussi numérique.</p></li>
+<li><p>Pour A.Faye la collecte du Web est en partie une poursuite de la collecte du dépôt légal, par exemple pour la presse. Mais cette collecte fait aussi apparaître de nouveaux contenus avec les sites Web, le Web social. Cette collecte est cadrée par une loi qui autorise une exception aux droits d’auteur pour la BnF, ceci implique que la consultation ne peux se faire qu’à la BnF et chez ses partenaires. La collecte se concentre sur la domaine en “.fr” mais s’occupe aussi du web vernaculaire (V.Schafer). Parfois la collecte n’est pas possible pour des raisons techniques, et limite les possibilités.</p></li>
+<li><p>JC.Bedague commence par citer J.Michelet “Nous vaincrons parce que nous sommes la mort, nous en sommes l’attraction puissante”. Les archivistes ne collectent bien que quand ils collectent les bonnes informations et en ayant fait des choix, via une évaluation. Les critères d’évaluation sont débattus de façon collégiale. Le RGPD prévoit les missions archivistiques comme une finalité en tant que telle et autorise la conservation de données personnelles pour l’éternité. Si les documents et données sont collectés c’est bien évidemment pour qu’ils soient ensuite communiqués et mis à disposition. Le numérique est un medium mais aussi un outil possible pour donner accès, et ceci pose de nouvelles questions. Les réseaux des archives en France tente de prendre en compte la problématique des biais de collecte et des manques. Ceci peut se traduire par des appels nationaux de “grande collecte” pour venir compléter les archives publiques.</p></li>
+<li><p>C.Muller rappelle que les données sur les personnes mortes n’est pas un sujet contemporain, mais le quotidien des historiens. Avec F.Clavert, à travers notamment un <a href="https://www.fabula.org/actualites/129979/caroline-muller-avec-frederic-clavert-ecrire-l-histoire-gestes-et-experiences.html">ouvrage récent</a>, ils cherchent à renouveler l’approche du <a href="https://gout-numerique.net/">Goût de l’archive à l’ère du numérique</a>, faisant suite à l’ouvrage d’A.Farge. Pour l’historien, les sources numériques sont à la fois des copies d’archives patrimoniales suite à numérisation mais aussi des corpus nativement numérique. C.Muller souligne que ces informations numériques posent de nouvelles problématiques de gestion de corpus pour les historiens. Les corpus numériques plus facilement accessibles entraînent un risque de sur-enquête sur ces sources par rapport à d’autres fonds non numérisés.</p></li>
+<li><p>E.Bermès et A.Faye reviennent sur la collecte des Skyblog et des projets qui les ont exploités. La radio Skyrock a eu une démarche active auprès de la BnF pour s’assurer de l’archivage des blogs, environ 12 millions sur 33 l’ont été. Cette collecte a fait l’objet d’importants échos médiatiques, ce qui a entraîné ensuite de nombreux projets d’exploitation. le projet mené par E.Bermès <a href="https://www.chartes.psl.eu/recherche/centre-jean-mabillon/projets-de-recherche/skytaste-les-skyblogs-un-terrain-danalyse-sensorielle-technologique-et-emotionnelle">SkyTaste</a> s’est attaché à réaliser des heuristiques des contenus, mais aussi étudier l’aspect émotionnel de ces productions.</p></li>
+<li><p>JC.Bedague rappelle que pour un lecteur en salle les services d’archives ont 300 internautes sur leur site. Le risque est effectivement de rendre invisible les fonds qui ne sont pas en ligne. Il estime qu’environ 4 % des fonds sont numérisés. Ceci s’explique par des raisons financières mais aussi pour des limites juridiques. Les disposition du RGPD (extinction de la protection une fois la personne décédée) a permis plus de latitude aux archivistes. Les archivistes se transforment en chasseurs de mort afin de savoir si certains documents sont devenus communicables. JC.Bedague introduit la distinction entre l’accès et sa diffusion, la première est plus facile à déterminer pour les archivistes. La seconde notion est plus liée à l’acception sociale de certains sujets, et rélève parfois de l’éthique. Les archives des camps d’Espagnols suite à la Retirada ont fait l’objet d’une mesure spécifique, pour deux départements, pour les rendre diffusables, car il y a une demande sociale des personnes victimes à l’époque qui revendiquent un droit à la mémoire. JC.Bedague espère que cette mesure va être élargie à toute la France, avec l’autorisation de la CNIL.</p></li>
+<li><p>C.Muller pointe que la création de contenus, tout ou partiellement, par des IA va amener les historiens a réinterroger leurs méthodes pour questionner l’authenticité et l’origine des documents. Mais l’IA est aussi un outil pour l’historien par exemple pour interroger d’importantes masses documentaires, elle cite un projet de chatbot pour explorer le journal parlementaire.</p></li>
+<li><p>Interrogé sur le faux, JC.Bedague dit qu’il est intéressant de collecter des faux même s’ils sont reconnus comme tels des siècles plus tard. Il invite à aller visiter l’<a href="https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours">exposition</a> des Archives nationales à ce sujet.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>données personnelles</category>
+  <category>histoire</category>
+  <category>archives</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/air/</guid>
+  <pubDate>Tue, 14 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/air/air.png" medium="image" type="image/png" height="65" width="144"/>
+</item>
+<item>
   <title>Octobre 2025</title>
   <link>https://macgraveur.github.io/mapage/veille/octobre2025/</link>
   <description><![CDATA[ 
@@ -587,6 +850,78 @@
   <guid>https://macgraveur.github.io/mapage/veille/octobre2025/</guid>
   <pubDate>Tue, 30 Sep 2025 22:00:00 GMT</pubDate>
   <media:content url="https://macgraveur.github.io/mapage/veille/octobre2025/Vendemiaire.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Archives et colonisation : pour une pratiques professionnelles inclusives et équitables</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/arie/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="présentation-du-projet-arie-et-de-ses-résultats" class="level2">
+<h2 class="anchored" data-anchor-id="présentation-du-projet-arie-et-de-ses-résultats">Présentation du projet ARIE et de ses résultats</h2>
+<section id="contexte" class="level3">
+<h3 class="anchored" data-anchor-id="contexte">Contexte</h3>
+<p><em>Édouard Vasseur</em></p>
+<p>Triple contexte :</p>
+<ul>
+<li>Contexe académique avec de grands changements depuis 20 ans, notamment à travaux les études post-coloniales, et l’histoire globale.</li>
+<li>Contexte politique différent entre la France et la Belgique. Il est à fois interrogé en politique intérieure et extérieure. Les relations internationales sont impactées par le sujet colonial, avec des évènements mémoriels récurrents ces dernières années.</li>
+<li>Contexte archivistique. Avec une archivistique qui se libère en partie de la science historique, avec une influence dans la sphère anglosaxone avec la french theory et les subalternes studies. Celles-ci réinterrogent la place des archives, et leurs rôles sociales.</li>
+</ul>
+<p>Plusieurs questionnements pour les archivistes :</p>
+<ul>
+<li>l’accès aux archives que cela soit pour des raisons intellectuelles ou matérielles, face à une importante demandes des usagers.</li>
+<li>Les demandes de restitution des archives par exemple par l’Algérie envers la France. Avec hélas pour les archivistes peu de documentation sur les choix opérés à l’époque des rapatriements des archives lors des décolonisations.</li>
+</ul>
+<p>Des demandes multiples :</p>
+<ul>
+<li>Demandes des individus notamment pour faire falloir des droits administratifs ou de réparations.</li>
+<li>Demande des communautés, notamment autochtones, avec un ensemble de questions comment reprendre le contrôle de collecte d’archives, orales, des communautés. Il faut gérer les éléments conflictuels entre les différentes communautés. Il y a aussi des problèmatiques de droit sur des terres, alors que les archives ne concernent que le point de vue du colonisateur.</li>
+</ul>
+</section>
+<section id="génèse" class="level3">
+<h3 class="anchored" data-anchor-id="génèse">Génèse</h3>
+<p><em>Bérengère Piret</em></p>
+<p>Le débat est présent dans la sphère anglosaxone mais il y a peu d’archivistes francophones qui s’investissent sur ce sujet de l’archive coloniale. Le projet ARIE a donc comme objectif d’arrimer les archivistes francophones à ce sujet.</p>
+<p>L’équipe de chercheuses a été renforcé par par deux archivistes (État de Belgique et ANOM). Ce projet a bénéficié d’un financement Eramus+.</p>
+<p>Le projet a pour objectif de fournir des outils afin d’appréhender les enjeux autour des archives coloniales. Le public visé est notamment les archivistes en formation, pour ceux-ci a été construit un module de cours. Il a été testé sur différents groupes en France et en Belgique. Ceci a permis d’affiner le contenu.</p>
+<p>Le second livrable est un manuel, pensé à toutes personnes en charge de fonds en relation avec la colonisation. Ceci signifie que cela ne concerne pas que les archivistes aux ANOM, car de nombreux services conservent des archives sur la colonisation.</p>
+<p>L’un des problèmes identifiés est que les intervenants sont pour la grande majorité de l’horizon européen. Ceci en raison d’un manque de temps pour écrire en fonction de fonds d’archives dans d’autres spères géographiques.</p>
+</section>
+<section id="les-livrables" class="level3">
+<h3 class="anchored" data-anchor-id="les-livrables">Les livrables</h3>
+<p><em>Fabienne Chamelot</em></p>
+<p>Comme dit plus haut le programme a permis la réalisation de deux livrables. D’un part un module de formation et l’autre sous forme d’un manuel avec une visée plus scientifique.</p>
+<p>Le manuel comporte 60 notices rédigées par environ 40 auteurs. L’identité graphique a été pensée pour appuyer le propos de fonds. Le projet a analysé le propos de l’archivistique anglosaxone pour le réinsérer dans un tradition franchophone. Le choix des termes a été travaillé afin de parler au mieux aux services d’archives sans aller sur des champs éloignés de leur préoccupations. L’accueil lors d’échanges avec les archivistes ont été très positifs, ils ont montré le besoin, même implicites, d’un besoin au sujet du traitement des archives coloniales.</p>
+<p>Des questionnements restent en suspend et mériteraient des développements futurs.</p>
+</section>
+</section>
+<section id="table-ronde-sur-les-usages-des-archives-coloniales" class="level2">
+<h2 class="anchored" data-anchor-id="table-ronde-sur-les-usages-des-archives-coloniales">Table ronde sur les usages des archives coloniales</h2>
+<p><em>Nora El Quadim (Paris 8), Adama Aly Pam (Unesco), Emmanuelle Sibeud (Paris 8), Marie Van Eckenroode (UC Louvain / Archives de Belgique).</em></p>
+<ul>
+<li>Besoin de plus de dialogues entre différentes sphères professionnelles mais aussi sphères géographiques. Ceci nécessite d’ouvrir des débats autour de certaines termes ou concepts.</li>
+<li>Les archives coloniales ont été longtemps le terrain des archivistes et des historiens, ils sont de plus en plus investis par le reste de la société. Ceci montre une dynamique- et c’est positif.</li>
+<li>Archiver c’est cartographier le monde, c’est ce que le monde pourra voir du passé.</li>
+<li>L’accès notamment réglementaire n’est pas décidé par les archivistes qui sont au mieux associés. Les archivistes doivent porter un nouveau regard sur nos pratiques et aider à l’accès au mieux.</li>
+<li>Importance d’une éthique de travail basée sur la transparence. Par exemple en publiant des instruments de recherche même non finalisés.</li>
+<li>Les concepts d’archives de souveraineté et de gestion sont une escroquerie intellectuelle en ne respectant pas la nature de provenance ou l’intégrité du fonds.</li>
+<li>La copie numérique n’est pas toujours la solution pour répondre à la demande de restitution, notamment car il faut prendre en compte l’importance de la matérialité de l’archives. Voir la Convention de Vienne sur la succession d’États en matière de biens, archives et dettes d’État.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>colonisation</category>
+  <category>décolonisation</category>
+  <category>archives</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/arie/</guid>
+  <pubDate>Thu, 25 Sep 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/arie/arie.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Septembre 2025</title>
@@ -882,430 +1217,103 @@
   <media:content url="https://macgraveur.github.io/mapage/veille/avril2025/Germinal.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Mars 2025</title>
-  <link>https://macgraveur.github.io/mapage/veille/mars2025/</link>
+  <title>Notes jour 1</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/mecanographie_IA/20251211_archivesmecano.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Malgré <a href="https://framapiaf.org/tags/aafrennes2025">#AAFRennes2025</a> qui m’a pas mal mobilisé, au moins mentalement, voici la veille de ce mois. Avec dans le “vu” deux compte-rendus de conférences. J’espère pouvoir réitérer ce format.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://france3-regions.francetvinfo.fr/grand-est/champagne-ardenne/attaques-contre-wikipedia-ce-contributeur-nous-explique-comment-fonctionne-l-encyclopedie-libre-et-partagee-3113800.html">Attaques contre Wikipédia : ce contributeur nous explique comment fonctionne l’encyclopédie libre et partagée</a> Superbe interview de <a href="https://piaille.fr/@lyokoi">Lyokoï</a>, en ce moment pour lire un long article complet et exact sur Wikipedia fait beaucoup de bien.</p></li>
-<li><p><a href="https://aoc.media/analyse/2025/02/27/quand-fragmentation-dinternet-rime-avec-profits/">Quand fragmentation d’Internet rime avec profits</a>. Intéressante réflexion sur la concentration du web par de très grandes entreprises, et le besoin d’en sortir.</p></li>
-<li><p>Le soin des choses numériques, 1 : <a href="https://digipres.fr/archives/177">Préservation du train d’octets et préservation sémantique</a> par <a href="https://digipres.club/@BertrandCaron@">Bertrand Caron</a> une réflexion sur la pérennisation numérique à partir de l’ouvrage de Denis et Pontille en plusieurs volets, un second est déjà publié.</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><a href="https://www.france.tv/documentaires/documentaires-societe/6888928-les-sacrifies-de-l-ia.html">Les sacrifiés de l’IA</a>. <a href="https://video.blast-info.fr/w/xtTpevG3JuJCFoU5uwPCQp">Exploitation, destruction et techno-fascisme : la face cachée de l’IA</a> toujours par Antonio Casilli mais dans une version plus courte et peut-être plus pédagogique pour entrer dans le sujet.</li>
-</ul>
-<p>J’ai vu sur Mastodon cette intéressante infrographie de <a href="https://social.sciences.re/@FannyDcl">Fanny Ducel</a> qui me semble en une image donner à voir le sujet.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://hackmd.io/_uploads/H1PEF33ske.png" class="img-fluid figure-img"></p>
-<figcaption>faa7fb44131763be</figcaption>
-</figure>
-</div>
-<ul>
-<li><p>Marseille criminels, conférence de Laurence Montel, le compte-rendu est à lire <a href="https://hackmd.io/@macgraveur80/marseille_crime">ici</a></p></li>
-<li><p>Soirée de lancement de la plate-forme Mars-Imperium, le compte-rendu à lire <a href="https://hackmd.io/@macgraveur80/marsimperium">ici</a>.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez Passion Modernistes : <a href="https://passionmedievistes.fr/modernistes-ep-44-cecile-rhone/">Cécile et le Rhône</a>.</p></li>
-<li><p>Chez le cours de l’histoire : <a href="https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/aimer-l-histoire-et-en-faire-son-metier-2560138">Aimer l’histoire et en faire son métier</a>. Une belle brochette d’intervenants qui montrent la pluralité des parcours possibles avec un diplome supérieur en histoire.</p></li>
-<li><p>Chez <a href="https://piaille.fr/@biblioconnards">Deux connards dans un bibliobus</a> : <a href="https://pdca.st/0AJs">322.420 : indexation, piège à con</a> poadcast publié en décembre sur les enjeux de l’indexation pour les bibliothèque et archives, l’actualité aux États-Unis lui donnent un autre relief, même si le propos vaut aussi ici et maintenant. Et merci à eux pour ce magnifique mème.</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://hackmd.io/_uploads/SkJjUrF21e.jpg" class="img-fluid figure-img"></p>
-<figcaption>1741625822922-redux</figcaption>
-</figure>
-</div>
+<p>C.Guyon et E.Vasseur introduisent et nous présentent les motivations de ce séminaire : amnésie professionnelle, utilisation des concepts d’archivistiques pour le papier dans le numérique, non diffusion d’importantes productions scientifique dans la communauté professionnelle.</p>
+<p>Ce séminaire est aussi né des travaux scientifiques mené par C.Guyon et E.Vasseur.</p>
+<p>Ce séminaire sera un lieu de réflexion sur les transformations des dernières décennies en lien avec le numérique. Il n’est pas un espace de formation descendante mais plutôt d’échanges et de débats.</p>
+<p>Pour la première année Mathilde Sergent Mirebault est associée à la programmation, et propose la première séance à deux voix avec A.Lambert.</p>
+<p>Des jeux d’échelles en question : infrastructures numériques et organisation archivistique.&nbsp;</p>
+<p>Comment pourront se retrouver des fonds d’une même fonction ou même producteur avec une explosion des services qui collectent ?</p>
 
 
-</section>
 
  ]]></description>
-  <category>Wikipédia</category>
-  <category>Web</category>
-  <category>Maintenance</category>
-  <category>IA</category>
-  <category>Colonisation</category>
-  <category>Histoire</category>
-  <category>Indexation</category>
-  <guid>https://macgraveur.github.io/mapage/veille/mars2025/</guid>
-  <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/mars2025/ventose.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/mecanographie_IA/20251211_archivesmecano.html</guid>
+  <pubDate>Tue, 25 Mar 2025 23:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Février 2025</title>
-  <link>https://macgraveur.github.io/mapage/veille/fevrier2025/</link>
+  <title>Mars Imperium, lancement du portail</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/marsimperium/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Une fois fait le bilan je vois qu’il y a beaucoup d’IA dans ma veille, mais aussi hélas un gros sujet sur le nouveau mandat Trump et ses attaques contre les archives.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
+<section id="mars-imperium-lancement-du-portail" class="level1">
+<h1>Mars Imperium, lancement du portail</h1>
+<p>Pour accéder au site c’est <a href="https://marsimperium.org/">ici</a> et pour le replay de la soirée c’est <a href="https://www.youtube.com/watch?v=DWhoPMc-tpQ&amp;ab_channel=Mus%C3%A9esdeMarseille">là</a></p>
+<section id="présentation-générale" class="level2">
+<h2 class="anchored" data-anchor-id="présentation-générale">Présentation générale :</h2>
 <ul>
-<li><a href="https://aoc.media/analyse/2025/02/09/sommet-ia-la-necessaire-secession-semantique-europeenne/">Sommet IA : la nécessaire sécession sémantique européenne</a> par Dominique Boullier chez AOC. Un champ lexical autour de la colonisation revient plusieurs fois, sans que Boullier en fasse un réel point de réflexion, mais donc un fil à tirer. L’Europe, un colonisateur colonisé ?. Boullier mets en avant la modèle de Wikipedia, on retrouve cette proposition dans l’article <a href="https://laviedesidees.fr/L-intelligence-artificielle-peut-elle-etre-collective">L’intelligence artificielle peut-elle être collective ?</a> de Anne Alombert :</li>
-</ul>
-<blockquote class="blockquote">
-<p>Des plateformes comme Wikipédia et Tournesol constituent des exemples de technologies numériques contributives et herméneutiques : contributives, car fondées sur le partage et la participation des utilisateurs (qui deviennent ainsi des contributeurs et non des consommateurs) et herméneutiques, car ouvertes à l’exercice du jugement, à la diversité des interprétations et à la délibération collective.</p>
-</blockquote>
-<ul>
-<li><p>Grosse actualité côté US avec à la fois de la <a href="https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/">suppression d’informations et données sur des portails gouvernementaux</a>, le limogeage (totalement attendu) de Colleen Shogan - directrice de la NARA, <a href="https://sites.google.com/view/saafellowsaotus">la réaction de la SAA</a> avec un appel à pétition (sur des outils Google… oups), une <a href="https://www.lemonde.fr/pixels/article/2025/02/16/contre-la-purge-sans-precedent-des-sites-gouvernementaux-ordonnee-par-trump-les-archivistes-du-numerique-a-l-offensive_6549807_4408996.html">opération de sauvegarde</a> par des archivistes (oui encore un GDoc…) mais aussi la <a href="https://www.lesoir.be/655205/article/2025-02-13/trump-instaure-son-ministere-de-la-verite">carte blanche de F.Delabie</a> en Belgique.</p></li>
-<li><p><a href="https://blog.sparna.fr/2025/02/14/retour-sur-le-deploiement-de-sparnatural-pour-francearchives/">Retour sur … Le déploiement de Sparnatural pour FranceArchives</a> retour donc sur la recherche via sparlendpoint dans FranceArchives, je suis vraiment pas persuadé que l’utilisation soit massive, il faudrait sans doute plus de communication et démo.</p></li>
+<li><p><strong>Céline Regnard</strong>. Le projet existe car l’équipe pense qu’il y a une demande sociale, notamment car il concerne un patrimoine encore présent à Marseille. Il y a une demande d’histoire. Volonté de ne pas produire un ouvrage avec comme objectif d’ouvrir son accès à un plus grand nombre de personnes. Constat que si les contenus ou des connaissances existent sur Marseille colonial, il n’y avait pas de lieu de concentration. Le projet a aussi produit de nouvelles connaissances. Le portail a aussi pour but de proposer des contenus pour transmettre et enseigner.</p></li>
+<li><p><strong>Xavier Daumalin</strong>. Le projet était ambitieux, il a donc fallu réunir une équipe robuste, quaqsi 70 personnes, et de nombreux partenaires. Les recherches menées dans les différentes institutions vont permettre d’ouvrir des travaux pour plusieurs années. L’une des ambitions était de rentrer en raisonnace avec la société, ne pas s’adresser seulement aux spécialistes.</p></li>
+<li><p><strong>Delphine Cavallo</strong>. La conception du portail a eu comme enjeu de donner une représentation simple a un sujet et des ressources complexes et variées. L’équipe technique a été composé de quatre personnes. Un important travail sur les aspects graphiques et design a été mené. Le portail réuni cinq plateformes, chacun ayant sa propre logique en lien avec ses contenus.</p></li>
 </ul>
 </section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
+<section id="présentation-des-différents-portails" class="level2">
+<h2 class="anchored" data-anchor-id="présentation-des-différents-portails">Présentation des différents portails</h2>
 <ul>
-<li><p><a href="https://www.ina.fr/actualites-ina/femme-avortement-temoignage-collecte-patrimoine-loi-veil-clandestin-legalisation">«Il suffit d’écouter les femmes» : l’INA donne la parole aux femmes ayant vécu l’avortement clandestin en France</a>. L’INA fait oeuvre de mémoire en mettant en avant la parole des femmes.</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=9cG5X2nKsnw&amp;ab_channel=%C3%89colenationaledeschartes-PSL">Intelligence artificielle et institutions patrimoniales</a><a href="https://glammr.us/@figoblog">Emmanuelle Bermès</a> repart d’un historique de l’IA et du Machine Learning pour arriver aux usages dans les institutions patrimoniales. Un joli intro sur le sujet.</p></li>
-<li><p>La bonne idée côté archives, une vidéo directement dans l’introduction de l’instrument de recherche pour le commenter et le présenter. Ça se passe aux Archives départementales de la Charente.</p></li>
-</ul>
-<blockquote class="blockquote">
-<p>Montrer la rigueur de la procédure criminelle d’Ancien Régime à travers l’exemple d’une enquête est un défi en soi. L’Affaire Louise de Rouzier qui vous est présentée, issue des procédures criminelles du tribunal seigneurial du comté de Confolens (50 B 82) permet de révéler <a href="https://lasource.archives.lacharente.fr/actualites/les-intros-en-videos-51/n:298">en 4,17’ minutes</a> la grande richesse des archives judiciaires.</p>
-</blockquote>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez Parlez-moi d’IA <a href="https://cause-commune.fm/podcast/parlez-moi-d-ia-58/">“ComparIA, améliorer les modèles IA pour les cultures francophones avec Mathilde Bras et Hadrien Pélissier”</a>. Très intéressante démarche de l’État pour comparer et évaluer les IA et leur pertinence en français.</p></li>
-<li><p>Chez Entendz-vous l’éco ? <a href="https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/data-centers-marseille-au-centre-du-marche-de-la-donnee-7355996">Data centers : Marseille au centre du marché de la donnée</a>. Une plongée dans les infrastructures de données et de calcul , dont Marseille aujourd’hui est un point d’entrée en France. Avec Clément Marquet et <a href="https://mastodon.social/@opheliecoelho">Ophélie Coehlo</a></p></li>
-<li><p>Chez France Culture <a href="https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/pour-reenchanter-les-reseaux-sociaux-cap-vers-l-interoperabilite-3643566">Pour réenchanter les réseaux sociaux, cap vers l’interopérabilité !</a> chronique courte mais percutante de Frédéric Saltiel. Avec une recommandation pour <a href="https://cfeditions.com/rapt-internet/">Le rapt d’Internet</a> de Cory Doctorow dont la traduction française est parue récemment chez C&amp;F (Et dans la pile de lecture à la maison).</p></li>
+<li><p><strong>Webdocumentaire et capsules vidéos</strong>. Le webdocumentaire comprends à la fois de la vidéos mais aussi des éléments interactifs. Les 81 capsules vidéos produites représentent environ 7h de contenus. Ont été réunis des historiens mais aussi des artistes, des archivistes ou des militants. Les capsules sont souvent enrichi des productions textuelles.</p></li>
+<li><p><strong>Focus 1922</strong>. Il s’agit d’un film de 52 mn sur l’exposition coloniale de Marseille de 1922. Le premier constat est que cette exposition a laissé peu de traces dans l’espace urbain, alors qu’il a produit un grand nombre d’images. Le documentaire cherche a remettre dans son contexte l’exposition coloniale. Ce documentaire n’est pas seulement une mise en valeur de recherches mais est aussi création de nouvelles avancées.</p></li>
+<li><p><strong>Balades numériques</strong>. Ces ballades ont été conçues par l’association Ancrages. Ces lieux sont liés à la souffrance et à la violence. Dans la démarche d’Ancrages la reconnaissance des personnes concernées par cette histoire est primordiale.</p></li>
+<li><p><strong>Vitrines d’emprire</strong>. C’est un travail sur le musée coloniale de Marseille (1893-1962). Ce musée montre l’importance du scientifique dans l’histoire coloniale, notamment dans les sciences naturelles. Il ne s’agit pas de reconstitué le musée mais de présenter à travers 40 pièces ce qui est était montré dans ce musée. Les biographies des objets ont été complexes par manque d’information, certains sont pauvres en information d’origine. La question de la restitution des oeuvres est abordée.</p></li>
+<li><p><strong>Médiathèque</strong>. Cette partie rassemble l’ensemble des documents utilisés par le projet mais aussi les productions. Important travail de cataloguage en utilisant des métadonnées existantes mais aussi en les enrichissants.</p></li>
+<li><p><strong>Parcours fléchés</strong>. Le choix a été fait de faire en avant certains thèmes qui ont émergés au fil de la recherche et du projet.</p></li>
 </ul>
 
 
+</section>
 </section>
 
  ]]></description>
-  <category>Archives</category>
-  <category>IA</category>
-  <category>Colonisation</category>
-  <category>Trump</category>
-  <category>NARA</category>
-  <category>Data</category>
-  <category>RDF</category>
-  <category>RiC</category>
-  <category>WebSem</category>
-  <category>Féminisme</category>
-  <category>Sparlq</category>
-  <category>Infrastructure</category>
-  <guid>https://macgraveur.github.io/mapage/veille/fevrier2025/</guid>
-  <pubDate>Fri, 31 Jan 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/fevrier2025/Pluviose.jpg" medium="image" type="image/jpeg"/>
+  <category>empire</category>
+  <category>colonisation</category>
+  <category>décolonisation</category>
+  <category>Marseille</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/marsimperium/</guid>
+  <pubDate>Mon, 10 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/marsimperium/logo_marsimperium.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
-  <title>Janvier 2025</title>
-  <link>https://macgraveur.github.io/mapage/veille/janvier2025/</link>
+  <title>Marseille capitale du crime ? Les racines d’un imaginaire</title>
+  <dc:creator>Julien Benedetti</dc:creator>
+  <link>https://macgraveur.github.io/mapage/blocnotes/mauvaisereputation/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>On attaque une nouvelle année avec toujours des archives, du numérique comme ingrédiants de base.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p>Names of 425,000 suspected Nazi collaborators published. Hélas seulement <a href="https://oorlogvoorderechter.nl/">disponible</a> en néerlandais. &gt;In a letter to parliament on 19 December, Culture Minister Eppo Bruins wrote: “Openness of archives is crucial for facing the effects of [the Netherlands’] difficult shared past and to process it as a society.” Un joli projet sur le papier qui a viré au crash industriel, je vous laisse creuser le sujet sur le web.</p></li>
-<li><p><a href="https://www.leprogres.fr/education/2025/01/01/a-lyon-des-chercheurs-enrichissent-wikipedia-comment-sont-formes-ces-benevoles-de-l-ombre">À Lyon, des chercheurs enrichissent Wikipédia : comment sont formés ces bénévoles de l’ombre</a> écho de la résidence de la wikimedienne <a href="https://mapstodon.space/@dmontagne"><span class="citation" data-cites="dmontagne">@dmontagne</span></a> dans la PQR.</p></li>
-<li><p><a href="https://www.ouest-france.fr/high-tech/intelligence-artificielle/ia-nous-devons-conserver-notre-souverainete-sur-nos-donnees-46af6b92-d1c1-11ef-8aa9-6a8073542db7">IA : « Nous devons conserver notre souveraineté sur nos données »</a>. Intéressante démarche de Ouest France, je retiens surtout la volonté pour la rédaction de comprendre le fonctionnement plus que d’obtenir un résultat.</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><a href="https://archives.marseille.fr/actualites/actualites-1/prochainement-decouvrez-l-exposition-l-opera-de-marseille-une-premiere-19/n:199">Exposition aux Archives municipales de Marseille</a> pour les cent ans de la reconstruction de l’opéra municipal (suite à l’incendie de 1919). Très jolie exposition présentant les fonds conservées par les Archives mais aussi de nombreux objets, comme des costumes, issus des collections du Musée d’histoire de Marseille. Pour vous donner définitivement envie un <a href="https://www.francebleu.fr/infos/culture-loisirs/video-l-opera-de-marseille-devoile-ses-coulisses-dans-une-exposition-centenaire-immersive-et-fascinante-7943323">reportage de France Bleue</a></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://hackmd.io/_uploads/BJdc1BHLJl.jpg" class="img-fluid figure-img"></p>
-<figcaption>archives_expo_opera_invitation</figcaption>
-</figure>
-</div>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Y74BW0nkwoU&amp;ab_channel=ORTFRANCE">L’avenir est entre nos mains. ORT France de 1921 à 1970</a>. Un organisme toujours existant à découvrir. via <a href="https://social.sciences.re/@mXli1@sciences.re">mixlamalice</a></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez Paroles d’hisoire <a href="https://parolesdhistoire.fr/index.php/2025/01/13/364-dans-les-archives-dun-savant-colonial/">Dans les archives d’un savant colonial</a> Comme souvent chez André Loez est mis en lumière un travail d’historiens en lien avec des archivistes.</p></li>
-<li><p>Chez le Code à changer <a href="https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/le-code-a-change-20-11-7151548">“Les courbes en folie” : faire de l’architecture avec les ordinateurs</a>. <a href="https://mastodon.social/@xporte">Xavier de La Porte</a> nous fait découvrir ce que l’informatique a fait à l’architecture mais en creux, on y retrouve ce qu’elle a fait à beaucoup de processus de production.</p></li>
-</ul>
+<p><em>Laurence Montel</em></p>
+<p>Conférence dans le cadre des mardis du matrimoine.</p>
+<p>Professeure à Poitiers, mais marseillaise d’origine. Thèse soutenue en 2009 à Nanterre, le livre n’est publié qu’en 2024.</p>
+<p>Rapport particulier à la ville car elle en est partie, et la ville change. Citation de l’ouvrage de J.Gracq <em>La forme d’une ville</em> sur Nantes. Marseille est dans le matrimoine de la chercheuse comme on parle de patrimoine génétique.</p>
+<p>Marseille connait au 19e une énorme croissance démographique, mais surtout ouvrière. Ceci est dû à la volonté du patronat marseillais d’industrialiser la ville pour profiter des matières premières qui arrivent par le port. Cette croissance est grandement portée par l’immigration, interne mais surtout étrangère (italienne, puis coloniale).</p>
+<p>Cette immigration prolétaire participe de la mauvaise image de la ville, tout comme l’élection d’un socialiste comme maire en 1892.</p>
+<p>La mention “capitale du crime” apparaît dans la presse en 1929. Ce moment correspond à la fin de l’unité sacrée issu de la Première Guerre mondiale. C’est aussi la découverte du gangstérisme américain, un parallèle avec Chicago est rapidement fait.</p>
+<p>Cette représentation rentre dans la mythologie marseillaise. Citons par exemple Spirito et Carbone qui remplissent l’imaginaire nationale. Si aujourd’hui nous classons dans le bantisme et le commerce illégal la prostitution ou les tripots, ceci n’est pas forcèment évident à cette époque. L’image des marges intéresse la chercheuse.</p>
+<p>Ses travaux sont nourris par : Marcel Roncayolo <em>L’imaginaire de Marseille</em>, Dominique Kalifa <em>Les bas-fonds</em>, ou Pierre Laborie <em>L’opinion française sous Vichy</em></p>
+<p>Le thème de l’insécurité est toujours présent à Marseille, et on la retrouve bien avant les années 30. On retrouve des traces dans les archives dès après l’Empire.</p>
+<p>Le rapport à l’imaginaire est apparue d’autant plus à la chercheuse en arrivant à Paris pour sa thèse. Sa première approche a été de travailler sur l’histoire du crime à Marseille à partir de statistiques en utilisant les archives de la justice, inspirée par l’Ecole des annales, mais cela ne c’est pas révélé possible. Il y a eu une impossibilité méthologique de dinstinguer qui sont les malfaiteurs professionnels, malgré la constitution d’une importante base de données.</p>
+<p>Il y a un tournant culturel, en prenant en compte l’histoire de représentations. Les archives judiciaires ont été complétées par des imprimés (presse et travaux scientifiques) afin d’analyser le discours sur le crime. Après la thèse, un travail a été effectué pour ajouter une couche de politique.</p>
+<p>Deux voies sur la dégradation de l’image de la ville ont été suivie : la ville comme territoire et la ville à travers ses personnages. Etude par exemple du nervis qui passe du personnage ouvrier à un criminel. Le changement de l’image du nervi passe par une appropriation exterieure à la ville. Avec le temps le terme nervi dévie et devient synonyme d’agent électoral.</p>
+<p>** A lire** Horace Bertin, <em>Les heures marseillaises</em> Jean Bazal, <em>Romance marseillaise</em></p>
 
 
-</section>
 
  ]]></description>
-  <category>Archives</category>
-  <category>IA</category>
-  <category>Colonisation</category>
-  <category>Architecture</category>
-  <category>Shoah</category>
-  <category>Opéra</category>
-  <category>Wikipédia</category>
-  <guid>https://macgraveur.github.io/mapage/veille/janvier2025/</guid>
-  <pubDate>Tue, 31 Dec 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/janvier2025/Nivose.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Décembre 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/decembre2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://ploum.net/2024-12-06-perenite-ephemerite.html">Pérenniser ma numérique éphémérité</a>. <a href="https://mamot.fr/@ploum">Ploum</a> vous distille quelques conseils sur la pérennisation de vos traces sur le Web et notamment les réseaux sociaux.</p></li>
-<li><p><a href="https://usbeketrica.com/fr/article/la-maintenance-rend-elle-forcement-reac">La maintenance rend-elle forcément réac ?</a>. Usbek &amp; Rica posait une bonne question (en 2022) mais le traitement est finalement assez mauvais de mon point de vue. Déjà une dichotomie droite/gauche quand on interroge un universitaire américain a-t-elle un sens ? Induire qu’il n’y a pas de penser réactionnaire à gauche, est aussi un souci.</p></li>
-<li><p><a href="https://www.mediapart.fr/journal/france/111224/dematerialisation-et-agents-surcharges-comment-l-administration-maltraite-les-etrangers">Dématérialisation et agents surchargés : comment l’administration maltraite les étrangers</a> &gt;« il y a une violation totale et systématique de la loi depuis la mise en place de la dématérialisation », dénonce l’avocate Elsa Ghanassia. Pour son confrère Laurent Charles, c’est le principe même d’égalité devant les services publics qui n’est plus garanti. Et Delphine Martin de s’interroger sur ce système contreproductif : « L’État paie des frais quand on gagne en justice… Est-ce qu’il ne devrait pas mettre cet argent ailleurs, pour augmenter les moyens en préfecture ? »</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><p><a href="https://murdesnomades.mmsh.fr/">NOMades</a> : Mur des noms des internés et assignés à résidence en tant que « Nomades » en France de 1939 à 1946. &gt; Le 1er juin 2026, il y aura 80 ans que le dernier interné dit « nomade » quittait le camp des Alliers à Angoulême. Et, pourtant, il n’existe toujours pas de décompte exact des victimes « nomades » de la Seconde Guerre mondiale en France, ni de mémorial nominatif. NOMadeS se donne pour mission de publier leurs noms.</p></li>
-<li><p><a href="https://www.france.tv/france-3/nouvelle-aquitaine/la-france-en-vrai-aquitaine/5660031-les-doleances.html">Les doléances</a> j’ai enfin pris le temps de regarder le documentaire de H.Desplanques. Démarche vraiment intéressante mais j’y vois de nombreux manques sur le sujet “archives”, et l’absence criante de témoignage d’archivistes.</p></li>
-<li><p><a href="https://liiive.now/">liiive Real-time collaborative viewing &amp; annotation for IIIF image collections</a> pas de bonne veille sans actu IIIF. Ouverture en bêta d’une plateforme d’annotation basé donc sur le IIIF, avec un mode collaboratif après création d’un compte gratuit.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez la rédaction de France Culture : <a href="https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/l-impossible-histoire-des-essais-nucleaires-en-polynesie-francaise-5246190">L’impossible histoire des essais nucléaires en Polynésie française</a>. Des arguments de non ouverture toujours aussi peu crédible, les lenteurs de déclassification. Cela rappelle la lutte de l’AAF au sein d’un collectif lors de la <a href="https://www.archivistes.org/-L-acces-aux-archives-classifiees-secret-defense-">loi PATR</a>.</p></li>
-<li><p>Chez LSD : <a href="https://www.radiofrance.fr/franceculture/podcasts/serie-le-maghreb-des-ondes-un-enjeu-colonial">Le Maghreb des ondes, un enjeu colonial</a>. Très joli série que l’histoire du Maghreb à travers les sources radiophoniques, cela permet de faire une autre histoire que celle des sources de l’administration coloniale. Point je rale : le premier épisode s’intitule “le mal d’archives” mais n’explicite pas la référence à Derrida, qui est en plus né en Algérie.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Archives</category>
-  <category>Cahiers citoyens</category>
-  <category>Colonisation</category>
-  <category>Nomades</category>
-  <category>Maintenance</category>
-  <category>Dématérialisation</category>
-  <category>IIIF</category>
-  <guid>https://macgraveur.github.io/mapage/veille/decembre2024/</guid>
-  <pubDate>Sat, 30 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/decembre2024/Frimaire.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Novembre 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/novembre2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Une livraison très archives et très Marseille. Et toujours du numérique bien entendu.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://acteurspublics.fr/articles/loin-du-tout-cloud-letat-lance-un-nouveau-marche-dachat-de-serveurs-informatiques">Loin du “tout-cloud”, l’État lance un nouveau marché d’achat de serveurs informatique</a> &gt;“Les administrations ont encore besoin de serveurs en propre afin de faire tourner des applications qu’elles ne souhaitent pas mettre dans le cloud”</p></li>
-<li><p><a href="https://marsactu.fr/de-la-calade-a-la-villette-une-balade-pour-comprendre-ce-qui-se-joue-dans-les-data-centers/">De la Calade à la Villette, une balade pour comprendre ce qui se joue dans les data centers</a> toujours du Cloud mais via une ballade marseillais à la découverte des datacenters qui se multiplient sur le port.</p></li>
-<li><p><a href="https://entre-temps.net/portraits-darchivistes-matthieu-bonicel-archiviste-de-lart-contemporain/#62662c9c-bf87-4e9e-9eb3-25057cda95f2">Portraits d’archivistes : Matthieu Bonicel, archiviste de l’art contemporain</a>. Entre-Temps poursuit sa série de portrait d’archivistes, avec des profils assez atypiques. Ici nous entrons dans l’univers de la création contemporaine.</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><p><a href="https://www.france.tv/documentaires/documentaires-societe/6543734-un-hangar-sur-le-port.html">“Un Hangar sur le port”</a>, documentaire sur le centre clandestin de rétention d’Arenc (Marseille). O.Bertand revient sur le scandale qui éclata en 1975, notamment à travers des <a href="https://www.archives13.fr/archive/fonds/FRAD013_11381">documents d’archives</a>. Le journaliste a donné des interview à <a href="https://marsactu.fr/lhistoire-oubliee-de-la-prison-clandestine-darenc/">Marsactu</a> et à <a href="https://www.laprovence.com/article/culture-loisirs/1040765218787715/un-hangar-sur-le-port-le-film-du-marseillais-olivier-bertrand-sur-le-centre-darenc-bientot-diffuse-sur-france-3">La Provence</a>.</p></li>
-<li><p>Les Archives municipales et métropolitaines de Saint-Étienne ont mis en ligne une exposition intitulée <a href="https://expositionsporthandicap.fr">“Coup d’envoi. Sport et handicap, récit d’une aventure stéphanoise”</a>. Le site est agréable et riche de nombreuses archives à lire, ou à écouter.</p></li>
-<li><p>A l’occasion de l’édition d’une <a href="https://x.com/pascal__koenig/status/1859161377828434260">plaquette de présentation des archives régionales</a>, la section des archivistes régionaux de l’AAF nous a concocté <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VjcCW4x3E5JBkksHlb68ULporgVsNifB&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">une frise sur l’histoire des Conseils régionaux</a>.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez les Lieux de l’éco : <a href="https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-lieux-de-l-eco-10-44-fos-sur-mer-les-horizons-de-l-industrie-lourde-7314046">Fos-sur-mer, les horizons de l’industrie lourde</a>. On y retrouve à la fois l’histoire de ce morceau du port de Marseille mais aussi une étude sur l’impact sur la santé des habitants.</p></li>
-<li><p>Chez LSD : « L’odyssée de la croisière » <a href="https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/paquebots-les-grandes-lignes-5807712">Épisode 1/4 : Paquebots : les grandes lignes</a></p></li>
-<li><p>Chez Cause Commune- Parlez-moi d’IA : <a href="https://cause-commune.fm/podcast/parlez-moi-d-ia-49/">le baromètre annuel de l’Observatoire Data Publica</a> avec en invité Jacques Priol. &gt; Une mairie c’est pas Facebook, on fait pas n’importe quoi avec les données.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Histoire</category>
-  <category>Archives</category>
-  <category>Cloud</category>
-  <category>Handicap</category>
-  <category>Sport</category>
-  <category>Immigration</category>
-  <category>Décentralisation</category>
-  <category>Industrie</category>
-  <category>IA</category>
-  <guid>https://macgraveur.github.io/mapage/veille/novembre2024/</guid>
-  <pubDate>Thu, 31 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/novembre2024/Brumaire.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Octobre 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/octobre2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Un mois d’octobre assez dense, ce qui est très bien pour occuper vos soirées hivernales.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://vsa-aas.ch/fr/acces-et-communication/lapprentissage-automatique-dans-les-archives/">L’apprentissage automatique dans les archives</a> un intéressant livre blanc des archivistes suisses sur un sujet plus si exploratoire. Le bilan n’est pas techno-béat comme il peut l’être parfois, mais apporte une vraie réflexion métier sur l’usage de nouveaux outils.</p></li>
-<li><p><a href="https://hnlab.huma-num.fr/blog/2024/10/03/hackathon2-hnlab/">Hackathon II - Annotation et la segmentation sémantique d’image</a>. Rex d’Huma-Num d’un hacktahon d’annotation d’image, avec supervision machine.</p></li>
-<li><p>Si vous l’avez râté un thread exceptionnel, sur la dématérialisation de la justice, de <span class="citation" data-cites="Maitre_Eolas">@Maitre_Eolas</span> : “<a href="https://x.com/maitre_eolas/status/1843648831050920172?s=12&amp;t=p1zvXxSqsyeLTFKpJ7EVOQ">Que je vous raconte la procédure numérique mise en place à Paris. Le PV est toujours rédigé sur un traitement de texte (OpenOff’). Déjà ça pue. Pourquoi un traitement de texte pour une procédure numérique ? Accrochez-vous</a>”.</p></li>
-<li><p><a href="https://media.licdn.com/dms/document/media/D561FAQHmkTUUzcsH8w/feedshare-document-pdf-analyzed/0/1729689062688?e=1730937600&amp;v=beta&amp;t=122K-bN5_5prb8I0VRqCI1OG4xBRHIVgah3FkBwArEs">De l’import jusqu’à l’exposition IIIF</a> support de démonstration de traitement de données archivistiques pour aller vers une exploitation en IIIF. Ceci est une plaquette commerciale mais à l’intérêt de montrer que l’intégration de ce standard dans les outils en France continue à bonne cadence.</p></li>
-<li><p>Un bon marronnier : <a href="https://theconversation.com/les-cahiers-de-doleances-ont-ils-ete-confisques-241766">Les « cahiers de doléances » ont-ils été confisqués ?</a> mais aussi <a href="https://www.huffingtonpost.fr/politique/article/michel-barnier-veut-s-inspirer-des-cahiers-de-doleances-cette-association-n-attend-que-ca_241464.html">Michel Barnier veut s’inspirer des cahiers de doléances, cette association n’attend que ça</a> et encore <a href="https://www.leparisien.fr/hauts-de-seine-92/gilets-jaunes-en-ile-de-france-des-elus-reclament-la-liberation-des-cahiers-de-doleances-22-10-2024-3E6NDQKKSBGZXKC5PV4QF7ZFZI.php">Gilets jaunes : en Île-de-France, des élus réclament « la libération » des cahiers de doléances</a> (Attention c’est pas fini - voir ci-dessous)</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=232N7zhp2fQ&amp;ab_channel=Num%C3%A9riqueenCommun%5Bs%5D">La clôture de Numérique en Commun[s] #NEC24</a> quand on a pas pu être à ces journées, on peut quand même profiter des replays (avec une archiviste sur scène)</p></li>
-<li><p><a href="https://amidesk.com/extra/?-Quartier-Saint-Jean-Marseille-">Quartier Saint-Jean (Marseille)</a> avant sa destruction. Intéressante production numérique.</p></li>
-<li><p><a href="https://francearchives.gouv.fr/fr/article/689545690">Réinventer les relations aux usagers des archives</a>. Vidéos de la journée du 16 mai 2024 disponible avec les supports. Une première restitution d’un programme de recherche mené pour le SIAF par le laboratoire TEMOS. Ceci en attendant la publication d’un rapport plus complet.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p><a href="https://museeprotestant.org/podcast-les-voix-de-la-saint-barthelemy/">Les voix de la Saint-Barthélemy</a> podcast en cours à partir du livre <em>ceux qui tombent</em> de J.Foa. J’ai beaucoup apprécié les épidoses “Coulisses” sur la construction de ce podcast.</p></li>
-<li><p>Chez Paroles d’histoire <a href="https://parolesdhistoire.fr/index.php/2024/10/16/352-la-fabrique-des-annales-n1-cahiers-de-doleances-contemporains/">La fabrique des Annales (n°1) : cahiers de doléances contemporains</a> Lancement d’un partenariat entre la célèbre revue et André Loez, on retrouve notamment un échange avec les auteurs d’une étude sur les cahiers de doléances dans la Somme.</p></li>
-<li><p>Chez Next on lance un podcast sur les algorithme avec Mathilde Saliou aux manettes, <a href="https://podcastaddict.com/podcast/next-algorithmique/5372082">Algorithmique</a> propose déjà 3 épisodes.</p></li>
-<li><p>Un podcast sur l’archivistique ? On en rêvait Margot Georges est là pour nous et lance <a href="https://open.spotify.com/show/1zjmuKCdnJfCm4KOpMShLQ?si=b6df33654df646bd">archivistica</a> merci à elle ! ça démarre très bien.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Archives</category>
-  <category>IA</category>
-  <category>IIIF</category>
-  <category>Histoire</category>
-  <category>Archivistique</category>
-  <guid>https://macgraveur.github.io/mapage/veille/octobre2024/</guid>
-  <pubDate>Mon, 30 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/octobre2024/Vendemiaire.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Septembre 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/septembre2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Un mois de septembre très marqué par les productions autour des commémorations du 80e anniversaire de la Libération.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p>Dans le cadre des commémorations du 80e anniversaire de la Libération du territoire, les Archives départementales du Puy-de-Dôme proposent, en partenariat avec l’Agence des musiques des territoires d’Auvergne (AMTA), <a href="https://www.archivesdepartementales.puy-de-dome.fr/n/podcasts/n:841">une série de podcasts</a>.</p></li>
-<li><p><a href="https://www.mediapart.fr/journal/international/300824/la-destruction-des-monuments-historiques-de-gaza-une-facette-de-l-aneantissement">La destruction des monuments historiques de Gaza, une facette de l’anéantissement</a> &gt;“Viser des musées, c’est fondamentalement un ciblage de l’identité palestinienne et de leur propre mémoire et compréhension de leur terre”</p></li>
-</ul>
-<p>Comme un écho un <a href="https://gazahistoire.hypotheses.org/">carnet hypothèses</a> s’ouvre pour établir un atlas de ces destructions.</p>
-<ul>
-<li><p><a href="https://www.francetvinfo.fr/france/rentree/enquete-franceinfo-rentree-scolaire-des-donnees-internes-a-l-education-nationale-revelent-les-inegalites-d-enseignement-entre-public-et-prive_6698430.html">Rentrée scolaire : des données internes à l’Education nationale révèlent les inégalités d’enseignement entre public et privé</a>. Le journaliste Brice Le Borgne malgré le refus du ministère s’est procuré des données sur la répartition des heures d’enseignement. Trois semaines après la publication de son enquête, miracle, l’Éducation nationale publie les jeux de données pour le <a href="https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_public/table/?disjunctive.academie&amp;disjunctive.code_departement&amp;disjunctive.libelle_departement&amp;disjunctive.niveau&amp;sort=-num_ligne">public</a> et le <a href="https://data.education.gouv.fr/explore/dataset/fr-en-moyens_enseignants_2d_prive/table/?disjunctive.academie&amp;disjunctive.code_departement&amp;disjunctive.libelle_departement&amp;disjunctive.niveau&amp;sort=-num_ligne">privé</a>. Cela rappelle le travail d’Alexandre Lechenet sur l’IPS.</p></li>
-<li><p><a href="https://huggingface.co/spaces/urchade/gliner_multiv2.1">GLiNER-base</a> du LLM couplé à du NER, premiers tests très concluants. <img src="https://hackmd.io/_uploads/Sy6SIjV2C.png" class="img-fluid" alt="image"></p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><p><a href="https://patrimoine-archives.chelles.fr/actualites/80-ans-de-la-liberation-de-chelles-53/n:54">80 ans de la Libération de Chelles</a> Un beau travail qui a dû demander pas mal de recherche. La narration cartographie est une jolie mise en valeur.</p></li>
-<li><p>Deux projets du même type mais l’un abouti - <a href="https://rougememoire.com/">Rouge mémoire</a> - et l’autre en cours -<a href="https://archivesreimsfootball.fr">Archives Reims Football</a> - : Des statistiques historiques sur deux clubs de football alimentés à partir d’information participative. Bravo aux motivés !</p></li>
-<li><p><a href="https://www.youtube.com/watch?v=Ggn_cSAOGnk&amp;ab_channel=SocioloGeek">Comment produit-on des données ?</a> - Dans les coulisses de la recherche #4. Une vidéo pédagogique sur la fabrique de la donnée et son usage public, avec l’exemple des données liées au COVID.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez le Collimateur <a href="https://shows.acast.com/collimateur/episodes/le-debarquement-oublie-le-fil-de-lepee-21">Le Débarquement oublié [Le Fil de l’Epée #21]</a> avec Claire Miot. Des échanges intéressants sur ce débarquement bien moins connu que celui de Normandie y compris localement. Petit regret que les sources soient exclusivement militaires, car on trouve des fonds dans les services territoriaux aussi bien écrits, photos, que témoignages oraux.</p></li>
-<li><p>Chez Paroles d’histoire <a href="https://parolesdhistoire.fr/index.php/2024/09/23/349-bureau-colonial-voix-algeriennes-avec-emmanuel-blanchard/">Bureau colonial, voix algériennes</a>, avec Emmanuel Blanchard. J’ai beaucoup apprécié les propos sur les archivistes et notamment le fait que non ce n’est pas l’histoire qui “découvre” des archives mais bien les archivistes lors des collectes puis classement.</p></li>
-<li><p>Chez Op Cit ! <a href="https://ihmc.ens.psl.eu/episode-28-histoire-coloniale-allemande-froment-wagemann">L’Histoire coloniale allemande</a> avec Delphine Froment et Tobias Wagemann. Une émission qui nous permet d’apprendre les spécificités de l’empire coloniale allemand, notamment sa temporalité très courte comparé aux autres puissances européennes.</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Histoire</category>
-  <category>Archives</category>
-  <category>IA</category>
-  <category>Football</category>
-  <category>Colonisation</category>
-  <category>Libération</category>
-  <category>Patrimoine</category>
-  <category>Gaza</category>
-  <category>OpenData</category>
-  <guid>https://macgraveur.github.io/mapage/veille/septembre2024/</guid>
-  <pubDate>Sat, 31 Aug 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/septembre2024/Fructidor.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Eté 2024</title>
-  <link>https://macgraveur.github.io/mapage/veille/Ete2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>C’était annoncé, une coupure de publication pendant l’été pour mieux se retrouver à la rentrée.</p>
-<section id="lu" class="level3">
-<h3 class="anchored" data-anchor-id="lu">Lu</h3>
-<ul>
-<li><p><a href="https://www.letemps.ch/economie/28-personnes-relaxees-dans-l-affaire-des-panama-papers">28 personnes relaxées dans l’affaire des «Panama Papers»</a> Au prochain leak, pensez à monter un SAE : &gt; La juge a cependant estimé que les preuves recueillies sur les serveurs du cabinet d’avocats «ne respectaient pas la chaîne de traçabilité» et ne permettaient pas d’établir avec «certitude […] leur authenticité et leur intégrité».</p></li>
-<li><p><a href="https://francearchives.gouv.fr/fr/article/865397225">La Reconstruction</a> Le portail FranceArchives nous propose un état de source archivistique sur la Reconstruction. Thème qui va occuper sans doute les services patrimoniaux dans les années à venir.</p></li>
-<li><p>Recension de la récente traduction de <a href="https://laviedesidees.fr/Je-range-donc-je-trie"><em>Arranger les choses</em></a>. Ouvrage enfin disponible en français, 25 ans après sa parution. A priori peu de chance de ne pas se retrouver dans la pile de livres à lire pour les archivistes.</p></li>
-<li><p><a href="https://spinach.genie.stanford.edu/">Réaliser ses requêtes Sparql grâce à une IA</a>. Voilà une IA qui peut changer la vie de mal de monde, fini les galères de rédaction de requête dans Wikidata. Exemple <a href="https://w.wiki/ArCt">ici</a> (Merci <a href="https://qoto.org/@enroweb">enroweb</a>)</p></li>
-<li><p><a href="https://www.bmvr.marseille.fr/cartographie-litteraire-marseille">Cartographie littéraire de Marseille</a> ou <a href="https://uploads.knightlab.com/storymapjs/d82bb45286159258791c2c8aac0cfc2f/cartographie-litteraire/draft.html">lien direct</a> parcourez à travers une storymap Marseille à travers la littérature.</p></li>
-</ul>
-</section>
-<section id="vu" class="level3">
-<h3 class="anchored" data-anchor-id="vu">Vu</h3>
-<ul>
-<li><p><a href="https://youtu.be/Uanf8ykXujE?si=5QTCJrdxM75mVYOy">Master Class sur la numérisation du patrimoine</a>. Les limites de la numérisation du patrimoine, de la finitude des ressources, de l’intérêt scientifique. Un échange très intéressant, pour une mise en critique de nos usages. Attention faut bien tout suivre, ça parle de B.Latour et de ses archives.</p></li>
-<li><p><a href="https://www.france.tv/france-5/la-case-du-siecle/6138116-violette-morris-une-femme-a-abattre.html">Violette Morris, une femme à abattre</a>. Son parcours hors norme est de plus en plus médiatisé. Un bon documentaire pour la découvrir si ce n’est déjà le cas. Ne trainez pas le documentaire est disponible jusqu’au 17 septembre seulement.</p></li>
-<li><p><a href="https://www.arte.tv/fr/videos/105628-009-A/gymnastique/">Carte Postale : l’art du cliché ?</a> Suivons Renaud Epstein dans ses travaux sur les grands ensembles en carte postale. 5 mn bien investies.</p></li>
-</ul>
-</section>
-<section id="entendu" class="level3">
-<h3 class="anchored" data-anchor-id="entendu">Entendu</h3>
-<ul>
-<li><p>Chez Paroles d’histoire : <a href="http://parolesdhistoire.fr/index.php/2024/07/06/345-compter-les-mots-avec-marie-dejoux-leo-dumont-et-nicolas-perreaux/">Compter les mots, avec Marie Dejoux Léo Dumont et Nicolas Perreaux</a></p></li>
-<li><p>Chez #1257 (nouveau podcast de la Sorbonne) : <a href="https://smartlink.ausha.co/1257-lepodcast">Présentation de trois travaux de thèses en histoire soutenu récemment</a>. La Sorbonne lance un podcast mettant en valeur</p></li>
-<li><p>Chez programme B : <a href="https://www.binge.audio/podcast/programme-b/les-images-perdues-du-premier-pas-sur-la-lune-1-2">Les images perdues du premier pas sur la lune</a> Fortement recommandé pour les personnes qui s’intéresse à la pérennisation de l’information. (Merci <a href="https://framapiaf.org/@leuleu">Leuleu</a>)</p></li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>Archives</category>
-  <category>IA</category>
-  <category>Wikidata</category>
-  <category>Histoire</category>
-  <category>Numérisation</category>
-  <category>Sport</category>
-  <guid>https://macgraveur.github.io/mapage/veille/Ete2024/</guid>
-  <pubDate>Sun, 30 Jun 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/veille/Ete2024/Thermidor.jpg" medium="image" type="image/jpeg"/>
+  <category>Marseille</category>
+  <category>histoire</category>
+  <guid>https://macgraveur.github.io/mapage/blocnotes/mauvaisereputation/</guid>
+  <pubDate>Mon, 03 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/blocnotes/mauvaisereputation/couv.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
