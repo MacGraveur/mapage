@@ -9,7 +9,7 @@ categories:
 - Histoire
 - Marseille
 - Shoah
-- Open Data
+- OpenData
 date : 03-01-2026
 title: Février 2026
 image: Pluviose.jpg

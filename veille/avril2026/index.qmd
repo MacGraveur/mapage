@@ -1,0 +1,79 @@
+---
+categories:
+- OpenSource
+- Patrimoine
+- Colonisation
+- Postcolonial
+- Archivistique
+- Histoire
+- Archives
+- Shoah
+- Dématérialisation
+- Immigration
+- Marseille
+- Infrastructure
+- Cahiers citoyens
+date : 05-01-2026
+title: Avril 2026
+image: Germinal.jpg
+---
+
+Livraison dense pour ce mois d'avril, mais l'actualité a été riche. A  tel point que j'ai encore beaucoup de ressources à lire, voir ou écouter sous le coude. J'ai fait en sorte au mieux de contextualiser les ressources pour vous aider à faire votre marché dans cette (trop ?) longue sélection.
+
+### Lu
+
+* [Adieu Windows : Sécurix et Bureautix, le Linux de l’État aux noms d’irréductibles Gaulois](https://www.frandroid.com/os/gnu-linux/3062047_adieu-windows-securix-et-bureautix-le-linux-de-letat-aux-noms-dirreductibles-gaulois)
+
+> Chaque ministère, opérateurs publics inclus, devra formaliser d’ici l’automne 2026 son propre plan de réduction des dépendances extra-européennes, portant sur sept axes : poste de travail, outils collaboratifs, antivirus, intelligence artificielle, bases de données, virtualisation et équipements réseau.
+
+* [Aux sommets de l’Etat, une culture du secret à l’épreuve de la transparence](https://www.lemonde.fr/politique/article/2026/04/03/aux-sommets-de-l-etat-une-culture-du-secret-a-l-epreuve-de-la-transparence_6676365_823448.html)
+
+* [A Saint-Malo, un manuscrit relance l’enquête sur les premiers tours du monde français](https://www.lemonde.fr/histoire/article/2026/04/03/a-saint-malo-un-manuscrit-relance-l-enquete-sur-les-premiers-tours-du-monde-francais_6676321_4655323.html)
+
+* [Sauvé de la destruction, le « camembert » de Cousteau rêve d’une nouvelle vie à l’Estaque](https://madeinmarseille.net/a-la-une-marseille/196643-sauve-destruction-camembert-cousteau-nouvelle-vie-estaque/)
+
+* [Spolivres : 15 000 livres spoliés déjà recensés dans les bibliothèques](https://actualitte.com/article/130516/politique-publique/spolivres-15-000-livres-spolies-deja-recenses-dans-les-bibliotheques)
+
+> L’intérêt de Spolivres tient à sa méthode. La recherche de provenance appliquée aux imprimés diffère de celle des œuvres d’art : les bibliothèques privées étaient vastes, hétérogènes, rarement décrites de manière exhaustive. L’identification repose donc sur les traces conservées dans l’exemplaire : cachets, ex-libris, dédicaces, annotations, cotes anciennes, adresses. La base organise cette collecte et la rend exploitable.
+
+* [Comment les archives et la documentation sont-elles valorisées dans les musées ?](https://bottedechampollion.substack.com/p/28-comment-les-archives-et-la-documentation)
+
+* [Archives coloniales belges : autour des minerais de la RDC, une bataille économique et symbolique](https://www.courrierinternational.com/article/vu-d-afrique-archives-coloniales-belges-autour-des-minerais-de-la-rdc-une-bataille-economique-et-symbolique_240896)
+
+> Cette affaire des archives belges créera sans doute un précédent, estime Business Insider Africa,dans le sens où son issue pourrait façonner non seulement l’avenir de l’exploration minière pilotée par l’IA, mais aussi le débat actuel sur la propriété de données scientifiques datant de l’époque coloniale.
+
+* [La mémoire enfouie des camps de regroupement de la guerre d’Algérie](https://www.lemonde.fr/m-le-mag/article/2026/04/01/la-memoire-enfouie-des-camps-de-regroupement-de-la-guerre-d-algerie_6675830_4500055.html)
+
+* [Les musées français confrontés à l’impensé colonial des tableaux orientalistes](https://www.mediapart.fr/journal/culture-et-idees/080426/les-musees-francais-confrontes-l-impense-colonial-des-tableaux-orientalistes)
+
+* [Racisme médical : « L’héritage colonial est toujours présent dans les discours et dans les pratiques »](https://www.mediapart.fr/journal/france/120426/racisme-medical-l-heritage-colonial-est-toujours-present-dans-les-discours-et-dans-les-pratiques)
+
+> La puissance de ces discours émanait du fait qu’ils validaient des stéréotypes déshumanisants édifiés pendant l’esclavage, légitimant des pratiques colonialistes au XIXe siècle et justifiant le maintien de l’exploitation et du travail forcé dans les colonies.
+
+
+### Vu
+
+* [Sans les nommer](https://www.youtube.com/watch?v=SQud8vct6vo) A travers un moyen métrage une stagaire des Archives départementales du Maine-et-Loire nous présente un rapport sensible au traitement d'un fonds.
+
+* [Il est temps d'atterrir](https://www.arte.tv/fr/videos/120477-000-A/il-est-temps-d-atterrir/). Le rapport à la terre, des expérimentations collectives et une réflexion sur la technique. Loin de nos sujets ? Je ne crois pas du tout.
+
+* [Vulnérabilités systémiques dans le secteur du numérique : Protection des données personnelles](https://videos.assemblee-nationale.fr/video.18480705_69c3e877108f8.vulnerabilites-systemiques-dans-le-secteur-du-numerique--protection-des-donnees-personnelles--mme--25-mars-2026) Mme Meredith Whittaker, présidente de la fondation Signal. Il sera impossible de regarder chacun des échanges de cette commission mais ce que j'ai pu regarder fait vraimebnt honneur au travail parlementaire. Et vraiment un plaisir d'écoute une autre voix du numérique que celles des techbros.
+
+* [Trésors patrimoniaux à l'UMONS avec les gestionnaires de collections](https://www.youtube.com/watch?v=CEV9TBbC78g). Ceux qui était sur Twitter vous serez heureux de retrouver Docteur Cailloux, pour les autres un échange intéressant sur le patrimoine artisitique et technique des universités.
+
+
+### Entendu
+
+* Chez la suite dans les idées, [Gouverner par le code : les infrastructures d'Internet comme instruments de pouvoir](https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/gouverner-par-le-code-les-infrastructures-d-internet-comme-instruments-de-pouvoir-1871328). Le numérique comme infratructure, un neutralité remise en question, évidemment cela devait être dans cette veille. [Note à moi-même il va falloir acheter l'ouvrage de Musiani]
+
+* Chez le code à changer, [La galère de l’étranger.ère qui doit renouveler ses papiers](https://www.radiofrance.fr/franceinter/podcasts/le-code-a-change/ep1-2159276). Xavier de la Porte creuse un peu plus le sillon de l'étude de l'effet de la dématérialisation des procédures administratives.
+
+* Chez Archivistica, [Valoriser le matrimoine aux archives départementales de l’Aude](https://feeds.acast.com/public/shows/archivistica) avec Carole Renard.
+
+> Dans cet épisode on parle des archives comme un tout qu’on adore, dans lesquelles les femmes, comme les hommes ont laissé une trace. On lance un débat pour remplacer l’expression «patrimoine» par celui d’héritage culturel pour visibiliser sans alourdir, le matrimoine et le queer héritage. On parle de projets qui peuvent prendre place dans un service d’archives, mais on parle aussi d’association, des projets wikimédiens, etc.
+
+* Chez LSD, [Les ultras de la collaboration](https://www.radiofrance.fr/franceculture/podcasts/serie-les-ultras-de-la-collaboration). Une série dure par moment à écouter (scène de massacres) mais très précieuse comme souvent chez LSD.
+
+* Chez Arte radio, [Il restera la gravité](https://www.arteradio.com/son/il-restera-la-gravite). Un documentaire sur les spoliations nazis des objets du quotidien.
+
+* Chez Une histoire particulière, [La restitution des cahiers de doléances](https://www.radiofrance.fr/franceculture/podcasts/serie-la-restitution-des-cahiers-de-doleances). Un travail de rapprochement entre les cahiers de 1789 et ceux de 2019.

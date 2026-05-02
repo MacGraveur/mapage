@@ -5,7 +5,7 @@ categories:
 - Archives
 - Marseille
 - Colonisation
-- infrastructure
+- Infrastructure
 - Cahiers citoyens
 - IIIF
 date: 12-04-2025
