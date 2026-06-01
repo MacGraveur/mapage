@@ -1,6 +1,7 @@
 ---
 title: "Pourquoi je suis mal à l'aise avec l'utilisation de l'IAG, chez les archivistes"
 date: 04-16-2026
+date-modified: last-modified
 author: Julien Benedetti
 categories:
 - IA
@@ -27,6 +28,17 @@ Il y a vingt ans les archivistes pensaient être remplacés par des informatiens
 
 L'un des points qui me choque le plus est la capacité que la population en général a de naturaliser cette technologie. Comme si elle avait toujours existé, comme si elle était la réponse à tous les sujets. Et je le suis d'autant plus pour les archivistes, profession par essence formée à la critique de l'information. 
 
+::: {.callout-caution collapse="true"}
+## Attention image de charnier
+
+Cet exemple d'utilisation de l'IAG montre les énormes problématiques de production de faux historiques, alors même que l'intention est de rendre hommage aux victimes de la Shoah.
+
+![capture d'un compte Instagram qui expose une image produit via IAG où l'on voit un officier SS et un charnier, mais les corps resssemblent plutôt à des alliens. Un texte d'hommage aux victimes est écrit sur le côté](/blocnotes/noiag/insta.png)
+
+[lien vers la source](https://www.instagram.com/reel/DYtJqmsqShJ/)
+
+:::
+
 Ceux qui me suivent, savent que je répète et même radote que [#ArchivesAreNotNeutral](https://framapiaf.org/deck/tags/ArchivesAreNotNeutral). Je pense sincèrement que nos actes et choix d'archivistes sont politiques. Je persiste dans la même veine, choisir ou non d'utiliser des IAG est un choix politique. Le présenter comme autre me semble au mieux une illusion. Ces outils sont créés et maintenus par des humains et à ce titre ne sont pas neutres. Ils sont le résultat de choix et aboutissent à des traitements algorithmiques complexes. Qui parmi les archivistes pensent sincèrement être en capacité de comprendre et de faire une critique méthodologique de ces outils ?
 
 Autre point que friction, les travaux sollicitant l'utilisation de LLM tournent beaucoup en archives autour de chantier de reconnaissance d'écriture manuscrite (HTR). Alors que les archivistes ont une longue réputation de profession tatillonne pour le dire poliment, je vois une bascule très rapide à l'acceptation d'un résultat peu qualitatif mais obtenu rapidement via une IAG. On **doit** accepter qu'une information est globalement correcte, ou vraisemblable. Ceci étant pire que la notion de faux, brillament traité dans l'[exposition](https://www.archives-nationales.culture.gouv.fr/evenements/faux-et-faussaires-du-moyen-age-nos-jours) des Archives nationales. En effet, pour nos usagers les informations provenants de service d'archives apportent (au moins symboliquement) un haut degré de confiance, que répondre quand nous acceptons de nous conformer à un traitement global approximatif ? Mais en le basant sur la croyance forte que plus tard une nouvelle IAG corrigera ce que la première n'a pas réussi à faire correctement. Comme le dise les Shadoks, "Plus ça rate, plus on a de chances que ça marche".
@@ -35,13 +47,13 @@ Au sujet des chantiers d'HTR, j'en profite pour pointer la situation de quasi mo
 
 Nous pourrions aussi questionner le rapport de genre à cette technologie : comment expliquer que dans une profession largement féminisée 90 % des intervenants dans une journée d'étude ayant pour thème les archives et l'IA soient des hommes ? Et que cela n'est pas du tout le cas pour une journée sur la participation dans les archives ?
 
-Un autre problème que devrait nous poser les LLM est le non respect du droit de la propriété intellectuelle. Un article récent sur [Hugingface](https://www.mediapart.fr/journal/economie-et-social/060426/pilier-de-l-intelligence-artificielle-hugging-face-diffuse-des-centaines-de-milliers-de-docume) devrait nous alerter. Je ne ferai pas l'historique du lien des archivistes avec la perception de redevance, y compris sur du domaine public, mais cela questionne donc sur le double standard. Les archivistes ont, parfois contre le Droit, voulu prélever des redevances mais s'accodomodent d'outils pillant des oeuvres couvertes par des droits.
+Un autre problème que devrait nous poser les LLM est le non respect du droit de la propriété intellectuelle. Un article récent sur [Huggingface](https://www.mediapart.fr/journal/economie-et-social/060426/pilier-de-l-intelligence-artificielle-hugging-face-diffuse-des-centaines-de-milliers-de-docume) devrait nous alerter. Je ne ferai pas l'historique du lien des archivistes avec la perception de redevance, y compris sur du domaine public, mais cela questionne donc sur le double standard. Les archivistes ont, parfois contre le Droit, voulu prélever des redevances mais s'accodomodent d'outils pillant des oeuvres couvertes par des droits.
 
 Les archives et le domaine patrimonial sont, de plus, eux-mêmes les victimes de cette captation de ressources. 
 
 Quelques exemples : 
 
-* FranceArchives et Gallica voient leur portail mis à mal par des robots venants récupérer des données pour nourrir des modèles d'IA.
+* FranceArchives et Gallica voient leur portail mis à mal par des robots venants récupérer des données pour nourrir des modèles d'IA[^1].
 * A l'inverse, le dépôt légal du Web de la BnF trouve de plus en plus de sites mettant en place des restrictions de récupération de données car ils se protègent des IA.
 * Des archivistes sont saisis de demandes d'accès par des lecteurs donnant de fausses références, hallucinées (selon le terme dédié) par des IA.
 
@@ -81,3 +93,5 @@ Je profite donc de ce texte pour remercier : Anne-Laure, Maïwenn, Jordi, Célin
 * L'importance des outils libres
 * L'impact environnemental et humain de la conception et utilisation des IAG
 * La production de données de mauvaise qualité en masse qu'il faudra retraiter un jour
+
+[^1]: ![capture du compte Facebook des AD de Haute-Garonne expliquant que les crawlers d'IAG font tomber leur site](/blocnotes/noiag/AD82.png).
