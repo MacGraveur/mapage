@@ -10,7 +10,69 @@
 <atom:link href="https://macgraveur.github.io/mapage/index.xml" rel="self" type="application/rss+xml"/>
 <description>la page de Mac Graveur</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 30 Apr 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mai 2026</title>
+  <link>https://macgraveur.github.io/mapage/veille/mai2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Une veille plus restreinte et sélective. Deux raisons à cela. Moins d’informations ont attiré mon attention et avec les beaux jours et les ponts de mai j’ai consacré moins de temps à la veille.</p>
+<section id="lu" class="level2">
+<h2 class="anchored" data-anchor-id="lu">Lu</h2>
+<ul>
+<li><p><a href="https://orientxxi.info/Marseille-Un-passe-colonial-omnipresent-mais-illisible">Marseille. Sur les traces de l’empire colonial</a></p></li>
+<li><p><a href="https://www.curseurs.be/numeros/numero-5/article/re-lier-le-web-independant">Les LLM dégradent profondément vos documents</a></p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Dans vos slides, votre « environ 30% » va devenir « 30% »… puis « 20% ». Dans un contrat, « sous certaines conditions » s’efface. « Après signature » devient « avant signature »… Non seulement les erreurs s’accumulent, mais elles interagissent : « une corruption précoce modifie le contexte, ce qui décale les résultats suivants, et ainsi de suite ».</p>
+</blockquote>
+<ul>
+<li><a href="https://danslesalgorithmes.net/stream/les-llm-degradent-profondement-vos-documents/">(Re)lier le web indépendant</a></li>
+</ul>
+<blockquote class="blockquote">
+<p>Il s’agit de créer un site qui privilégie une exploration non chronologique, comme un wiki personnel. On y partage ses notes, ses connaissances, et ses intérêts, mais aussi des liens vers d’autres contenus. Ainsi, la conceptualisation de ces sites relève du surfing plutôt que du retour au moteur de recherche.</p>
+</blockquote>
+</section>
+<section id="vu" class="level2">
+<h2 class="anchored" data-anchor-id="vu">Vu</h2>
+<ul>
+<li><p><a href="https://archives.valdemarne.fr/patrimoine-et-histoire/decouvrez-nos-productions-audiovisuelles">Les productions vidéos du AD du Val-de-Marne</a>. A l’occasion de la <a href="https://www.archivistes.org/agenda/3e-rencontres-du-groupe-archives-audiovisuelles/">3e Rencontres du groupe Archives audiovisuelles – Soyez sympas, rem-Bobigny !</a> je découvre cette page très riche.</p></li>
+<li><p><a href="https://www.arte.tv/fr/videos/126484-047-A/tracks/">Off Grid</a> : Un exemple de l’importance de l’infrastructure et des options pour sortir des logiques de centralisation.</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Comment communiquer quand on ne veut pas passer par Internet ou la 5G ? Les réseaux maillés, ou mesh networks, utilisent les ondes radio pour tisser des chaînes de communication parallèles.</p>
+</blockquote>
+</section>
+<section id="entendu" class="level2">
+<h2 class="anchored" data-anchor-id="entendu">Entendu</h2>
+<ul>
+<li><p>Chez quoi de neuf en histoire, <a href="https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-151-le-racisme-scientifique-et-medical">“Le racisme scientifique et médical”</a>, par Elodie Edwards-Grossi et Delphine Peiretti-Courtis.</p></li>
+<li><p>Chez Paroles d’histoire, <a href="https://parolesdhistoire.fr/index.php/2026/05/20/431-une-histoire-du-supremacisme-sudiste-aux-etats-unis-avec-nicolas-martin-breteau/">Une histoire du suprémacisme sudiste aux États-Unis</a>, avec Nicolas Martin-Breteau.</p></li>
+<li><p><a href="https://www.peripherie.asso.fr/observatoires-documentaires/projets-realises-et-en-cours/archives-departementales-de-la-seine-saint-denis/">Observatoire documentaire aux Archives départementales de la Seine-Saint-Denis</a> à lire et donc la <a href="https://www.peripherie.asso.fr/wp-content/uploads/2024/10/montage-a-d-010725-mp3-pour-la-diffusion-de-podcasts-audio.mp3">version sonore.</a></p></li>
+</ul>
+<blockquote class="blockquote">
+<p>Comment pense-t-on l’Archive et les métiers qui s’articulent autour de l’archive à l’ère du numérique sur un territoire comme celui de la Seine-Saint-Denis ? Comment appréhende-t-on les questions patrimoniales d’aujourd’hui et de demain ? L’idée étant de prendre la mesure des enjeux qui se jouent dans un tel lieu, aussi bien pour le département, les chercheurs, les habitants que pour celles et ceux qui y travaillent. Ce regard de l’intérieur permettrait de valoriser le travail de collecte, de conservation (indexation, conditions de conservation, numérisation, restauration…) et de mise à disposition des archives auprès des chercheurs, du public…</p>
+</blockquote>
+
+
+</section>
+
+ ]]></description>
+  <category>Archives</category>
+  <category>Colonisation</category>
+  <category>Histoire</category>
+  <category>IA</category>
+  <category>Infrastructure</category>
+  <category>Postcolonial</category>
+  <category>Web</category>
+  <category>Marseille</category>
+  <guid>https://macgraveur.github.io/mapage/veille/mai2026/</guid>
+  <pubDate>Wed, 03 Jun 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://macgraveur.github.io/mapage/veille/mai2026/Floreal.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Avril 2026</title>
   <link>https://macgraveur.github.io/mapage/veille/avril2026/</link>
@@ -1349,50 +1411,6 @@ Attention image de charnier
  ]]></description>
   <guid>https://macgraveur.github.io/mapage/blocnotes/mecanographie_IA/20251211_archivesmecano.html</guid>
   <pubDate>Tue, 25 Mar 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mars Imperium, lancement du portail</title>
-  <dc:creator>Julien Benedetti</dc:creator>
-  <link>https://macgraveur.github.io/mapage/blocnotes/marsimperium/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="mars-imperium-lancement-du-portail" class="level1">
-<h1>Mars Imperium, lancement du portail</h1>
-<p>Pour accéder au site c’est <a href="https://marsimperium.org/">ici</a> et pour le replay de la soirée c’est <a href="https://www.youtube.com/watch?v=DWhoPMc-tpQ&amp;ab_channel=Mus%C3%A9esdeMarseille">là</a></p>
-<section id="présentation-générale" class="level2">
-<h2 class="anchored" data-anchor-id="présentation-générale">Présentation générale :</h2>
-<ul>
-<li><p><strong>Céline Regnard</strong>. Le projet existe car l’équipe pense qu’il y a une demande sociale, notamment car il concerne un patrimoine encore présent à Marseille. Il y a une demande d’histoire. Volonté de ne pas produire un ouvrage avec comme objectif d’ouvrir son accès à un plus grand nombre de personnes. Constat que si les contenus ou des connaissances existent sur Marseille colonial, il n’y avait pas de lieu de concentration. Le projet a aussi produit de nouvelles connaissances. Le portail a aussi pour but de proposer des contenus pour transmettre et enseigner.</p></li>
-<li><p><strong>Xavier Daumalin</strong>. Le projet était ambitieux, il a donc fallu réunir une équipe robuste, quaqsi 70 personnes, et de nombreux partenaires. Les recherches menées dans les différentes institutions vont permettre d’ouvrir des travaux pour plusieurs années. L’une des ambitions était de rentrer en raisonnace avec la société, ne pas s’adresser seulement aux spécialistes.</p></li>
-<li><p><strong>Delphine Cavallo</strong>. La conception du portail a eu comme enjeu de donner une représentation simple a un sujet et des ressources complexes et variées. L’équipe technique a été composé de quatre personnes. Un important travail sur les aspects graphiques et design a été mené. Le portail réuni cinq plateformes, chacun ayant sa propre logique en lien avec ses contenus.</p></li>
-</ul>
-</section>
-<section id="présentation-des-différents-portails" class="level2">
-<h2 class="anchored" data-anchor-id="présentation-des-différents-portails">Présentation des différents portails</h2>
-<ul>
-<li><p><strong>Webdocumentaire et capsules vidéos</strong>. Le webdocumentaire comprends à la fois de la vidéos mais aussi des éléments interactifs. Les 81 capsules vidéos produites représentent environ 7h de contenus. Ont été réunis des historiens mais aussi des artistes, des archivistes ou des militants. Les capsules sont souvent enrichi des productions textuelles.</p></li>
-<li><p><strong>Focus 1922</strong>. Il s’agit d’un film de 52 mn sur l’exposition coloniale de Marseille de 1922. Le premier constat est que cette exposition a laissé peu de traces dans l’espace urbain, alors qu’il a produit un grand nombre d’images. Le documentaire cherche a remettre dans son contexte l’exposition coloniale. Ce documentaire n’est pas seulement une mise en valeur de recherches mais est aussi création de nouvelles avancées.</p></li>
-<li><p><strong>Balades numériques</strong>. Ces ballades ont été conçues par l’association Ancrages. Ces lieux sont liés à la souffrance et à la violence. Dans la démarche d’Ancrages la reconnaissance des personnes concernées par cette histoire est primordiale.</p></li>
-<li><p><strong>Vitrines d’emprire</strong>. C’est un travail sur le musée coloniale de Marseille (1893-1962). Ce musée montre l’importance du scientifique dans l’histoire coloniale, notamment dans les sciences naturelles. Il ne s’agit pas de reconstitué le musée mais de présenter à travers 40 pièces ce qui est était montré dans ce musée. Les biographies des objets ont été complexes par manque d’information, certains sont pauvres en information d’origine. La question de la restitution des oeuvres est abordée.</p></li>
-<li><p><strong>Médiathèque</strong>. Cette partie rassemble l’ensemble des documents utilisés par le projet mais aussi les productions. Important travail de cataloguage en utilisant des métadonnées existantes mais aussi en les enrichissants.</p></li>
-<li><p><strong>Parcours fléchés</strong>. Le choix a été fait de faire en avant certains thèmes qui ont émergés au fil de la recherche et du projet.</p></li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>empire</category>
-  <category>colonisation</category>
-  <category>décolonisation</category>
-  <category>Marseille</category>
-  <guid>https://macgraveur.github.io/mapage/blocnotes/marsimperium/</guid>
-  <pubDate>Mon, 10 Mar 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://macgraveur.github.io/mapage/blocnotes/marsimperium/logo_marsimperium.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,47 @@
+---
+categories:
+- Archives 
+- Colonisation
+- Histoire
+- IA
+- Infrastructure
+- Postcolonial
+- Web
+- Marseille
+date : 06-04-2026
+title: Mai 2026
+image: Floreal.jpg
+---
+Une veille plus restreinte et sélective. Deux raisons à cela. Moins d'informations ont attiré mon attention et avec les beaux jours et les ponts de mai j'ai consacré moins de temps à la veille.
+
+
+## Lu
+
+* [Marseille. Sur les traces de l’empire colonial](https://orientxxi.info/Marseille-Un-passe-colonial-omnipresent-mais-illisible)
+
+* [Les LLM dégradent profondément vos documents](https://www.curseurs.be/numeros/numero-5/article/re-lier-le-web-independant)
+
+> Dans vos slides, votre « environ 30% » va devenir « 30% »… puis « 20% ». Dans un contrat, « sous certaines conditions » s’efface. « Après signature » devient « avant signature »… Non seulement les erreurs s’accumulent, mais elles interagissent : « une corruption précoce modifie le contexte, ce qui décale les résultats suivants, et ainsi de suite ».
+
+* [(Re)lier le web indépendant](https://danslesalgorithmes.net/stream/les-llm-degradent-profondement-vos-documents/)
+
+> Il s’agit de créer un site qui privilégie une exploration non chronologique, comme un wiki personnel. On y partage ses notes, ses connaissances, et ses intérêts, mais aussi des liens vers d’autres contenus. Ainsi, la conceptualisation de ces sites relève du surfing plutôt que du retour au moteur de recherche.
+
+## Vu
+
+* [Les productions vidéos du AD du Val-de-Marne](https://archives.valdemarne.fr/patrimoine-et-histoire/decouvrez-nos-productions-audiovisuelles). A l'occasion de la [3e Rencontres du groupe Archives audiovisuelles – Soyez sympas, rem-Bobigny !](https://www.archivistes.org/agenda/3e-rencontres-du-groupe-archives-audiovisuelles/) je découvre cette page très riche.
+
+
+* [Off Grid ](https://www.arte.tv/fr/videos/126484-047-A/tracks/) : Un exemple de l'importance de l'infrastructure et des options pour sortir des logiques de centralisation.
+
+> Comment communiquer quand on ne veut pas passer par Internet ou la 5G ? Les réseaux maillés, ou mesh networks, utilisent les ondes radio pour tisser des chaînes de communication parallèles.
+
+## Entendu
+
+* Chez quoi de neuf en histoire, ["Le racisme scientifique et médical"](https://podcast.ausha.co/quoi-de-neuf-en-histoire/episode-151-le-racisme-scientifique-et-medical), par Elodie Edwards-Grossi et Delphine Peiretti-Courtis.
+
+* Chez Paroles d'histoire, [Une histoire du suprémacisme sudiste aux États-Unis](https://parolesdhistoire.fr/index.php/2026/05/20/431-une-histoire-du-supremacisme-sudiste-aux-etats-unis-avec-nicolas-martin-breteau/), avec Nicolas Martin-Breteau.
+
+* [Observatoire documentaire aux Archives départementales de la Seine-Saint-Denis](https://www.peripherie.asso.fr/observatoires-documentaires/projets-realises-et-en-cours/archives-departementales-de-la-seine-saint-denis/) à lire et donc la [version sonore.](https://www.peripherie.asso.fr/wp-content/uploads/2024/10/montage-a-d-010725-mp3-pour-la-diffusion-de-podcasts-audio.mp3)
+
+> Comment pense-t-on l’Archive et les métiers qui s’articulent autour de l’archive à l’ère du numérique sur un territoire comme celui de la Seine-Saint-Denis ? Comment appréhende-t-on les questions patrimoniales d’aujourd’hui et de demain ? L’idée étant de prendre la mesure des enjeux qui se jouent dans un tel lieu, aussi bien pour le département, les chercheurs, les habitants que pour celles et ceux qui y travaillent. Ce regard de l’intérieur permettrait de valoriser le travail de collecte, de conservation (indexation, conditions de conservation, numérisation, restauration…) et de mise à disposition des archives auprès des chercheurs, du public…

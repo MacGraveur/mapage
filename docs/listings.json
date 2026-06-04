@@ -2,6 +2,7 @@
   {
     "listing": "/veille/index.html",
     "items": [
+      "/veille/mai2026/index.html",
       "/veille/avril2026/index.html",
       "/veille/mars2026/index.html",
       "/veille/fevrier2026/index.html",
@@ -49,6 +50,7 @@
     "items": [
       "/veille/index.html",
       "/blocnotes/index.html",
+      "/veille/mai2026/index.html",
       "/veille/avril2026/index.html",
       "/blocnotes/noiag/index.html",
       "/veille/mars2026/index.html",
