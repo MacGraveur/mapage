@@ -1,0 +1,74 @@
+---
+categories:
+- Colonisation
+- Shoah
+- IA
+- Archivistique
+
+date : 07-04-2026
+title: Juin 2026
+image: Prairial.jpg
+---
+
+Avant une trève estiale bien méritée et après une longue canicule voici la veille du mois de juin. Un peu de technocritique mais à la relecture je vois que ces derniers temps de nombreux sujets coloniaux ou post-coloniaux émergent, notamment à travers la thématique de la réparation et de la restitution. Bonne lecture et on se retrouve en septembre.
+
+
+## LU
+
+* [Le site mémorial du Camp des Milles veut entrer au patrimoine mondial de l’Unesco ](https://madeinmarseille.net/made-in-sud/202558-le-site-memorial-du-camp-des-milles-veut-entrer-au-patrimoine-mondial-de-lunesco/)
+
+> Et au-delà du travail de mémoire, la Fondation du Camp des Milles inscrit son action dans une démarche éducative plus large, qui vise à éclairer aux enjeux d’aujourd’hui et à prévenir les dérives contemporaines.
+
+* [Proposition de label « Sans-IAg » pour des formations universitaires](https://blogs.mediapart.fr/scientifiques-en-rebellion/blog/010626/proposition-de-label-sans-iag-pour-des-formations-universitaires)
+
+> Selon un point de vue couramment entendu sur les campus, l’IAg devrait être utilisée plus largement, partant du principe qu’il est au fond facile de séparer les « bons » et les « mauvais » usages. Nous pensons au contraire que les problèmes listés précédemment constituent une menace suffisante pour l’enseignement supérieur et la recherche, tant au niveau de ses missions que de ses valeurs.
+
+* Dans le même sens et que vous pouvez signer [Appel du 18 juin - Plaidoyer pour un label "Sans-IAg" dans l’enseignement, la culture, le journalisme, la recherche et les entreprises](https://framaforms.org/appel-du-18-juin-plaidoyer-pour-un-label-sans-iag-dans-lenseignement-la-culture-le-journalisme-la)
+
+> Nous proposons donc qu’un label Sans-IAg émerge rapidement partout où des personnes, des collectifs, des journaux, des laboratoires, des formations ou des entreprises prennent l’engagement de ne pas utiliser l’IAg dans leur pratique professionnelle. Ce label serait basé sur la confiance entre des humains.
+
+* [Quel récit historique pour les violences coloniales ?](https://laviedesidees.fr/Quel-recit-historique-pour-les-violences-coloniales)
+
+> Se pose plus encore la question de la place des Algériens dans cette histoire de la violence. On entend rarement la voix des Algériens et Algériennes, combattants ou civils, dans les archives françaises du XIXe siècle.
+
+* [Le Parlement entérine la restitution à la Guyane des restes de six Amérindiens, exhibés dans des « zoos humains »](https://lemonde.fr/politique/article/2026/06/15/le-parlement-enterine-la-restitution-a-la-guyane-des-restes-de-six-amerindiens-exhibes-dans-des-zoos-humains_6703254_823448.html)
+
+> La loi adoptée lundi ne concerne que les dépouilles de ces six Amérindiens. Jean-Victor Castor espère toutefois qu’elle ouvrira « la voie » à toutes les autres demandes de restitutions provenant des territoires ultramarins. Il rappelle que plus « de 23 000 restes humains » sont conservés rien qu’au Musée de l’homme et appelle à mobiliser les moyens pour les identifier.
+
+* [LOI n° 2026-555 du 29 juin 2026 visant à réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054340930)
+
+> La commission est composée de quinze membres, choisis principalement en raison de leurs connaissances ou de leurs qualifications relatives à l'histoire de La Réunion et de la politique de transplantation d'enfants en France hexagonale. Au moins quatre de ses membres sont des anciens mineurs de La Réunion transplantés, dont deux résidant en France hexagonale et deux résidant à La Réunion.
+
+* [Classés sans suite](https://classes-sans-suite.com/) - Ce que la justice a choisi d'oublier. 
+
+> Ce que nous construisons ensemble — une cartographie et une archive réelles et irréfutables des violences sexuelles en France — reste intact.
+
+## Vu
+
+* [Une agglomération antique à Gémenos (Bouches-du-Rhône)](https://www.inrap.fr/une-agglomeration-antique-gemenos-bouches-du-rhone-20750)
+
+* [Patrick Chastenet - Jacques Ellul, entre technique et liberté](https://youtu.be/IAB1gdbpAbo)
+
+> Patrick Chastenet vous présente l'ouvrage "Jacques Ellul, entre technique et liberté" aux éditions Bouquins Mollat. Entretien avec Pierre Coutelle.
+
+* [Fête Foraine en région Auvergne Rhône Alpes 1](https://25images.msh-lse.fr/portails/projet-ffaur1/). Tournage aux Archives du département du Rhône et de la métropole de Lyon.
+
+> Le projet FFAUR1 propose la première étude d’ampleur de la fête foraine en France depuis la Révolution française jusqu’à la Première Guerre mondiale en se focalisant sur la région Auvergne/Rhône-Alpes (AURA). 
+
+## Entendu
+
+* Chez France Culture, [Polynésie : enseigner le fait nucléaire pour réconcilier les mémoires](https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/polynesie-enseigner-le-fait-nucleaire-pour-reconcilier-les-memoires-2091350)
+
+> Entre 1966 et 1996, en Polynésie Française, la France a fait exploser 193 bombes nucléaires, dont 46 en plein air. Depuis 2024, la transmission de cet héritage historique fait partie des programmes scolaires mais peu d'enseignants se risquent à faire cours sur ce sujet, socialement trop sensible. 
+
+* Chez Grand reportage, [Généalogie : des archives aux tests génétiques](https://www.radiofrance.fr/franceculture/podcasts/serie-genealogie-des-archives-aux-tests-genetiques). Un focus sur le dernier volet, qui me rappel le travail de Calimaq sur [la dimension collective des données personnelles](https://scinfolex.com/2014/07/19/comment-sortir-du-paradigme-individualiste-en-matiere-de-donnees-personnelles/).
+
+> "Il faut aussi comprendre qu'un utilisateur ou une utilisatrice de ces tests prend une décision non seulement pour lui-même, mais aussi pour toute sa famille biologiques, passées, présentes ou futures, qui peuvent faire l'objet d'une enquête de police sans le savoir. Cela concerne toute la famille biologique", prévient la spécialiste.
+
+* [Colonisations et décolonisations : quels impacts aujourd’hui ? ](https://www.radiofrance.fr/franceculture/podcasts/l-esprit-public/colonisations-et-decolonisations-quels-impacts-aujourd-hui-5035863)
+
+> Un présent qui nous ramène des siècles en arrière quand l’Europe se partageait le gâteau du monde, présente sur tous les continents. les Empires conquérants, idéologiquement assumés : la colonisation qui a duré 5 siècles. Réduite en quelques décennies. Les décolonisations bien plus récentes, encore en mémoire, vécues pour certains, transmises, oubliées ou refoulées. Comme un mauvais souvenir, non traité ?
+
+* [Double dose](https://shows.acast.com/archivistica) de Damien Hamard chez Archivistica et c'est un régal. Si vous ne l'avez pas déjà écouté, foncez !
+
+> L’archiviste peut tout faire mais peut ne pas tout faire. Profession à la licence implicite on se demande ici qu’est ce qui fait qu’on se considère ou non comme archiviste.
