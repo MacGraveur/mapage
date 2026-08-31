@@ -3,7 +3,7 @@ categories:
 - Technocritique
 - Technoféodalisme
 - Technofascisme
-date : 12-20-2025
+date : 08-31-2026
 title: Hors-série Technowhatever
 image: technowhatever.gif
 ---
@@ -75,3 +75,9 @@ Texte long mais très précieux, puisque contrairement aux autres, il cherche d�
 ## Technosolusionist
 
 * [GiscardPunk - late 70's and 1980's technosolutionist France (synthwave edit)](https://www.youtube.com/watch?v=KKhnDzRgsW8)
+
+## Technonegativité
+
+* [L'IA IMPOSÉE à tous : faut-il assumer le REFUS, voire le SABOTAGE ?](https://www.youtube.com/watch?v=IAI8wHNJTDA)
+
+> Dans son essai Techno-Negative. The Long History of Refusing the Machines (University of Minnesota Press, non-traduit, 2026), le chercheur en géographie numérique Thomas Dekeyser propose d'investir la notion de "techno-négativité" comme un antidote au techno-solutionnisme. 
